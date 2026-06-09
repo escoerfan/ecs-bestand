@@ -1,28 +1,76 @@
 import json
+import urllib.request
+import urllib.error
+import base64
+import os
 from datetime import datetime, timezone
 
-# raw.json einlesen (vom curl-Schritt gespeichert)
-with open('raw.json', 'r', encoding='utf-8') as f:
-    raw_text = f.read()
+# Zugangsdaten aus Umgebungsvariablen
+user = os.environ.get('MOBILE_USER', '')
+password = os.environ.get('MOBILE_PASS', '')
 
-try:
-    raw = json.loads(raw_text)
-except Exception as e:
-    output = {
-        'error': str(e),
-        'raw_preview': raw_text[:200],
-        'updated': datetime.now(timezone.utc).isoformat(),
-        'count': 0,
-        'vehicles': []
-    }
+# Basic Auth Header
+credentials = base64.b64encode(f'{user}:{password}'.encode()).decode()
+headers = {
+    'Accept': 'application/vnd.de.mobile.api+json',
+    'Authorization': f'Basic {credentials}'
+}
+
+def api_get(url):
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        with urllib.request.urlopen(req) as response:
+            return json.loads(response.read().decode('utf-8'))
+    except urllib.error.HTTPError as e:
+        body = e.read().decode('utf-8')
+        print(f"HTTP Fehler {e.code} bei {url}: {body[:300]}")
+        return None
+    except Exception as e:
+        print(f"Fehler bei {url}: {e}")
+        return None
+
+# Schritt 1: Alle Seller abrufen
+print("Rufe Seller-Liste ab...")
+sellers_data = api_get('https://services.mobile.de/seller-api/sellers')
+
+if not sellers_data:
+    print("Fehler: Keine Seller-Daten erhalten.")
+    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
     with open('bestand.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"JSON-Fehler: {e}")
     exit(0)
 
-ads_raw = raw.get('ads', [])
-result = []
+print(f"Seller Response: {json.dumps(sellers_data)[:500]}")
 
+sellers = sellers_data.get('sellers', [])
+if not sellers:
+    print("Keine Seller gefunden.")
+    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
+    with open('bestand.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    exit(0)
+
+# Erste Seller-ID verwenden
+seller_id = sellers[0]['mobileSellerId']
+print(f"Verwende mobileSellerId: {seller_id}")
+
+# Schritt 2: Inserate abrufen
+print(f"Rufe Inserate für Seller {seller_id} ab...")
+ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads')
+
+if not ads_data:
+    print("Fehler: Keine Inserate-Daten erhalten.")
+    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
+    with open('bestand.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    exit(0)
+
+print(f"Ads Response (erste 500 Zeichen): {json.dumps(ads_data)[:500]}")
+
+ads_raw = ads_data.get('ads', [])
+print(f"Anzahl Inserate: {len(ads_raw)}")
+
+result = []
 for ad in ads_raw:
     vehicle = ad.get('ad', ad)
 
@@ -97,4 +145,4 @@ output = {
 with open('bestand.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"Gespeichert: {len(result)} Fahrzeuge")
+print(f"Fertig: {len(result)} Fahrzeuge gespeichert.")
