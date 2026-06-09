@@ -1,0 +1,125 @@
+name: Fahrzeugbestand abrufen
+
+on:
+  schedule:
+    # Läuft täglich um 07:00 Uhr
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+    # Erlaubt manuelles Starten per Klick in GitHub
+
+jobs:
+  fetch-bestand:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Fahrzeugbestand von Mobile.de abrufen
+        env:
+          MOBILE_USER: ${{ secrets.MOBILE_USER }}
+          MOBILE_PASS: ${{ secrets.MOBILE_PASS }}
+        run: |
+          SELLER_ID="ELEGANCECARSAFI"
+
+          echo "Verwende Seller ID: $SELLER_ID"
+
+          # Alle Inserate abrufen
+          ADS_RESPONSE=$(curl -s \
+            -u "$MOBILE_USER:$MOBILE_PASS" \
+            -H "Accept: application/vnd.de.mobile.api+json" \
+            "https://services.mobile.de/seller-api/sellers/$SELLER_ID/ads")
+
+          echo "API Antwort (erste 500 Zeichen): $(echo "$ADS_RESPONSE" | head -c 500)"
+
+          # JSON aufbereiten und speichern
+          echo "$ADS_RESPONSE" | python3 << 'PYEOF'
+import sys, json
+from datetime import datetime, timezone
+
+raw_text = sys.stdin.read()
+
+try:
+    raw = json.loads(raw_text)
+except Exception as e:
+    print(json.dumps({"error": str(e), "updated": datetime.now(timezone.utc).isoformat(), "count": 0, "vehicles": []}))
+    sys.exit(0)
+
+ads_raw = raw.get('ads', [])
+
+result = []
+for ad in ads_raw:
+    vehicle = ad.get('ad', ad)
+
+    # Preis
+    price_obj = vehicle.get('price', {})
+    price = price_obj.get('consumerPriceGross', price_obj.get('dealerPriceGross', '')) if isinstance(price_obj, dict) else ''
+
+    # Kilometerstand
+    mileage = vehicle.get('mileage', {})
+    km = mileage.get('value', '') if isinstance(mileage, dict) else mileage
+
+    # Erstzulassung
+    reg = vehicle.get('firstRegistration', '')
+
+    # Titel
+    make = vehicle.get('make', {})
+    make_name = make.get('displayName', '') if isinstance(make, dict) else str(make)
+    model = vehicle.get('model', {})
+    model_name = model.get('displayName', '') if isinstance(model, dict) else str(model)
+    title = f'{make_name} {model_name}'.strip() or vehicle.get('title', 'Fahrzeug')
+
+    # Beschreibung
+    description = vehicle.get('description', '')
+    if isinstance(description, dict):
+        description = description.get('value', '')
+
+    # Bilder
+    images = []
+    imgs = vehicle.get('images', {})
+    img_list = imgs.get('images', []) if isinstance(imgs, dict) else (imgs if isinstance(imgs, list) else [])
+    for img in img_list[:6]:
+        ref = img.get('ref', '') if isinstance(img, dict) else str(img)
+        if ref:
+            images.append(ref)
+
+    # Fahrzeugklasse
+    cat = vehicle.get('category', {})
+    cat_name = cat.get('displayName', '') if isinstance(cat, dict) else str(cat)
+
+    # Ad-ID
+    ad_id = vehicle.get('id', '')
+
+    result.append({
+        'id': str(ad_id),
+        'title': title,
+        'make': make_name,
+        'model': model_name,
+        'price': str(price),
+        'km': str(km),
+        'firstRegistration': str(reg),
+        'description': str(description)[:300],
+        'images': images,
+        'category': cat_name,
+        'mobileUrl': f'https://www.mobile.de/fahrzeuge/details.html?id={ad_id}' if ad_id else ''
+    })
+
+output = {
+    'updated': datetime.now(timezone.utc).isoformat(),
+    'count': len(result),
+    'vehicles': result
+}
+
+with open('bestand.json', 'w', encoding='utf-8') as f:
+    json.dump(output, f, ensure_ascii=False, indent=2)
+
+print(f"Gespeichert: {len(result)} Fahrzeuge")
+PYEOF
+
+      - name: JSON-Datei committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add bestand.json
+          git diff --staged --quiet || git commit -m "Bestand aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
