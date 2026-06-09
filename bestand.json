@@ -1,5 +1,186 @@
 {
-  "updated": "2026-06-09T22:02:27.412768+00:00",
-  "count": 0,
-  "vehicles": []
+  "updated": "2026-06-09T22:24:29.625858+00:00",
+  "count": 9,
+  "vehicles": [
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "10591.00",
+      "km": "890000",
+      "firstRegistration": "200905",
+      "description": "**Ausstattung:**\\\\\\\\* Automatikgetriebe\\\\* Fahrer-Klimaanlage\\\\* Standheizung\\\\* Reifenprofil ca. 80 %\\\\* TÜV 07.2026\\\\* EUR0 5 EEV\\\\\\\\**Sonderausstattung:\\\\**\\\\* Gepflegter Gesamtzustand\\\\* Ideal für Linienverkehr oder Umbauprojekte\\\\**\\\\Sonstiges:**\\\\\\\\* Fahrzeug sofort einsatzbereit\\\\* Sehr guter",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/dd2b467a-4f9d-4856-86e4-0b54959a37e7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2e/2e20e08e-db5c-41b0-affb-dc07fbacfae1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fb/fbdecb82-8e2f-45ca-bae1-02301a85dab2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a520554-7f97-4cc7-b879-88e0bc9cb632?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/08/086c4a29-68fe-473d-90a9-c82377a0c724?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea863491-a7b6-432e-9f3a-c7fd3627a46f?rule=mo-640.jpg"
+      ],
+      "category": "PublicServiceVehicleBus",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MAN",
+      "make": "MAN",
+      "model": "",
+      "price": "42721.00",
+      "km": "470000",
+      "firstRegistration": "201811",
+      "description": "**MAN 18.500 TGX Allrad 4x4, Aus erster Hand\\\\\\\\\\\\Ausstattung:*** Klimaanlage\\\\* Vorderachse: Blattfedern\\\\* Hinterachse: Luftfederung\\\\* Standheizung\\\\\\\\\\\\**Sonderausstattung:*** Scheckheftgepflegt bei MAN\\\\\\\\\\\\**Sonstiges:*** Mechanisches Allrad (kein Hydro)\\\\* Ohne Mulde\\\\\\\\\\\\\\\\Für Rückfragen ode",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/33/33d74c84-bd60-4aa4-8de0-f627b34549b6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/20/206af78b-4a5a-4b52-8fb0-32307160058d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/64/64aef835-ad80-4b32-8404-bf3e4f5eb215?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/43/433d5f6c-af7a-4edc-a5c4-ea049fd2f46c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/35/35828d59-9a81-42de-a2ab-cdf117f66f13?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/62/6231d6dc-aaf8-4f87-aa35-c5ffa93982ed?rule=mo-640.jpg"
+      ],
+      "category": "StandardTractorAndTrailerUnit",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "35581.00",
+      "km": "228000",
+      "firstRegistration": "201809",
+      "description": "**MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6 **\\\\**\\\\Ausstattung:**\\\\\\\\* elektrische Rolltore\\\\* 2-Kammer-Tiefkühlaufbau\\\\* Ladebordwand (LBW)\\\\* Klimaanlage\\\\* Elektrische Fensterheber\\\\* Rückfahrkamera\\\\* Servolenkung\\\\* EURO 6\\\\\\\\\\\\**Sonderausstattung:\\\\\\\\*** Deutsche Ausfüh",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d205832-6814-4fa8-a5fe-2f718d1fa096?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/22/221d8137-6380-472c-8cdd-66c0ada4000c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/80/80893e3b-9531-4f07-8a15-f9bba8a9d390?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/71/71fd16d2-fe4c-45ff-ad8c-d954d026d1e1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/34/34c92eda-5e93-4f7e-970a-57a79bef955e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8d71ca9-a1b1-43b0-8bc8-2cdabf804db7?rule=mo-640.jpg"
+      ],
+      "category": "RefrigeratorBodyTruck",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "8925.00",
+      "km": "971000",
+      "firstRegistration": "200202",
+      "description": "**Ausstattung:*** 54 Sitzplätze\\\\* 33 Stehplätze\\\\* Schaltgetriebe\\\\* Kofferräume\\\\* Zielanzeige\\\\* Standheizung\\\\**\\\\\\\\Sonderausstattung:*** Keine Angabe\\\\**\\\\\\\\Sonstiges:*** Gepflegter Zustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298 **– per",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/31/31cd0d15-1d10-4a58-bafd-3bdb1b289c59?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4d91df31-684f-4ab7-a6bb-5b4db2adc402?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0d3eb86-c50b-470e-a041-44e0cc73f899?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2b/2b190176-d7c5-4baf-a798-2b1e50d635f4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/16/1613a674-158a-46bb-8555-c3643fd82d40?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a63fb609-b660-4b80-aca7-ad39fae2a742?rule=mo-640.jpg"
+      ],
+      "category": "CrossCountryBus",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MAN",
+      "make": "MAN",
+      "model": "",
+      "price": "14161.00",
+      "km": "678000",
+      "firstRegistration": "201212",
+      "description": "**MAN A78 Lions City EEV **\\\\\\\\\\\\**Ausstattung:*** ZF Automatikgetriebe\\\\* ABS\\\\* ASR\\\\* Elektrisch verstellbare Außenspiegel\\\\* Doppelverglasung\\\\* 44 Sitzplätze / 33 Stehplätze\\\\\\\\\\\\**Sonderausstattung:*** Fahrerklimaanlage\\\\* KAMERA\\\\* Retarder\\\\* Webasto Standheizung\\\\* LED Matrixanzeige\\\\* Radi",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb565018-5d81-4ee2-9380-30c2971128ee?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f6/f6e27ed6-24a0-4909-ba2d-06a237d668a6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6db8cf7-a462-4308-a8cd-fe927f95b7f1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/63/63279b87-33c9-4917-bc6e-07b8c065fa29?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7a/7a721885-9587-46c5-bb65-d6028c2705b6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c3/c31acc57-ae60-4d2a-83ff-3d417898c3a4?rule=mo-640.jpg"
+      ],
+      "category": "CrossCountryBus",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "30821.00",
+      "km": "432000",
+      "firstRegistration": "201810",
+      "description": "**MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6 **\\\\**\\\\Ausstattung:**\\\\\\\\* elektrische Rolltore\\\\* 2-Kammer-Tiefkühlaufbau\\\\* Ladebordwand (LBW)\\\\* Klimaanlage\\\\* Elektrische Fensterheber\\\\* Rückfahrkamera\\\\* Servolenkung\\\\* EURO 6\\\\\\\\\\\\**Sonderausstattung:\\\\\\\\*** Deutsche Ausfüh",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/be/be2e40eb-c2f7-49e4-80fb-5254cb2bbdcb?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e2e868d-c781-4959-b7f9-dc96c83cc461?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0c/0c6c2c8e-dd26-441e-908e-63a4a8f95b92?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1c/1c6f628e-b95a-4978-aa1b-4f537a29899e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/71/71fef2a0-317c-46ff-ae1b-d34583e04453?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a8/a89fe1dd-5ea1-4110-99cb-532af7b7a509?rule=mo-640.jpg"
+      ],
+      "category": "RefrigeratorBodyTruck",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "SCHMITZ",
+      "make": "SCHMITZ",
+      "model": "",
+      "price": "",
+      "km": "",
+      "firstRegistration": "201209",
+      "description": "**Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\* TÜV AUF WÜNSCH NEUE NACH VEREINBARUNG\\\\\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/fa/fa769a0f-96b7-4e75-8a96-680431d2f9b8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d1/d1542a19-c106-4738-a862-0fa478e6799a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e7/e76e7f2f-6336-4984-9125-aca9b4a0bd1a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/28/28ac8862-599b-473d-ae91-fab39900c3d3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c2/c291db37-34fa-425a-a132-d17f4b41bbb6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/14/143bd7a3-d5c8-4711-bbfa-e72104df04d3?rule=mo-640.jpg"
+      ],
+      "category": "TipperSemiTrailer",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "",
+      "km": "980000",
+      "firstRegistration": "201403",
+      "description": "**Mercedes-Benz Actros Sattelzugmaschine | Euro 6 | 4x verfügbar\\\\\\\\\\\\Ausstattung:\\\\\\\\*** Motor: OM 470, 10,7 L R6 Diesel, 290 kW\\\\* Getriebe: 12-Gang (G 211-12)\\\\* Fahrerhaus: ClassicSpace L, Breite 2,30 m, 1 Komfortliege\\\\* Federung: Blatt vorne / Luft hinten\\\\* Achskonfiguration: 4x2, Vorderachsl",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/ff/ffd4087a-43f5-4ef3-b64d-735f5eddc29a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f5/f5184775-1968-4803-a1e0-1f0f5b36b568?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/45/450a74de-6748-4b2c-9bd8-aa08a813a2b2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e5/e5232460-474b-476f-9cea-6800ffd9f360?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b5/b5811b0c-e985-4f72-b628-0d45b8d621ea?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/6a/6af2272d-5ea8-4e34-b288-27e1f68c30b5?rule=mo-640.jpg"
+      ],
+      "category": "StandardTractorAndTrailerUnit",
+      "mobileUrl": ""
+    },
+    {
+      "id": "",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "11781.00",
+      "km": "376000",
+      "firstRegistration": "201409",
+      "description": "**Mercedes-Benz Atego 818 Pritsche-Plane mit Edscha-Schiebeverdeck | Ladebordwand**\\\\\\\\**Ausstattung:*** Pritsche-Plane-Aufbau mit Edscha-Schiebeverdeck\\\\* Ladebordwand (LBW)\\\\* Luftfederung Hinterachse, Blattfederung Vorderachse\\\\* Schaltgetriebe\\\\* Servolenkung\\\\* Klimaanlage\\\\* Fahrerairbag\\\\* Ra",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/58/58cc9874-125b-41b0-9371-3f7f9ec323f5?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c9140ee-1f88-4bdc-b277-81b7a0a0a8e0?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/35/355be442-9665-488f-98e9-5e26b8b09bf5?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/78/7863ede4-b21a-462d-a581-35790da33d43?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/65/65fcfdbb-9840-4c0a-86e2-ff7027b85517?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/9b/9b34e2d0-401d-4a14-b5bf-2d1336a221a8?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyWithTarpaulinVan",
+      "mobileUrl": ""
+    }
+  ]
 }
