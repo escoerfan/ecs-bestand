@@ -9,7 +9,6 @@ from datetime import datetime, timezone
 user = os.environ.get('MOBILE_USER', '')
 password = os.environ.get('MOBILE_PASS', '')
 
-# Basic Auth Header
 credentials = base64.b64encode(f'{user}:{password}'.encode()).decode()
 headers = {
     'Accept': 'application/vnd.de.mobile.api+json',
@@ -23,52 +22,75 @@ def api_get(url):
             return json.loads(response.read().decode('utf-8'))
     except urllib.error.HTTPError as e:
         body = e.read().decode('utf-8')
-        print(f"HTTP Fehler {e.code} bei {url}: {body[:300]}")
+        print(f"HTTP Fehler {e.code} bei {url}")
+        print(f"Response: {body[:500]}")
         return None
     except Exception as e:
         print(f"Fehler bei {url}: {e}")
         return None
 
-# Schritt 1: Alle Seller abrufen
-print("Rufe Seller-Liste ab...")
+def save_empty(error_msg=''):
+    output = {
+        'updated': datetime.now(timezone.utc).isoformat(),
+        'count': 0,
+        'vehicles': [],
+        'error': error_msg
+    }
+    with open('bestand.json', 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+# Schritt 1: Seller-Liste abrufen
+print("=" * 50)
+print("Schritt 1: Seller-Liste abrufen")
 sellers_data = api_get('https://services.mobile.de/seller-api/sellers')
 
 if not sellers_data:
-    print("Fehler: Keine Seller-Daten erhalten.")
-    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
-    with open('bestand.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("FEHLER: Keine Antwort von Seller-Endpoint.")
+    print("Mögliche Ursachen: Falsche Zugangsdaten oder API nicht aktiviert.")
+    save_empty('Keine Antwort von der API')
     exit(0)
 
-print(f"Seller Response: {json.dumps(sellers_data)[:500]}")
+print(f"Vollständige Seller-Antwort:")
+print(json.dumps(sellers_data, ensure_ascii=False, indent=2))
 
 sellers = sellers_data.get('sellers', [])
 if not sellers:
-    print("Keine Seller gefunden.")
-    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
-    with open('bestand.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("FEHLER: Seller-Liste ist leer.")
+    save_empty('Keine Seller gefunden')
     exit(0)
 
-# Erste Seller-ID verwenden
-seller_id = sellers[0]['mobileSellerId']
-print(f"Verwende mobileSellerId: {seller_id}")
+# Alle Seller anzeigen
+print(f"\nGefundene Seller: {len(sellers)}")
+for s in sellers:
+    print(f"  mobileSellerId: {s.get('mobileSellerId')} | customerNumber: {s.get('customerNumber')} | Name: {s.get('companyName', '')}")
+
+# Seller mit customerNumber 39194176 suchen, sonst ersten nehmen
+seller_id = None
+for s in sellers:
+    if str(s.get('customerNumber', '')) == '39194176':
+        seller_id = s['mobileSellerId']
+        print(f"\nTreffer: customerNumber 39194176 -> mobileSellerId {seller_id}")
+        break
+
+if not seller_id:
+    seller_id = sellers[0]['mobileSellerId']
+    print(f"\nKeine Übereinstimmung mit 39194176, nehme ersten Seller: {seller_id}")
 
 # Schritt 2: Inserate abrufen
-print(f"Rufe Inserate für Seller {seller_id} ab...")
+print("=" * 50)
+print(f"Schritt 2: Inserate für Seller {seller_id} abrufen")
 ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads')
 
 if not ads_data:
-    print("Fehler: Keine Inserate-Daten erhalten.")
-    output = {'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': []}
-    with open('bestand.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    print("FEHLER: Keine Inserate-Daten erhalten.")
+    save_empty('Keine Inserate-Daten')
     exit(0)
 
-print(f"Ads Response (erste 500 Zeichen): {json.dumps(ads_data)[:500]}")
+print(f"Ads-Antwort (erste 800 Zeichen):")
+print(json.dumps(ads_data)[:800])
 
 ads_raw = ads_data.get('ads', [])
-print(f"Anzahl Inserate: {len(ads_raw)}")
+print(f"\nAnzahl Inserate: {len(ads_raw)}")
 
 result = []
 for ad in ads_raw:
@@ -145,4 +167,5 @@ output = {
 with open('bestand.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"Fertig: {len(result)} Fahrzeuge gespeichert.")
+print(f"\nFertig: {len(result)} Fahrzeuge in bestand.json gespeichert.")
+print("=" * 50)
