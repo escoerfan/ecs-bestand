@@ -5,7 +5,6 @@ import base64
 import os
 from datetime import datetime, timezone
 
-# Zugangsdaten aus Umgebungsvariablen
 user = os.environ.get('MOBILE_USER', '')
 password = os.environ.get('MOBILE_PASS', '')
 
@@ -22,105 +21,109 @@ def api_get(url):
             return json.loads(response.read().decode('utf-8'))
     except urllib.error.HTTPError as e:
         body = e.read().decode('utf-8')
-        print(f"HTTP Fehler {e.code} bei {url}")
-        print(f"Response: {body[:500]}")
+        print(f"HTTP Fehler {e.code}: {body[:300]}")
         return None
     except Exception as e:
-        print(f"Fehler bei {url}: {e}")
+        print(f"Fehler: {e}")
         return None
 
-def save_empty(error_msg=''):
-    output = {
-        'updated': datetime.now(timezone.utc).isoformat(),
-        'count': 0,
-        'vehicles': [],
-        'error': error_msg
-    }
+def save_empty(msg=''):
     with open('bestand.json', 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump({'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': [], 'error': msg}, f, ensure_ascii=False, indent=2)
 
-# Schritt 1: Seller-Liste abrufen
-print("=" * 50)
-print("Schritt 1: Seller-Liste abrufen")
+# Seller abrufen
 sellers_data = api_get('https://services.mobile.de/seller-api/sellers')
-
 if not sellers_data:
-    print("FEHLER: Keine Antwort von Seller-Endpoint.")
-    print("Mögliche Ursachen: Falsche Zugangsdaten oder API nicht aktiviert.")
-    save_empty('Keine Antwort von der API')
-    exit(0)
-
-print(f"Vollständige Seller-Antwort:")
-print(json.dumps(sellers_data, ensure_ascii=False, indent=2))
+    save_empty('Keine Seller-Antwort'); exit(0)
 
 sellers = sellers_data.get('sellers', [])
 if not sellers:
-    print("FEHLER: Seller-Liste ist leer.")
-    save_empty('Keine Seller gefunden')
-    exit(0)
+    save_empty('Keine Seller'); exit(0)
 
-# Alle Seller anzeigen
-print(f"\nGefundene Seller: {len(sellers)}")
-for s in sellers:
-    print(f"  mobileSellerId: {s.get('mobileSellerId')} | customerNumber: {s.get('customerNumber')} | Name: {s.get('companyName', '')}")
+seller_id = sellers[0]['mobileSellerId']
+print(f"Seller ID: {seller_id}")
 
-# Seller mit customerNumber 39194176 suchen, sonst ersten nehmen
-seller_id = None
-for s in sellers:
-    if str(s.get('customerNumber', '')) == '39194176':
-        seller_id = s['mobileSellerId']
-        print(f"\nTreffer: customerNumber 39194176 -> mobileSellerId {seller_id}")
-        break
-
-if not seller_id:
-    seller_id = sellers[0]['mobileSellerId']
-    print(f"\nKeine Übereinstimmung mit 39194176, nehme ersten Seller: {seller_id}")
-
-# Schritt 2: Inserate abrufen
-print("=" * 50)
-print(f"Schritt 2: Inserate für Seller {seller_id} abrufen")
+# Alle Ads abrufen (nur IDs)
 ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads')
-
 if not ads_data:
-    print("FEHLER: Keine Inserate-Daten erhalten.")
-    save_empty('Keine Inserate-Daten')
-    exit(0)
-
-print(f"Ads-Antwort (erste 800 Zeichen):")
-print(json.dumps(ads_data)[:800])
+    save_empty('Keine Ads'); exit(0)
 
 ads_raw = ads_data.get('ads', [])
-print(f"\nAnzahl Inserate: {len(ads_raw)}")
+print(f"Anzahl Ads: {len(ads_raw)}")
+
+# ERSTES Ad vollständig ausgeben zum Debuggen
+if ads_raw:
+    first = ads_raw[0]
+    print("ERSTER AD VOLLSTÄNDIG:")
+    print(json.dumps(first, ensure_ascii=False, indent=2)[:3000])
 
 result = []
 for ad in ads_raw:
+    # Versuche verschiedene Strukturen
     vehicle = ad.get('ad', ad)
+
+    # Debug: alle Keys ausgeben
+    print(f"Keys im vehicle: {list(vehicle.keys())[:20]}")
+
+    # Modell: verschiedene mögliche Felder probieren
+    model_raw = vehicle.get('model', {})
+    if isinstance(model_raw, dict):
+        model_name = (model_raw.get('displayName') or
+                      model_raw.get('description') or
+                      model_raw.get('name') or
+                      model_raw.get('key') or '')
+    else:
+        model_name = str(model_raw) if model_raw else ''
+
+    # Manche APIs geben model als String mit Key zurück
+    if not model_name:
+        # Versuche vehicleType, subcategory, bodyType
+        for field in ['vehicleType', 'subcategory', 'bodyType', 'type']:
+            val = vehicle.get(field, {})
+            if isinstance(val, dict):
+                model_name = val.get('displayName', val.get('key', ''))
+            elif val:
+                model_name = str(val)
+            if model_name:
+                break
+
+    # Marke
+    make_raw = vehicle.get('make', {})
+    if isinstance(make_raw, dict):
+        make_name = make_raw.get('displayName', make_raw.get('key', ''))
+    else:
+        make_name = str(make_raw) if make_raw else ''
 
     # Preis
     price_obj = vehicle.get('price', {})
     if isinstance(price_obj, dict):
-        price = price_obj.get('consumerPriceGross', price_obj.get('dealerPriceGross', ''))
+        price = price_obj.get('consumerPriceGross', price_obj.get('dealerPriceGross', price_obj.get('value', '')))
     else:
-        price = ''
+        price = str(price_obj) if price_obj else ''
 
-    # Kilometerstand
+    # KM
     mileage = vehicle.get('mileage', {})
     km = mileage.get('value', '') if isinstance(mileage, dict) else mileage
 
     # Erstzulassung
     reg = vehicle.get('firstRegistration', '')
 
-    # Titel
-    make = vehicle.get('make', {})
-    make_name = make.get('displayName', '') if isinstance(make, dict) else str(make)
-    model = vehicle.get('model', {})
-    model_name = model.get('displayName', '') if isinstance(model, dict) else str(model)
-    title = f'{make_name} {model_name}'.strip() or vehicle.get('title', 'Fahrzeug')
-
-    # Beschreibung
+    # Titel aus Beschreibung (erste fette Zeile)
     description = vehicle.get('description', '')
     if isinstance(description, dict):
         description = description.get('value', '')
+
+    def extract_title(desc, make, model):
+        if desc:
+            clean = str(desc).replace('**','').replace('\\\\','|').replace('\\','').strip()
+            for line in clean.split('|'):
+                line = line.strip()
+                if line and 3 < len(line) < 90 and not line.startswith('*'):
+                    return line
+        parts = [p for p in [make, model] if p]
+        return ' '.join(parts) if parts else 'Fahrzeug'
+
+    title = extract_title(description, make_name, model_name)
 
     # Bilder
     images = []
@@ -131,7 +134,6 @@ for ad in ads_raw:
         img_list = imgs
     else:
         img_list = []
-
     for img in img_list[:6]:
         ref = img.get('ref', '') if isinstance(img, dict) else str(img)
         if ref:
@@ -139,10 +141,13 @@ for ad in ads_raw:
 
     # Kategorie
     cat = vehicle.get('category', {})
-    cat_name = cat.get('displayName', '') if isinstance(cat, dict) else str(cat)
+    cat_name = cat.get('displayName', cat.get('key', '')) if isinstance(cat, dict) else str(cat)
 
-    # Ad-ID
-    ad_id = vehicle.get('id', '')
+    # Ad-ID (verschiedene Felder versuchen)
+    ad_id = (vehicle.get('id') or vehicle.get('mobileAdId') or
+             ad.get('id') or ad.get('mobileAdId') or '')
+
+    mobile_url = f'https://www.mobile.de/fahrzeuge/details.html?id={ad_id}' if ad_id else ''
 
     result.append({
         'id': str(ad_id),
@@ -152,10 +157,10 @@ for ad in ads_raw:
         'price': str(price),
         'km': str(km),
         'firstRegistration': str(reg),
-        'description': str(description)[:300],
+        'description': str(description)[:400],
         'images': images,
         'category': cat_name,
-        'mobileUrl': f'https://www.mobile.de/fahrzeuge/details.html?id={ad_id}' if ad_id else ''
+        'mobileUrl': mobile_url
     })
 
 output = {
@@ -167,5 +172,4 @@ output = {
 with open('bestand.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"\nFertig: {len(result)} Fahrzeuge in bestand.json gespeichert.")
-print("=" * 50)
+print(f"Fertig: {len(result)} Fahrzeuge gespeichert.")
