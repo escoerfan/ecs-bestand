@@ -17,17 +17,7 @@ jobs:
         env:
           MOBILE_USER: ${{ secrets.MOBILE_USER }}
           MOBILE_PASS: ${{ secrets.MOBILE_PASS }}
-        run: |
-          curl -s \
-            -u "$MOBILE_USER:$MOBILE_PASS" \
-            -H "Accept: application/vnd.de.mobile.api+json" \
-            "https://services.mobile.de/seller-api/sellers/ELEGANCECARSAFI/ads" \
-            -o raw.json
-
-          echo "API Antwort (erste 300 Zeichen):"
-          head -c 300 raw.json
-
-          python3 fetch_bestand.py
+        run: python3 fetch_bestand.py
 
       - name: JSON committen und pushen
         run: |
