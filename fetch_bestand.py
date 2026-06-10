@@ -43,7 +43,7 @@ if not sellers:
 seller_id = sellers[0]['mobileSellerId']
 print(f"Seller ID: {seller_id}")
 
-# Alle Ads abrufen (nur IDs)
+# Alle Ads abrufen
 ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads')
 if not ads_data:
     save_empty('Keine Ads'); exit(0)
@@ -51,41 +51,18 @@ if not ads_data:
 ads_raw = ads_data.get('ads', [])
 print(f"Anzahl Ads: {len(ads_raw)}")
 
-# ERSTES Ad vollständig ausgeben zum Debuggen
-if ads_raw:
-    first = ads_raw[0]
-    print("ERSTER AD VOLLSTÄNDIG:")
-    print(json.dumps(first, ensure_ascii=False, indent=2)[:3000])
-
 result = []
 for ad in ads_raw:
-    # Versuche verschiedene Strukturen
     vehicle = ad.get('ad', ad)
 
-    # Debug: alle Keys ausgeben
-    print(f"Keys im vehicle: {list(vehicle.keys())[:20]}")
-
-    # Modell: verschiedene mögliche Felder probieren
-    model_raw = vehicle.get('model', {})
-    if isinstance(model_raw, dict):
-        model_name = (model_raw.get('displayName') or
-                      model_raw.get('description') or
-                      model_raw.get('name') or
-                      model_raw.get('key') or '')
+    # ── Titel: direkt aus dem API-Feld 'title' ──
+    # Mobile.de liefert den echten Inseratstitel hier.
+    # Kein Parsen der Description nötig.
+    title_raw = vehicle.get('title', '')
+    if isinstance(title_raw, dict):
+        title = title_raw.get('value', title_raw.get('displayName', ''))
     else:
-        model_name = str(model_raw) if model_raw else ''
-
-    # Manche APIs geben model als String mit Key zurück
-    if not model_name:
-        # Versuche vehicleType, subcategory, bodyType
-        for field in ['vehicleType', 'subcategory', 'bodyType', 'type']:
-            val = vehicle.get(field, {})
-            if isinstance(val, dict):
-                model_name = val.get('displayName', val.get('key', ''))
-            elif val:
-                model_name = str(val)
-            if model_name:
-                break
+        title = str(title_raw or '').strip()
 
     # Marke
     make_raw = vehicle.get('make', {})
@@ -93,6 +70,19 @@ for ad in ads_raw:
         make_name = make_raw.get('displayName', make_raw.get('key', ''))
     else:
         make_name = str(make_raw) if make_raw else ''
+
+    # Modell
+    model_raw = vehicle.get('model', {})
+    if isinstance(model_raw, dict):
+        model_name = (model_raw.get('displayName') or model_raw.get('description') or
+                      model_raw.get('name') or model_raw.get('key') or '')
+    else:
+        model_name = str(model_raw) if model_raw else ''
+
+    # Fallback-Titel: Marke + Modell wenn title leer
+    if not title or len(title) < 3:
+        parts = [p for p in [make_name, model_name] if p]
+        title = ' '.join(parts) if parts else 'Fahrzeug'
 
     # Preis
     price_obj = vehicle.get('price', {})
@@ -108,22 +98,10 @@ for ad in ads_raw:
     # Erstzulassung
     reg = vehicle.get('firstRegistration', '')
 
-    # Titel aus Beschreibung (erste fette Zeile)
+    # Description (vollständig, kein Kürzen mehr)
     description = vehicle.get('description', '')
     if isinstance(description, dict):
         description = description.get('value', '')
-
-    def extract_title(desc, make, model):
-        if desc:
-            clean = str(desc).replace('**','').replace('\\\\','|').replace('\\','').strip()
-            for line in clean.split('|'):
-                line = line.strip()
-                if line and 3 < len(line) < 90 and not line.startswith('*'):
-                    return line
-        parts = [p for p in [make, model] if p]
-        return ' '.join(parts) if parts else 'Fahrzeug'
-
-    title = extract_title(description, make_name, model_name)
 
     # Bilder
     images = []
@@ -143,7 +121,7 @@ for ad in ads_raw:
     cat = vehicle.get('category', {})
     cat_name = cat.get('displayName', cat.get('key', '')) if isinstance(cat, dict) else str(cat)
 
-    # Ad-ID (verschiedene Felder versuchen)
+    # Ad-ID
     ad_id = (vehicle.get('id') or vehicle.get('mobileAdId') or
              ad.get('id') or ad.get('mobileAdId') or '')
 
@@ -157,7 +135,7 @@ for ad in ads_raw:
         'price': str(price),
         'km': str(km),
         'firstRegistration': str(reg),
-        'description': str(description)[:400],
+        'description': str(description),
         'images': images,
         'category': cat_name,
         'mobileUrl': mobile_url
