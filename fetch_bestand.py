@@ -2,6 +2,7 @@ import json
 import urllib.request
 import urllib.error
 import base64
+import re
 import os
 from datetime import datetime, timezone
 
@@ -43,26 +44,28 @@ if not sellers:
 seller_id = sellers[0]['mobileSellerId']
 print(f"Seller ID: {seller_id}")
 
-# Alle Ads abrufen
-ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads')
+# ── FIX 1: Nur aktive Ads abrufen (status=ACTIVE als Query-Parameter) ──
+ads_data = api_get(f'https://services.mobile.de/seller-api/sellers/{seller_id}/ads?status=ACTIVE')
 if not ads_data:
     save_empty('Keine Ads'); exit(0)
 
 ads_raw = ads_data.get('ads', [])
-print(f"Anzahl Ads: {len(ads_raw)}")
+print(f"Anzahl Ads (gesamt): {len(ads_raw)}")
 
 result = []
 for ad in ads_raw:
     vehicle = ad.get('ad', ad)
 
-    # ── Titel: direkt aus dem API-Feld 'title' ──
-    # Mobile.de liefert den echten Inseratstitel hier.
-    # Kein Parsen der Description nötig.
-    title_raw = vehicle.get('title', '')
-    if isinstance(title_raw, dict):
-        title = title_raw.get('value', title_raw.get('displayName', ''))
+    # ── FIX 1 (Fallback): Status nochmal auf Objekt-Ebene prüfen ──
+    # Falls die API trotzdem inaktive zurückgibt, werden sie hier gefiltert.
+    status = vehicle.get('status', {})
+    if isinstance(status, dict):
+        status_key = status.get('key', '')
     else:
-        title = str(title_raw or '').strip()
+        status_key = str(status or '')
+    if status_key and status_key.upper() not in ('ACTIVE', 'ACTIVATED', ''):
+        print(f"  Übersprungen (Status={status_key}): {vehicle.get('id', '?')}")
+        continue
 
     # Marke
     make_raw = vehicle.get('make', {})
@@ -79,11 +82,6 @@ for ad in ads_raw:
     else:
         model_name = str(model_raw) if model_raw else ''
 
-    # Fallback-Titel: Marke + Modell wenn title leer
-    if not title or len(title) < 3:
-        parts = [p for p in [make_name, model_name] if p]
-        title = ' '.join(parts) if parts else 'Fahrzeug'
-
     # Preis
     price_obj = vehicle.get('price', {})
     if isinstance(price_obj, dict):
@@ -98,10 +96,29 @@ for ad in ads_raw:
     # Erstzulassung
     reg = vehicle.get('firstRegistration', '')
 
-    # Description (vollständig, kein Kürzen mehr)
+    # Description (vollständig)
     description = vehicle.get('description', '')
     if isinstance(description, dict):
         description = description.get('value', '')
+    description = str(description or '')
+
+    # ── FIX 2: Titel aus erster fetter Zeile der Description extrahieren ──
+    real_title = ''
+    if description:
+        # Doppelt-escaping auflösen wie es nach JSON-Speicherung vorliegt
+        desc_clean = description.replace('\\\\', '\n').replace('\\n', '\n')
+        bold_match = re.search(r'\*\*([^*\n]{4,120}?)\*\*', desc_clean)
+        if bold_match:
+            cand = bold_match.group(1).replace('*', '').strip()
+            # Überschriften wie "Ausstattung:" ignorieren
+            if len(cand) >= 4 and not re.match(r'^(ausstattung|sonder|sonstiges)', cand, re.I):
+                real_title = cand
+
+    if not real_title:
+        parts = [p for p in [make_name, model_name] if p]
+        real_title = ' '.join(parts) if parts else 'Fahrzeug'
+
+    print(f"  Titel: {real_title}")
 
     # Bilder
     images = []
@@ -129,13 +146,13 @@ for ad in ads_raw:
 
     result.append({
         'id': str(ad_id),
-        'title': title,
+        'title': real_title,
         'make': make_name,
         'model': model_name,
         'price': str(price),
         'km': str(km),
         'firstRegistration': str(reg),
-        'description': str(description),
+        'description': description,
         'images': images,
         'category': cat_name,
         'mobileUrl': mobile_url
@@ -150,4 +167,4 @@ output = {
 with open('bestand.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
-print(f"Fertig: {len(result)} Fahrzeuge gespeichert.")
+print(f"Fertig: {len(result)} aktive Fahrzeuge gespeichert.")
