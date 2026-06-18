@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-17T17:40:44.736597+00:00",
-  "count": 9,
+  "updated": "2026-06-18T17:09:46.625477+00:00",
+  "count": 8,
   "vehicles": [
     {
       "id": "424340581",
@@ -41,26 +41,6 @@
       ],
       "category": "StandardTractorAndTrailerUnit",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475"
-    },
-    {
-      "id": "448424265",
-      "title": "MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "35581.00",
-      "km": "228000",
-      "firstRegistration": "201809",
-      "description": "**MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6 **\\\\**\\\\Ausstattung:**\\\\\\\\* elektrische Rolltore\\\\* 2-Kammer-Tiefkühlaufbau\\\\* Ladebordwand (LBW)\\\\* Klimaanlage\\\\* Elektrische Fensterheber\\\\* Rückfahrkamera\\\\* Servolenkung\\\\* EURO 6\\\\\\\\\\\\**Sonderausstattung:\\\\\\\\*** Deutsche Ausführung\\\\* Aus Erster Hand\\\\\\\\\\\\**Sonstiges:\\\\\\\\*** Deutsches Fahrzeug\\\\* Gepflegter Zustand\\\\* Sofort einsatzbereit\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer,Fehler in der Anzeige, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d205832-6814-4fa8-a5fe-2f718d1fa096?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/22/221d8137-6380-472c-8cdd-66c0ada4000c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/80/80893e3b-9531-4f07-8a15-f9bba8a9d390?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/71/71fd16d2-fe4c-45ff-ad8c-d954d026d1e1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/34/34c92eda-5e93-4f7e-970a-57a79bef955e?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8d71ca9-a1b1-43b0-8bc8-2cdabf804db7?rule=mo-640.jpg"
-      ],
-      "category": "RefrigeratorBodyTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=448424265"
     },
     {
       "id": "450000255",
@@ -127,10 +107,10 @@
       "title": "Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar",
       "make": "SCHMITZ",
       "model": "",
-      "price": "",
+      "price": "16541.00",
       "km": "",
-      "firstRegistration": "201209",
-      "description": "**Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\* TÜV AUF WÜNSCH NEUE NACH VEREINBARUNG\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
+      "firstRegistration": "201409",
+      "description": "**Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/fa/fa769a0f-96b7-4e75-8a96-680431d2f9b8?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/d1/d1542a19-c106-4738-a862-0fa478e6799a?rule=mo-640.jpg",
@@ -150,7 +130,7 @@
       "price": "",
       "km": "980000",
       "firstRegistration": "201403",
-      "description": "**Mercedes-Benz Actros Sattelzugmaschine | Euro 6 | 4x verfügbar\\\\\\\\\\\\Ausstattung:\\\\\\\\*** Motor: OM 470, 10,7 L R6 Diesel, 290 kW\\\\* Getriebe: 12-Gang (G 211-12)\\\\* Fahrerhaus: ClassicSpace L, Breite 2,30 m, 1 Komfortliege\\\\* Federung: Blatt vorne / Luft hinten\\\\* Achskonfiguration: 4x2, Vorderachslast 7,5 t, zul. Gesamtgewicht 18,0 t\\\\* Differentialsperre Hinterachse\\\\* Scheibenbremsen Vorder- und Hinterachse\\\\* Außenspiegel elektrisch verstell- und heizbar\\\\* Elektrische Fensterheber, Komfortschließanlage\\\\* Tachograph / EG-Kontrollgerät\\\\* Kraftstofftank 430 L Aluminium, AdBlue-Tank 75 L\\\\* CD-Radio mit Bluetooth, Fahrersitz Schwingsitz Komfort\\\\**Sonderausstattung:*** Alcoa Dura-Bright Alufelgen 9.00x22.5\\\\* Bi-Xenon-Scheinwerfer\\\\* Nebenantrieb MB 131-2c\\\\* Motorbremse verstärkt\\\\* Zusatzheizung (Wasser)\\\\* Vorbereitung Fleetboard\\\\* Vorbereitung Liftachse Auflieger/Anhänger\\\\* Drucklufthorn, Druckluftbehälter Aluminium\\\\**\\\\\\\\Sonstiges:\\\\\\\\*** 4 Fahrzeuge verfügbar, alle aus deutschem Bestand\\\\* Sehr gepflegter Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.\\\\**",
+      "description": "**Mercedes-Benz Actros Sattelzugmaschine | Euro 6 | 3x verfügbar\\\\\\\\\\\\Ausstattung:\\\\\\\\*** Motor: OM 470, 10,7 L R6 Diesel, 290 kW\\\\* Getriebe: 12-Gang (G 211-12)\\\\* Fahrerhaus: ClassicSpace L, Breite 2,30 m, 1 Komfortliege\\\\* Federung: Blatt vorne / Luft hinten\\\\* Achskonfiguration: 4x2, Vorderachslast 7,5 t, zul. Gesamtgewicht 18,0 t\\\\* Differentialsperre Hinterachse\\\\* Scheibenbremsen Vorder- und Hinterachse\\\\* Außenspiegel elektrisch verstell- und heizbar\\\\* Elektrische Fensterheber, Komfortschließanlage\\\\* Tachograph / EG-Kontrollgerät\\\\* Kraftstofftank 430 L Aluminium, AdBlue-Tank 75 L\\\\* CD-Radio mit Bluetooth, Fahrersitz Schwingsitz Komfort\\\\**Sonderausstattung:*** Alcoa Dura-Bright Alufelgen 9.00x22.5\\\\* Bi-Xenon-Scheinwerfer\\\\* Nebenantrieb MB 131-2c\\\\* Motorbremse verstärkt\\\\* Zusatzheizung (Wasser)\\\\* Vorbereitung Fleetboard\\\\* Vorbereitung Liftachse Auflieger/Anhänger\\\\* Drucklufthorn, Druckluftbehälter Aluminium\\\\**\\\\\\\\Sonstiges:\\\\\\\\*** 3 Fahrzeuge verfügbar, alle aus deutschem Bestand\\\\* Sehr gepflegter Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.\\\\**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/ff/ffd4087a-43f5-4ef3-b64d-735f5eddc29a?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/f5/f5184775-1968-4803-a1e0-1f0f5b36b568?rule=mo-640.jpg",
@@ -163,24 +143,24 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=457132518"
     },
     {
-      "id": "457133558",
-      "title": "Mercedes-Benz Atego 818 Pritsche-Plane mit Edscha-Schiebeverdeck | Ladebordwand",
-      "make": "MERCEDES-BENZ",
+      "id": "458597260",
+      "title": "IVECO",
+      "make": "IVECO",
       "model": "",
       "price": "",
-      "km": "376000",
-      "firstRegistration": "201409",
-      "description": "**Mercedes-Benz Atego 818 Pritsche-Plane mit Edscha-Schiebeverdeck | Ladebordwand**\\\\\\\\**Ausstattung:*** Pritsche-Plane-Aufbau mit Edscha-Schiebeverdeck\\\\* Ladebordwand (LBW)\\\\* Luftfederung Hinterachse, Blattfederung Vorderachse\\\\* Schaltgetriebe\\\\* Servolenkung\\\\* Klimaanlage\\\\* Fahrerairbag\\\\* Radio/CD\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* Gepflegter Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "km": "425000",
+      "firstRegistration": "202103",
+      "description": "IVECO Stralis 480 Wechselfahrgestell mit Tandem-Anhänger, Euro 6, Aus erster Hand Ausstattung:\\\\\\\\* Kilometerstand: 425.000 km\\\\* Erstzulassung: 03/2021, Baujahr 2021\\\\* Leistung: 353 kW / 480 PS, Hubraum 11.120 cm³\\\\* Schadstoffklasse: Euro 6, Umweltplakette 4 (Grün)\\\\* Zulässiges Gesamtgewicht: 26.000 kg\\\\* Achsen: 3, Radformel 6x2\\\\* Fahrerhaus: Fernverkehr\\\\\\\\\\\\Sonderausstattung:\\\\\\\\* Abstandstempomat (ACC)\\\\* Retarder / Intarder\\\\* Luftfederung\\\\* Navigationssystem\\\\* Standheizung\\\\* Klimaautomatik\\\\* Leichtmetallfelgen\\\\* Anhängerkupplung fest\\\\* ABS, EBS, ESP\\\\\\\\\\\\Sonstiges:\\\\\\\\* IVECO Jumbo Zug Wechselfahrgestell mit Tandem-Anhänger\\\\* Aus Erster Hand, scheckheftgepflegt\\\\* Deutsches Fahrzeug (German Truck)\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\Irrtümer, Änderungen und Zwischenverkauf vorbehalten.",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/58/58cc9874-125b-41b0-9371-3f7f9ec323f5?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c9140ee-1f88-4bdc-b277-81b7a0a0a8e0?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/35/355be442-9665-488f-98e9-5e26b8b09bf5?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/78/7863ede4-b21a-462d-a581-35790da33d43?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/65/65fcfdbb-9840-4c0a-86e2-ff7027b85517?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9b/9b34e2d0-401d-4a14-b5bf-2d1336a221a8?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/77/7729c8ee-3c2f-4d6b-9856-0537804a21a5?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/32/3205d24c-87d2-41f3-9856-69be6c028a0b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4dc52119-87ab-44ef-a00f-181adfc442d7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f8/f82a2923-4f8a-4a4c-a778-4038d1293fcb?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/38/38e33fc1-2fa4-4fa4-8996-c5f99f6aca54?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/31/3161f59e-97b6-49dd-9d6e-c33ec681d4a0?rule=mo-640.jpg"
       ],
-      "category": "StakeBodyWithTarpaulinVan",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=457133558"
+      "category": "SwapChassisTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458597260"
     }
   ]
 }
