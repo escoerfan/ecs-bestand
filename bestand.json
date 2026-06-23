@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T19:00:26.366111+00:00",
-  "count": 11,
+  "updated": "2026-06-23T16:15:41.843939+00:00",
+  "count": 12,
   "vehicles": [
     {
       "id": "424340581",
@@ -150,7 +150,7 @@
       "price": "",
       "km": "425000",
       "firstRegistration": "202103",
-      "description": "**IVECO Stralis 480 Wechselfahrgestell mit Tandem-Anhänger, Euro 6, Aus erster Hand**\\\\\\\\**Ausstattung:\\\\\\\\*** Kilometerstand: 425.000 km\\\\* Erstzulassung: 03/2021, Baujahr 2021\\\\* Leistung: 353 kW / 480 PS, Hubraum 11.120 cm³\\\\* Schadstoffklasse: Euro 6, Umweltplakette 4 (Grün)\\\\* Zulässiges Gesamtgewicht: 26.000 kg\\\\* Achsen: 3, Radformel 6x2\\\\* Fahrerhaus: Fernverkehr\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\* Abstandstempomat (ACC)\\\\* Retarder / Intarder\\\\* Luftfederung\\\\* Navigationssystem\\\\* Standheizung\\\\* Klimaautomatik\\\\* Leichtmetallfelgen\\\\* Anhängerkupplung fest\\\\* ABS, EBS, ESP\\\\\\\\\\\\**Sonstiges:**\\\\\\\\* IVECO Jumbo Zug Wechselfahrgestell mit Tandem-Anhänger\\\\* Aus Erster Hand, scheckheftgepflegt\\\\* Deutsches Fahrzeug (German Truck)\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**IVECO Stralis 480 Wechselfahrgestell mit Tandem-Anhänger, Euro 6, Aus erster Hand**\\\\\\\\* **Ausstattung:LINK ACHSE**\\\\* Kilometerstand: 425.000 km\\\\* Erstzulassung: 03/2021, Baujahr 2021\\\\* Leistung: 353 kW / 480 PS, Hubraum 11.120 cm³\\\\* Schadstoffklasse: Euro 6, Umweltplakette 4 (Grün)\\\\* Zulässiges Gesamtgewicht: 26.000 kg\\\\* Achsen: 3, Radformel 6x2\\\\* Fahrerhaus: Fernverkehr\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\* Abstandstempomat (ACC)\\\\* Retarder / Intarder\\\\* Luftfederung\\\\* Navigationssystem\\\\* Standheizung\\\\* Klimaautomatik\\\\* Leichtmetallfelgen\\\\* Anhängerkupplung fest\\\\* ABS, EBS, ESP\\\\\\\\\\\\**Sonstiges:**\\\\\\\\* IVECO Jumbo Zug Wechselfahrgestell mit Tandem-Anhänger\\\\* Aus Erster Hand, scheckheftgepflegt\\\\* Deutsches Fahrzeug (German Truck)\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d6b2bc8-9c65-4673-afaa-0fddbabea510?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/32/3205d24c-87d2-41f3-9856-69be6c028a0b?rule=mo-640.jpg",
@@ -221,6 +221,26 @@
       ],
       "category": "SwapChassisTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958"
+    },
+    {
+      "id": "458971947",
+      "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
+      "make": "MAN",
+      "model": "",
+      "price": "42721.00",
+      "km": "254000",
+      "firstRegistration": "202004",
+      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 - per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/aa/aa1f20d7-af7e-4dd3-807b-8cd07dd37ab8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/17/179705c6-8635-4d9d-8320-ba0aa6b89136?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1b/1bbab3e6-fb60-426f-9e26-36e8e1fc23e5?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b8/b83820a1-b276-4017-a827-1db68b5d6481?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/39/3980570d-b97d-4a12-9664-0b2f98026a50?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1e/1e029959-f43b-4f96-8ad8-158c54110973?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458971947"
     }
   ]
 }
