@@ -1,6 +1,206 @@
 {
-  "updated": "2026-06-24T15:39:31.748498+00:00",
-  "count": 0,
-  "vehicles": [],
-  "error": "Keine Ads"
+  "updated": "2026-06-24T16:44:31.013783+00:00",
+  "count": 10,
+  "vehicles": [
+    {
+      "id": "424340581",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "10591.00",
+      "km": "890000",
+      "firstRegistration": "200905",
+      "description": "**Ausstattung:**\\\\\\\\* Automatikgetriebe\\\\* Fahrer-Klimaanlage\\\\* Standheizung\\\\* Reifenprofil ca. 80 %\\\\* TÜV 07.2026\\\\* EUR0 5 EEV\\\\\\\\**Sonderausstattung:\\\\**\\\\* Gepflegter Gesamtzustand\\\\* Ideal für Linienverkehr oder Umbauprojekte\\\\**\\\\Sonstiges:**\\\\\\\\* Fahrzeug sofort einsatzbereit\\\\* Sehr guter technischer und optischer Zustand\\\\* Besichtigung nach Absprache jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**\\\\Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/dd2b467a-4f9d-4856-86e4-0b54959a37e7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2e/2e20e08e-db5c-41b0-affb-dc07fbacfae1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fb/fbdecb82-8e2f-45ca-bae1-02301a85dab2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a520554-7f97-4cc7-b879-88e0bc9cb632?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/08/086c4a29-68fe-473d-90a9-c82377a0c724?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea863491-a7b6-432e-9f3a-c7fd3627a46f?rule=mo-640.jpg"
+      ],
+      "category": "PublicServiceVehicleBus",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=424340581"
+    },
+    {
+      "id": "443910475",
+      "title": "MAN",
+      "make": "MAN",
+      "model": "",
+      "price": "42721.00",
+      "km": "470000",
+      "firstRegistration": "201811",
+      "description": "**MAN 18.500 TGX  MICHANISCHE Allrad 4x4, Aus erster Hand\\\\\\\\\\\\Ausstattung:\\\\*** Klimaanlage\\\\* Vorderachse: Blattfedern\\\\* Hinterachse: Luftfederung\\\\* Standheizung\\\\* KIPPHYDRAULIK\\\\\\\\\\\\**Sonderausstattung:*** Scheckheftgepflegt bei MAN\\\\\\\\\\\\**Sonstiges:*** Mechanisches Allrad (kein Hydro)\\\\* Ohne Mulde\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/20/206af78b-4a5a-4b52-8fb0-32307160058d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/64/64aef835-ad80-4b32-8404-bf3e4f5eb215?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/71/716551b9-4f03-4ee3-b0a8-48894ea91d93?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/43/433d5f6c-af7a-4edc-a5c4-ea049fd2f46c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/86/86f67946-e4c2-4da7-9391-9a089a68f17e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/33/33d74c84-bd60-4aa4-8de0-f627b34549b6?rule=mo-640.jpg"
+      ],
+      "category": "StandardTractorAndTrailerUnit",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475"
+    },
+    {
+      "id": "450000255",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "8925.00",
+      "km": "971000",
+      "firstRegistration": "200202",
+      "description": "**Ausstattung:*** 54 Sitzplätze\\\\* 33 Stehplätze\\\\* Schaltgetriebe\\\\* Kofferräume\\\\* Zielanzeige\\\\* Standheizung\\\\**\\\\\\\\Sonderausstattung:*** Keine Angabe\\\\**\\\\\\\\Sonstiges:*** Gepflegter Zustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298 **– per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/31/31cd0d15-1d10-4a58-bafd-3bdb1b289c59?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4d91df31-684f-4ab7-a6bb-5b4db2adc402?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0d3eb86-c50b-470e-a041-44e0cc73f899?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2b/2b190176-d7c5-4baf-a798-2b1e50d635f4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/16/1613a674-158a-46bb-8555-c3643fd82d40?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a63fb609-b660-4b80-aca7-ad39fae2a742?rule=mo-640.jpg"
+      ],
+      "category": "CrossCountryBus",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=450000255"
+    },
+    {
+      "id": "450655941",
+      "title": "MAN A78 Lions City EEV",
+      "make": "MAN",
+      "model": "",
+      "price": "14161.00",
+      "km": "678000",
+      "firstRegistration": "201212",
+      "description": "**MAN A78 Lions City EEV **\\\\\\\\\\\\**Ausstattung:*** ZF Automatikgetriebe\\\\* ABS\\\\* ASR\\\\* Elektrisch verstellbare Außenspiegel\\\\* Doppelverglasung\\\\* 44 Sitzplätze / 33 Stehplätze\\\\\\\\\\\\**Sonderausstattung:*** Fahrerklimaanlage\\\\* KAMERA\\\\* Retarder\\\\* Webasto Standheizung\\\\* LED Matrixanzeige\\\\* Radio\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 85%\\\\* TÜV BIS 11.2026\\\\* Gepflegter Zustand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb565018-5d81-4ee2-9380-30c2971128ee?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f6/f6e27ed6-24a0-4909-ba2d-06a237d668a6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6db8cf7-a462-4308-a8cd-fe927f95b7f1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/63/63279b87-33c9-4917-bc6e-07b8c065fa29?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7a/7a721885-9587-46c5-bb65-d6028c2705b6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c3/c31acc57-ae60-4d2a-83ff-3d417898c3a4?rule=mo-640.jpg"
+      ],
+      "category": "CrossCountryBus",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=450655941"
+    },
+    {
+      "id": "454296541",
+      "title": "MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "30821.00",
+      "km": "432000",
+      "firstRegistration": "201810",
+      "description": "**MERCEDES-BENZ ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6 **\\\\**\\\\Ausstattung:**\\\\\\\\* Radio/CD\\\\* 2-Kammer-Tiefkühlaufbau\\\\* Ladebordwand (LBW)\\\\* Klimaanlage\\\\* Elektrische Fensterheber\\\\* Rückfahrkamera\\\\* Servolenkung\\\\* EURO 6\\\\\\\\\\\\**Sonderausstattung:\\\\\\\\*** Deutsche Ausführung\\\\* Aus Erster Hand\\\\\\\\\\\\**Sonstiges:\\\\\\\\*** Deutsches Fahrzeug\\\\* Gepflegter Zustand\\\\* Sofort einsatzbereit\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/be/be2e40eb-c2f7-49e4-80fb-5254cb2bbdcb?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e2e868d-c781-4959-b7f9-dc96c83cc461?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0c/0c6c2c8e-dd26-441e-908e-63a4a8f95b92?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1c/1c6f628e-b95a-4978-aa1b-4f537a29899e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/71/71fef2a0-317c-46ff-ae1b-d34583e04453?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a8/a89fe1dd-5ea1-4110-99cb-532af7b7a509?rule=mo-640.jpg"
+      ],
+      "category": "RefrigeratorBodyTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=454296541"
+    },
+    {
+      "id": "457131155",
+      "title": "Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar",
+      "make": "SCHMITZ",
+      "model": "",
+      "price": "16541.00",
+      "km": "",
+      "firstRegistration": "201409",
+      "description": "**Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/fa/fa769a0f-96b7-4e75-8a96-680431d2f9b8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d1/d1542a19-c106-4738-a862-0fa478e6799a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e7/e76e7f2f-6336-4984-9125-aca9b4a0bd1a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/28/28ac8862-599b-473d-ae91-fab39900c3d3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c2/c291db37-34fa-425a-a132-d17f4b41bbb6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/14/143bd7a3-d5c8-4711-bbfa-e72104df04d3?rule=mo-640.jpg"
+      ],
+      "category": "TipperSemiTrailer",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=457131155"
+    },
+    {
+      "id": "458597260",
+      "title": "IVECO Stralis 480 Wechselfahrgestell mit Tandem-Anhänger, Euro 6, Aus erster Hand",
+      "make": "IVECO",
+      "model": "",
+      "price": "",
+      "km": "425000",
+      "firstRegistration": "202103",
+      "description": "**IVECO Stralis 480 Wechselfahrgestell mit Tandem-Anhänger, Euro 6, Aus erster Hand**\\\\\\\\* **Ausstattung:LINK ACHSE**\\\\* Kilometerstand: 425.000 km\\\\* Erstzulassung: 03/2021, Baujahr 2021\\\\* Leistung: 353 kW / 480 PS, Hubraum 11.120 cm³\\\\* Schadstoffklasse: Euro 6, Umweltplakette 4 (Grün)\\\\* Zulässiges Gesamtgewicht: 26.000 kg\\\\* Achsen: 3, Radformel 6x2\\\\* Fahrerhaus: Fernverkehr\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\* Abstandstempomat (ACC)\\\\* Retarder / Intarder\\\\* Luftfederung\\\\* Navigationssystem\\\\* Standheizung\\\\* Klimaautomatik\\\\* Leichtmetallfelgen\\\\* Anhängerkupplung fest\\\\* ABS, EBS, ESP\\\\\\\\\\\\**Sonstiges:**\\\\\\\\* IVECO Jumbo Zug Wechselfahrgestell mit Tandem-Anhänger\\\\* Aus Erster Hand, scheckheftgepflegt\\\\* Deutsches Fahrzeug (German Truck)\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d6b2bc8-9c65-4673-afaa-0fddbabea510?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/32/3205d24c-87d2-41f3-9856-69be6c028a0b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4dc52119-87ab-44ef-a00f-181adfc442d7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f8/f82a2923-4f8a-4a4c-a778-4038d1293fcb?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/90/902e8bd9-1ccc-44b4-bf98-badae27dc7c8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7e/7ee8336d-dfb1-4cce-ad25-a6e3355a311c?rule=mo-640.jpg"
+      ],
+      "category": "SwapChassisTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458597260"
+    },
+    {
+      "id": "458616327",
+      "title": "Ford Transit Connect Kombi Trend, 1. Hand",
+      "make": "FORD",
+      "model": "Transit",
+      "price": "10900.00",
+      "km": "145000",
+      "firstRegistration": "202103",
+      "description": "**Ford Transit Connect Kombi Trend, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Navigationssystem\\\\- Apple CarPlay\\\\- Multifunktionslenkrad\\\\- Bordcomputer\\\\- Elektrische Fensterheber\\\\- Elektrische Seitenspiegel\\\\- Zentralverriegelung\\\\- Schlüssellose Zentralverriegelung (Keyless)\\\\- ABS, ESP, Traktionskontrolle, Berganfahrassistent\\\\- Tagfahrlicht, Nebelscheinwerfer, Lichtsensor\\\\- USB\\\\- Isofix\\\\\\\\\\\\**Sonderausstattung:**\\\\- Standheizung\\\\- Anhängerkupplung fest (1.200 kg gebremst, 725 kg ungebremst)\\\\- Schiebetür beidseitig\\\\- Abgedunkelte Scheiben\\\\- Beheizbare Frontscheibe\\\\- Start/Stopp-Automatik\\\\- Partikelfilter\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Erstzulassung 03/2021\\\\- 145.000 km\\\\- 88 kW (120 PS), 1.499 cm³, Diesel, Schaltgetriebe\\\\- Schadstoffklasse Euro6, Umweltplakette Grün\\\\- HU bis 04/2027\\\\- Farbe: Schwarz Metallic (Agate Black)\\\\- 5 Sitzplätze, 4/5 Türen\\\\- Aus Erster Hand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/e9/e915fe6f-93dc-4934-80c3-7690e7968520?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc7d4da8-5bc5-40c4-b598-0e49cba46b59?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/6a/6a4a968f-01d5-44f4-aa87-b3d5f5c52dbd?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/67/67f582aa-c4ae-4773-b161-9089b37bd706?rule=mo-640.jpg"
+      ],
+      "category": "EstateCar",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458616327"
+    },
+    {
+      "id": "458861958",
+      "title": "MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6",
+      "make": "MAN",
+      "model": "",
+      "price": "20111.00",
+      "km": "428000",
+      "firstRegistration": "201404",
+      "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6**\\\\**\\\\\\\\Ausstattung:\\\\**\\\\- Erstzulassung 04/2014, Baujahr 2014\\\\- 428.000 km\\\\- 213 kW (290 PS)\\\\- 6.871 cm³ Hubraum\\\\- Automatikgetriebe\\\\- Radformel 4x2\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Schadstoffklasse Euro 6\\\\- Umweltplakette 4 (Grün)\\\\- Klimaanlage\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- ABS\\\\- EBS\\\\- Retarder/Intarder\\\\- Standheizung\\\\- Tempomat\\\\- Anhängerkupplung fest\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Wechselfahrgestell Pritsche/Plane\\\\- Gepflegter Zustand\\\\- **ACHTUNG! DER ANHÄNGER KOSTET EXTRA!**\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/1d/1d0147bc-7690-4aea-9571-667cac9157db?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a9/a973b128-3f37-47be-9160-f70d8c4c8821?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4e/4eff7470-6aae-4951-95d3-17468f44e763?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/9f/9f1787ee-c3b2-4983-9844-4e41adf7e575?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a0/a0ac91a4-01a0-443e-80d4-f2b3980b19fd?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/91/914ae099-cd51-4b80-80a1-12b7beb2390c?rule=mo-640.jpg"
+      ],
+      "category": "SwapChassisTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958"
+    },
+    {
+      "id": "458971947",
+      "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
+      "make": "MAN",
+      "model": "",
+      "price": "46291.00",
+      "km": "254000",
+      "firstRegistration": "202004",
+      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 - per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/31/31044090-718e-4495-b737-f87dcd4837ba?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b3/b327b6e6-9b26-413b-9e8b-30a0ee40930c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2a/2a9ff498-73c4-4c3d-9504-2f6e5cc727d7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/99/994fb63d-f40c-4143-95a8-c2ee8e6ec8bd?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/69/699614ae-5ef4-4ac4-a4c5-a5761567f0ad?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/9c/9ca77f3b-09f6-4d18-8c1d-4a24aa73b5cc?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458971947"
+    }
+  ]
 }
