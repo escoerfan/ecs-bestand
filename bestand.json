@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T13:20:32.713676+00:00",
-  "count": 12,
+  "updated": "2026-07-03T13:22:36.549457+00:00",
+  "count": 13,
   "vehicles": [
     {
       "id": "424340581",
@@ -217,7 +217,7 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/3f/3f1b9424-67a2-497b-804b-83d3b02ed8f1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6387815-c539-42e6-9de7-a8a11e816ef3?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/70/701b6986-a2d9-467c-ba37-89d6e8880761?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/7f/7f829324-84ec-42e4-b9db-a6095191e5d2?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/df/df621804-6cda-4fbe-9dc6-b644c3f5b782?rule=mo-640.jpg"
       ],
       "category": "OtherSemiTrailerTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459613568"
@@ -241,6 +241,26 @@
       ],
       "category": "TipperSemiTrailer",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459614345"
+    },
+    {
+      "id": "459736608",
+      "title": "MAN 33.440 MEILLER ABROLLKIPPER 6X4",
+      "make": "MAN",
+      "model": "",
+      "price": "",
+      "km": "692000",
+      "firstRegistration": "200810",
+      "description": "* **MAN 33.440 MEILLER ABROLLKIPPER 6X4**\\\\* **1 HAND**\\\\* **BLATT GEFEDERT**\\\\* **KLIMA**\\\\* **SCHLAFBETT**\\\\* **STANDHEIZUNG**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/a9/a97860ef-4210-4d1a-b698-304ff5944a2f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c9/c9c750ad-bd9a-40cf-858a-e7474e6f2ea3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/40/40f16112-d5a1-41d6-b0f9-ee1927d9b20f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/32/32af77ad-8ade-46b7-8425-1595a7ae30f3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d3/d33726b8-ed94-428c-b060-361a760e5440?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b38a6c3-8802-4303-b7d5-e3b81e31aee7?rule=mo-640.jpg"
+      ],
+      "category": "RollOffTipperTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459736608"
     }
   ]
 }
