@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16T09:07:12.586901+00:00",
-  "count": 13,
+  "updated": "2026-07-17T09:02:12.591843+00:00",
+  "count": 14,
   "vehicles": [
     {
       "id": "424340581",
@@ -167,40 +167,20 @@
       "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
       "make": "MAN",
       "model": "",
-      "price": "41531.00",
-      "km": "254000",
+      "price": "46291.00",
+      "km": "192000",
       "firstRegistration": "202004",
-      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand **\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\**Maße und Aufbau des Koffers:**\\\\- Länge 7,0 Meter\\\\- Höhe 2,40 Meter\\\\- Breite 2,50 Meter\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 –\\\\per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand **\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\- Mit Anhängerkupplung\\\\**\\\\\\\\Maße und Aufbau des Koffers (von Innen):\\\\**\\\\- Länge 7,0 Meter\\\\- Höhe 2,40 Meter\\\\- Breite 2,50 Meter\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 –\\\\per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/31/31044090-718e-4495-b737-f87dcd4837ba?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/b3/b327b6e6-9b26-413b-9e8b-30a0ee40930c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/88/88a6b53d-4154-400e-8463-125386bcf919?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/2a/2a9ff498-73c4-4c3d-9504-2f6e5cc727d7?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/99/994fb63d-f40c-4143-95a8-c2ee8e6ec8bd?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/69/699614ae-5ef4-4ac4-a4c5-a5761567f0ad?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9c/9ca77f3b-09f6-4d18-8c1d-4a24aa73b5cc?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/9c/9ca77f3b-09f6-4d18-8c1d-4a24aa73b5cc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/41/4115592b-5900-49dc-815f-2d5798397c33?rule=mo-640.jpg"
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458971947"
-    },
-    {
-      "id": "459609860",
-      "title": "MAN 26.440 Meilerkipper 3 Seiten 6x6",
-      "make": "MAN",
-      "model": "",
-      "price": "",
-      "km": "490000",
-      "firstRegistration": "201008",
-      "description": "**MAN 26.440 Meilerkipper 3 Seiten 6x6 **\\\\\\\\\\\\**Ausstattung:**\\\\\\\\* Baujahr 2010, Erstzulassung 08/2010\\\\* Kilometerstand 490.000 km\\\\* 324 kW (441 PS)\\\\* Schaltgetriebe, Doppel-H Schaltung\\\\* Euro5, Grüne Plakette\\\\* Zulässiges Gesamtgewicht 26.000 kg\\\\* Achsen 3, Radformel 6x6\\\\* Kipphydraulik\\\\* Blattfederung\\\\* ABS\\\\* EBS\\\\* Retarder/Intarder\\\\* Anhängerkupplung fest\\\\* Tempomat\\\\* Navigationssystem\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\\\\\* Standheizung\\\\* Klimaanlage\\\\* Sonstiges:\\\\* Scheckheftgepflegt\\\\* Reifen 70%\\\\* TÜV neu\\\\* Achtung, der Anhänger ist nicht im Preis enthalten\\\\* Bei Fragen bitte nur anrufen\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/67/6787113b-8bed-4337-b2c5-b4d6de82988b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/ce/ce6cf198-a0fc-4b43-be3b-ee62a18815db?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1b/1bad370a-f769-433d-8825-f337ba9f1437?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/f5/f52ec296-f602-4fda-a559-c4deffd23da3?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/6f/6f5dbdf8-6ce3-4215-b2e9-4a878ca67cf4?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9e/9eb26ae8-4529-40eb-9a1c-a11cb6448115?rule=mo-640.jpg"
-      ],
-      "category": "Over7500_ThreeSidedTipper",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459609860"
     },
     {
       "id": "459613568",
@@ -261,6 +241,46 @@
       ],
       "category": "RollOffTipperTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459736608"
+    },
+    {
+      "id": "460819057",
+      "title": "MAN 15.290 Koffer LBW Klima Euro 6 Automatik Scheckheftgepflegt",
+      "make": "MAN",
+      "model": "",
+      "price": "34391.00",
+      "km": "254000",
+      "firstRegistration": "201811",
+      "description": "**MAN 15.290 Koffer LBW Klima Euro 6 Automatik Scheckheftgepflegt**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- ABS\\\\- EBS\\\\- ESP\\\\- Automatikgetriebe\\\\- Klimaautomatik\\\\- Tempomat\\\\- Navigationssystem\\\\- Retarder/Intarder\\\\- Standheizung\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Ladebordwand\\\\- 2x Ladebordwand vorhanden\\\\- Scheckheftgepflegt\\\\- HU neu\\\\- Reifen 80 Prozent\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 11/2018\\\\- Kilometerstand 254.000 km\\\\- Leistung 213 kW / 290 PS\\\\- Zulässiges Gesamtgewicht 15.000 kg\\\\- Achsformel 4x2\\\\- Schadstoffklasse Euro 6, grüne Plakette\\\\- Vorne Blattfederung, hinten Luftfederung\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298 **– per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/a7/a7076f33-865a-4fd9-9fa8-16d331fa7460?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7aa745d-b215-4e3d-b7c5-5c957a175a86?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fe/fe70f9be-c419-4f3a-97af-5299eb515748?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/42/42b9c9a3-af2f-4a42-8292-078ef731f4bd?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/6c/6ce59974-aa21-421d-b0f0-8a53557f9596?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/82/82ff5aaf-163a-4de7-ae98-17fe02e117d2?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460819057"
+    },
+    {
+      "id": "460820321",
+      "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
+      "make": "MAN",
+      "model": "",
+      "price": "41650.00",
+      "km": "254000",
+      "firstRegistration": "201911",
+      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand **\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\REIFEN 80%\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\- Mit Anhängerkupplung\\\\**\\\\\\\\Maße und Aufbau des Koffers (von Innen):\\\\**\\\\- Länge 7,0 Meter\\\\- Höhe 2,40 Meter\\\\- Breite 2,50 Meter\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 –\\\\per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/d3/d34292c7-45c3-4b92-9d2a-3535bb4dcab7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/00/006b3a97-ccb5-4ca1-80fc-a08241f6aedc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e8/e8e2504d-ecdb-49d0-aad5-38385cfc36ea?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/19/19b7b296-7cae-44fb-a94c-9211e4d78839?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4c/4cbbfdb4-d227-4ce6-a772-c29296beafd1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/05/0531b665-a581-4c8a-9ddd-a41304d829d6?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460820321"
     }
   ]
 }
