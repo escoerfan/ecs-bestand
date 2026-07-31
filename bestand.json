@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30T09:24:17.548555+00:00",
-  "count": 14,
+  "updated": "2026-07-31T09:35:51.061688+00:00",
+  "count": 13,
   "vehicles": [
     {
       "id": "424340581",
@@ -241,26 +241,6 @@
       ],
       "category": "RollOffTipperTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459736608"
-    },
-    {
-      "id": "460819057",
-      "title": "MAN 15.290 Koffer LBW Klima Euro 6 Automatik Scheckheftgepflegt",
-      "make": "MAN",
-      "model": "",
-      "price": "34391.00",
-      "km": "254000",
-      "firstRegistration": "201811",
-      "description": "**MAN 15.290 Koffer LBW Klima Euro 6 Automatik Scheckheftgepflegt **\\\\Deutsches Fahrzeug!\\\\\\\\**Ausstattung:\\\\**\\\\- ABS\\\\- EBS\\\\- ESP\\\\- Automatikgetriebe\\\\- Klimaautomatik\\\\- Tempomat\\\\- Navigationssystem\\\\- Retarder/Intarder\\\\- Standheizung\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Ladebordwand\\\\- 2x Ladebordwand vorhanden\\\\- Scheckheftgepflegt\\\\- HU neu\\\\- Reifen 80 Prozent\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 11/2018\\\\- Kilometerstand 254.000 km\\\\- Leistung 213 kW / 290 PS\\\\- Zulässiges Gesamtgewicht 15.000 kg\\\\- Achsformel 4x2\\\\- Schadstoffklasse Euro 6, grüne Plakette\\\\- Vorne Blattfederung, hinten Luftfederung\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298 **– per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/a7/a7076f33-865a-4fd9-9fa8-16d331fa7460?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7aa745d-b215-4e3d-b7c5-5c957a175a86?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/fe/fe70f9be-c419-4f3a-97af-5299eb515748?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/42/42b9c9a3-af2f-4a42-8292-078ef731f4bd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/6c/6ce59974-aa21-421d-b0f0-8a53557f9596?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/82/82ff5aaf-163a-4de7-ae98-17fe02e117d2?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460819057"
     },
     {
       "id": "460820321",
