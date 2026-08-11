@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-10T08:20:00.761385+00:00",
-  "count": 13,
+  "updated": "2026-08-11T08:01:49.891578+00:00",
+  "count": 16,
   "vehicles": [
+    {
+      "id": "39177300739296",
+      "title": "Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "22491.00",
+      "km": "520000",
+      "firstRegistration": "201609",
+      "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/8f/8f57039d-5f84-4961-be80-a7a7b1c3a6c5?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f855f70-50fc-454f-ae77-a591f39ce0a3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0c8cf35-2860-460f-95cd-a15ac3a50ab2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/a8/a86d0126-e482-4156-9da7-f51e53a1ceaa?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/29/292b7397-72eb-4bcb-84eb-10b3748d4382?rule=mo-640.jpg"
+      ],
+      "category": "SwapChassisTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39177300739296"
+    },
+    {
+      "id": "39178795690752",
+      "title": "Renault Kangoo Navi Klima Kamera",
+      "make": "RENAULT",
+      "model": "",
+      "price": "8211.00",
+      "km": "65000",
+      "firstRegistration": "200012",
+      "description": "**Renault Kangoo Navi Klima Kamera**\\\\**\\\\Ausstattung:**\\\\\\\\- ABS\\\\- ESP\\\\- Servolenkung\\\\- Zentralverriegelung\\\\- Trennwand\\\\- Schiebetür rechts\\\\- 3 Sitzplätze\\\\**\\\\\\\\Sonderausstattung:**\\\\\\\\- Navigationssystem\\\\- Einparkhilfe hinten mit Kamera\\\\- Scheckheftgepflegt\\\\- Klimanlage\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 12/2020\\\\- Kilometerstand 65.000 km\\\\- 70 kW (95 PS), Diesel, Schaltgetriebe\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU neu\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/28/28da1c84-4539-4e03-856b-a60de505285e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c1/c19c04cf-2c71-4d02-9728-be11ebd7522a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7b/7b64c88c-4c08-4db1-a320-58e91284c7e3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/9b/9b9477aa-1673-4e71-9aa4-46e4cf4aa970?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f9/f9642907-4d86-42f5-88be-a2196895a014?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1f5e355-1de0-428d-bfae-f5719055dac5?rule=mo-640.jpg"
+      ],
+      "category": "BoxTypeDeliveryVan",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39178795690752"
+    },
+    {
+      "id": "39233274649312",
+      "title": "MERCEDES-BENZ 816 ATEGO DOPPELKABINE KATASTROPHENSCHUTZ EINSATZWAGEN KÜHLKOFFER SO.KFZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "13685.00",
+      "km": "357000",
+      "firstRegistration": "201101",
+      "description": "**MERCEDES-BENZ 816 ATEGO DOPPELKABINE KATASTROPHENSCHUTZ EINSATZWAGEN KÜHLKOFFER SO.KFZ**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Doppelkabine, 6 Sitzplätze\\\\- Klimaanlage\\\\- Kühlkoffer\\\\- Ladebordwand (LBW)\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Katastrophenschutz Sonderaufbau\\\\- Ehemaliges Einsatzfahrzeug DRK (Deutsches Rotes Kreuz)\\\\\\\\**Sonstiges:\\\\**\\\\- Fahrzeug war bis zuletzt beim DRK im aktiven Einsatz\\\\- Bei weiteren Fragen bitte nur anrufen\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/31/312c10cf-6334-49d0-88a3-19191467d55d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/36/36ad6767-a7be-4451-8b75-e58f6f68391e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/58/58def6cd-f98d-4a11-bb93-57723b576c18?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1e/1edad88e-3f63-44d6-8634-40c68dee9746?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d0/d0c177da-a555-416d-9dc8-6c78370b5cf8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7093d47-ee73-41ac-ae58-f426a05bb66f?rule=mo-640.jpg"
+      ],
+      "category": "OtherVanUpTo7500",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312"
+    },
     {
       "id": "424340581",
       "title": "MERCEDES-BENZ",
@@ -132,12 +192,12 @@
       "firstRegistration": "202103",
       "description": "**Ford Transit Connect Kombi Trend, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Navigationssystem\\\\- Apple CarPlay\\\\- Multifunktionslenkrad\\\\- Bordcomputer\\\\- Elektrische Fensterheber\\\\- Elektrische Seitenspiegel\\\\- Zentralverriegelung\\\\- Schlüssellose Zentralverriegelung (Keyless)\\\\- ABS, ESP, Traktionskontrolle, Berganfahrassistent\\\\- Tagfahrlicht, Nebelscheinwerfer, Lichtsensor\\\\- USB\\\\- Isofix\\\\\\\\\\\\**Sonderausstattung:**\\\\- Standheizung\\\\- Anhängerkupplung fest (1.200 kg gebremst, 725 kg ungebremst)\\\\- Schiebetür beidseitig\\\\- Abgedunkelte Scheiben\\\\- Beheizbare Frontscheibe\\\\- Start/Stopp-Automatik\\\\- Partikelfilter\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Erstzulassung 03/2021\\\\- 145.000 km\\\\- 88 kW (120 PS), 1.499 cm³, Diesel, Schaltgetriebe\\\\- Schadstoffklasse Euro6, Umweltplakette Grün\\\\- HU bis 04/2027\\\\- Farbe: Schwarz Metallic (Agate Black)\\\\- 5 Sitzplätze, 4/5 Türen\\\\- Aus Erster Hand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/e9/e915fe6f-93dc-4934-80c3-7690e7968520?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b9/b99fbc39-204a-4021-9783-fc7154868190?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc7d4da8-5bc5-40c4-b598-0e49cba46b59?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e9/e915fe6f-93dc-4934-80c3-7690e7968520?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/6a/6a4a968f-01d5-44f4-aa87-b3d5f5c52dbd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/67/67f582aa-c4ae-4773-b161-9089b37bd706?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg"
       ],
       "category": "Van",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458616327"
@@ -207,7 +267,7 @@
       "title": "Langendorf SKA 24/31 Muldekipper Top Zustand",
       "make": "LANGENDORF",
       "model": "",
-      "price": "16065.00",
+      "price": "14875.00",
       "km": "",
       "firstRegistration": "201809",
       "description": "**Langendorf SKA 24/31 Muldekipper Top Zustand**\\\\\\\\\\\\**Ausstattung:**\\\\\\\\* Baujahr 2018, Erstzulassung 09/2018\\\\* Zulässiges Gesamtgewicht 36.000 kg\\\\* Achsen 3\\\\* BPW Achse\\\\* ABS\\\\* EBS\\\\* Luftfederung\\\\* Scheibenbremse\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\* Alumulde\\\\* Sonstiges:\\\\* Erster Hand\\\\* Reifen 70%\\\\* TÜV neu\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
