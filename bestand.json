@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T08:01:49.891578+00:00",
-  "count": 16,
+  "updated": "2026-08-12T08:07:54.705153+00:00",
+  "count": 17,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -61,6 +61,26 @@
       ],
       "category": "OtherVanUpTo7500",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312"
+    },
+    {
+      "id": "39345503872960",
+      "title": "MAN 15.250 Koffer, gepflegter Zustand",
+      "make": "MAN",
+      "model": "",
+      "price": "33915.00",
+      "km": "253000",
+      "firstRegistration": "201811",
+      "description": "**MAN 15.250 Koffer, gepflegter Zustand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Automatikgetriebe\\\\- Rolltor\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Deutsches Fahrzeug\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Gepflegter Gesamtzustand\\\\- Aus Erster Hand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc571353-7af5-40dd-a793-c5555be8f46b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/8a/8a793935-029f-40f3-9ac4-d57486079374?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/30/301be263-b154-40f0-ae92-4ddec15f7766?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e2/e262c5cd-e3ee-4321-81d3-f4ed62f67f4d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c5/c50d41ca-ee4d-4920-b4ef-5ff63378af56?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/48/48ad9c61-a03c-4888-afae-7a63edd8aece?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39345503872960"
     },
     {
       "id": "424340581",
