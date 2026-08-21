@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T07:31:08.646485+00:00",
-  "count": 17,
+  "updated": "2026-08-21T07:33:43.680592+00:00",
+  "count": 19,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -81,6 +81,46 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39345503872960"
+    },
+    {
+      "id": "41026791217280",
+      "title": "MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6 fernverkehr",
+      "make": "MAN",
+      "model": "",
+      "price": "23681.00",
+      "km": "536000",
+      "firstRegistration": "201607",
+      "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6 fernverkehr**\\\\**\\\\\\\\Ausstattung:Schlafkabiene\\\\**\\\\- Erstzulassung 04/2014, Baujahr 2014\\\\- 428.000 km\\\\- 213 kW (290 PS)\\\\- 6.871 cm³ Hubraum\\\\- Automatikgetriebe\\\\- Radformel 4x2\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Schadstoffklasse Euro 6\\\\- Umweltplakette 4 (Grün)\\\\- Klimaanlage\\\\1x schlafbett\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- ABS\\\\- EBS\\\\- Retarder/Intarder\\\\- Standheizung\\\\- Tempomat\\\\- Anhängerkupplung fest\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Wechselfahrgestell Pritsche/Plane\\\\- Gepflegter Zustand\\\\- **ACHTUNG! DER ANHÄNGER KOSTET EXTRA!**\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6113622-9491-4af2-b7fd-d794d7b0fee6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/96/96f07336-2e38-4d94-8e00-8f3c06bfd11d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c3/c3812f13-a31f-42a1-ad4d-8076db3e07dd?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b8/b86bea88-c3c5-4692-bc4a-9bd0493c5bbe?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/79/7982cbda-1615-4dd4-a258-437d4f066126?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/de/de9db268-da61-483d-8180-3b071a053d9f?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyAndTarpaulinTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280"
+    },
+    {
+      "id": "41027031884288",
+      "title": "Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "22491.00",
+      "km": "520000",
+      "firstRegistration": "201609",
+      "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/2f/2f9f7726-8b97-42fa-864d-849f0adff5c9?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7f/7f6810fc-a6e7-4c11-91a9-45959d79a234?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e5/e510449c-8263-4680-b05a-17f12cfbc7f8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/29/292b7397-72eb-4bcb-84eb-10b3748d4382?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/89/8983f316-8dbc-4492-adf7-2c307d2003f4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0bdcaa4-6cae-4cfb-b165-229b3c153ecb?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyAndTarpaulinTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41027031884288"
     },
     {
       "id": "424340581",
@@ -255,9 +295,9 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/88/88a6b53d-4154-400e-8463-125386bcf919?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/2a/2a9ff498-73c4-4c3d-9504-2f6e5cc727d7?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/99/994fb63d-f40c-4143-95a8-c2ee8e6ec8bd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/69/699614ae-5ef4-4ac4-a4c5-a5761567f0ad?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/9c/9ca77f3b-09f6-4d18-8c1d-4a24aa73b5cc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/41/4115592b-5900-49dc-815f-2d5798397c33?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/41/4115592b-5900-49dc-815f-2d5798397c33?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8646995-a728-4c5e-ac6c-60da11e85521?rule=mo-640.jpg"
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458971947"
