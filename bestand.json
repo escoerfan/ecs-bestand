@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T17:57:23.639279+00:00",
-  "count": 19,
+  "updated": "2026-08-28T19:07:34.962038+00:00",
+  "count": 15,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -123,26 +123,6 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41027031884288"
     },
     {
-      "id": "424340581",
-      "title": "MERCEDES-BENZ",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "9520.00",
-      "km": "890000",
-      "firstRegistration": "200905",
-      "description": "**Ausstattung:**\\\\\\\\* Automatikgetriebe\\\\* Fahrer-Klimaanlage\\\\* Standheizung\\\\* Reifenprofil ca. 80 %\\\\* TÜV 07.2026\\\\* EUR0 5 EEV\\\\\\\\**Sonderausstattung:\\\\**\\\\* Gepflegter Gesamtzustand\\\\* Ideal für Linienverkehr oder Umbauprojekte\\\\**\\\\Sonstiges:**\\\\\\\\* Fahrzeug sofort einsatzbereit\\\\* Sehr guter technischer und optischer Zustand\\\\* Besichtigung nach Absprache jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**\\\\Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea863491-a7b6-432e-9f3a-c7fd3627a46f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/dd/dd2b467a-4f9d-4856-86e4-0b54959a37e7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/2e/2e20e08e-db5c-41b0-affb-dc07fbacfae1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/fb/fbdecb82-8e2f-45ca-bae1-02301a85dab2?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a520554-7f97-4cc7-b879-88e0bc9cb632?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/08/086c4a29-68fe-473d-90a9-c82377a0c724?rule=mo-640.jpg"
-      ],
-      "category": "PublicServiceVehicleBus",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=424340581"
-    },
-    {
       "id": "443910475",
       "title": "MAN",
       "make": "MAN",
@@ -161,66 +141,6 @@
       ],
       "category": "StandardTractorAndTrailerUnit",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475"
-    },
-    {
-      "id": "450000255",
-      "title": "MERCEDES-BENZ",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "8211.00",
-      "km": "971000",
-      "firstRegistration": "200202",
-      "description": "**Ausstattung:*** 54 Sitzplätze\\\\* 33 Stehplätze\\\\* Schaltgetriebe\\\\* Kofferräume\\\\* Zielanzeige\\\\* Standheizung\\\\**\\\\\\\\Sonderausstattung:*** Keine Angabe\\\\**\\\\\\\\Sonstiges:*** Gepflegter Zustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298 **– per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/31/31cd0d15-1d10-4a58-bafd-3bdb1b289c59?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/5e/5e566dcf-c782-45f0-a53a-fa0c79abe3d1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/31/313d76ae-34c6-43c7-aa9e-ba1f5ccdd576?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4d91df31-684f-4ab7-a6bb-5b4db2adc402?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0d3eb86-c50b-470e-a041-44e0cc73f899?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/2b/2b190176-d7c5-4baf-a798-2b1e50d635f4?rule=mo-640.jpg"
-      ],
-      "category": "CrossCountryBus",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=450000255"
-    },
-    {
-      "id": "450655941",
-      "title": "MAN A78 Lions City EEV",
-      "make": "MAN",
-      "model": "",
-      "price": "11781.00",
-      "km": "678000",
-      "firstRegistration": "201212",
-      "description": "**MAN A78 Lions City EEV **\\\\\\\\\\\\**Ausstattung:*** ZF Automatikgetriebe\\\\* ABS\\\\* ASR\\\\* Elektrisch verstellbare Außenspiegel\\\\* Doppelverglasung\\\\* 44 Sitzplätze / 33 Stehplätze\\\\\\\\\\\\**Sonderausstattung:*** Fahrerklimaanlage\\\\* KAMERA\\\\* Retarder\\\\* Webasto Standheizung\\\\* LED Matrixanzeige\\\\* Radio\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 85%\\\\* TÜV BIS 11.2026\\\\* Gepflegter Zustand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f6/f6e27ed6-24a0-4909-ba2d-06a237d668a6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb565018-5d81-4ee2-9380-30c2971128ee?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/27/278a8970-d43f-4f1e-87cc-b7b79e1955c6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/7a/7a721885-9587-46c5-bb65-d6028c2705b6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/3a/3a58c679-8f46-4642-beec-41a365aaecf4?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6db8cf7-a462-4308-a8cd-fe927f95b7f1?rule=mo-640.jpg"
-      ],
-      "category": "CrossCountryBus",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=450655941"
-    },
-    {
-      "id": "454296541",
-      "title": "ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "20000.00",
-      "km": "432000",
-      "firstRegistration": "201810",
-      "description": "MERCEDES-BENZ **ATEGO 1624 Kühlkoffer 2-Kammer Tiefkühl LBW Euro 6 **\\\\* **Ausstattung:**\\\\\\\\\\\\* Radio/CD\\\\* 2-Kammer-Tiefkühlaufbau\\\\* Ladebordwand (LBW)\\\\* Klimaanlage\\\\* Elektrische Fensterheber\\\\* Rückfahrkamera\\\\* Servolenkung\\\\* EURO 6\\\\* **vorne blatt hinten luft federung**\\\\\\\\**Sonderausstattung:\\\\\\\\*** Deutsche Ausführung\\\\* Aus Erster Hand\\\\\\\\\\\\**Sonstiges:\\\\\\\\*** Deutsches Fahrzeug\\\\* Gepflegter Zustand\\\\* Sofort einsatzbereit\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter **+49 (0) 171 362 1298** – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7a4e1fa-4208-4e7c-967b-fa7e90fd34bd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/37/37476fb4-7029-477c-bac1-db5f6393de09?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1b/1bd1e47e-92c2-4b0c-9177-ee6891ff1ba3?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/7e/7e816aec-ff43-4baa-a1d1-ee51af6b2002?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb77640f-2243-4e70-a794-d62ea22dd0e6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/25/251dd20e-21e4-438c-93e0-d9a6587c50d3?rule=mo-640.jpg"
-      ],
-      "category": "RefrigeratorBodyTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=454296541"
     },
     {
       "id": "457131155",
