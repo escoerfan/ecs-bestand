@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-31T14:32:26.011048+00:00",
-  "count": 15,
+  "updated": "2026-09-01T12:12:11.590971+00:00",
+  "count": 16,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -112,15 +112,35 @@
       "firstRegistration": "201609",
       "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/7f/7f6810fc-a6e7-4c11-91a9-45959d79a234?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/2f/2f9f7726-8b97-42fa-864d-849f0adff5c9?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e5/e510449c-8263-4680-b05a-17f12cfbc7f8?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/29/292b7397-72eb-4bcb-84eb-10b3748d4382?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/89/8983f316-8dbc-4492-adf7-2c307d2003f4?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0bdcaa4-6cae-4cfb-b165-229b3c153ecb?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/04/04425b39-3a43-4ab8-b3f0-0e7b2e477bbf?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0c8cf35-2860-460f-95cd-a15ac3a50ab2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/21/21782c99-2d8f-47e7-bb9f-f7de4e7c4ce2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/c9/c9bcb89c-a3f5-42e2-9c5f-e1f4fe436896?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f5/f57b0870-65ba-46a7-930a-3c2046f9dde7?rule=mo-640.jpg"
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41027031884288"
+    },
+    {
+      "id": "43077616533024",
+      "title": "MAN 12.220 KOFFER MIT SCHLAFKABIENE 1HAND",
+      "make": "MAN",
+      "model": "",
+      "price": "38675.00",
+      "km": "254000",
+      "firstRegistration": "201906",
+      "description": "* **MAN 12.220 KOFFER MIT SCHLAFKABIENE 1HAND**\\\\* **LBW**\\\\* **KLIMA**\\\\* **STANDHEIZUNG**\\\\* **VORNE BLATT GEFEDERT**\\\\* **HINTEN LUFT**\\\\* **GEPFLEGTEN ZUSTAND**\\\\* **NAVI**\\\\* **SCHALTUNG**\\\\* **E.F.H**\\\\* **RADIO/CD**\\\\* **KAMMERA **\\\\* **U.S.W**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/21/21f0db48-dcb9-4396-86e5-a55255b7765f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/58/587cd1ff-7789-4cb2-8221-cf3c756f65a4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c203e85-f679-4b24-b40d-d2449e00bf67?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7b/7b11da42-f444-4ed6-9a77-9e9d40a11622?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/89/89791d04-cb4a-4158-88e6-023022cb6e31?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/14/1411d0c8-d5b8-4efd-9800-3c5576c13582?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43077616533024"
     },
     {
       "id": "443910475",
