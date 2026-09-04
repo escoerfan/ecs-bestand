@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T11:48:46.848019+00:00",
+  "updated": "2026-09-04T11:50:59.899245+00:00",
   "count": 16,
   "vehicles": [
     {
@@ -124,13 +124,13 @@
     },
     {
       "id": "43077616533024",
-      "title": "MAN 12.220 KOFFER MIT SCHLAFKABIENE 1HAND",
+      "title": "MAN 12.220 Koffer mit Schlafkabine, Aus Erster Hand, LBW, Klima, Standheizung",
       "make": "MAN",
       "model": "",
       "price": "38675.00",
       "km": "254000",
       "firstRegistration": "201906",
-      "description": "* **MAN 12.220 KOFFER MIT SCHLAFKABIENE 1HAND**\\\\* **LBW**\\\\* **KLIMA**\\\\* **STANDHEIZUNG**\\\\* **VORNE BLATT GEFEDERT**\\\\* **HINTEN LUFT**\\\\* **GEPFLEGTEN ZUSTAND**\\\\* **NAVI**\\\\* **SCHALTUNG**\\\\* **E.F.H**\\\\* **RADIO/CD**\\\\* **KAMMERA **\\\\* **U.S.W**\\\\",
+      "description": "**MAN 12.220 Koffer mit Schlafkabine, Aus Erster Hand, LBW, Klima, Standheizung**\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Standheizung\\\\- Schaltgetriebe\\\\- Elektrische Fensterheber\\\\- Radio/CD\\\\- Blattfederung vorne\\\\- Luftfederung hinten\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Ladebordwand (LBW)\\\\- Schlafkabine\\\\- Navigationssystem\\\\- Rückfahrkamera\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand\\\\- Gepflegter Zustand\\\\- Weitere Ausstattung vorhanden\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/89/89791d04-cb4a-4158-88e6-023022cb6e31?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/14/1411d0c8-d5b8-4efd-9800-3c5576c13582?rule=mo-640.jpg",
@@ -141,6 +141,26 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43077616533024"
+    },
+    {
+      "id": "43445772003616",
+      "title": "Ford Transit 2.2 TDCi Pritsche Lang, Erste Hand, Klima, AHK",
+      "make": "FORD",
+      "model": "",
+      "price": "8925.00",
+      "km": "153000",
+      "firstRegistration": "201611",
+      "description": "**Ford Transit 2.2 TDCi Pritsche Lang, Erste Hand, Klima, AHK**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Servolenkung\\\\- Airbag\\\\- Schaltgetriebe\\\\- Diesel\\\\- Lange Pritsche\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Anhängerkupplung\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 11/2016\\\\- 153.000 km\\\\- 100 kW (136 PS)\\\\- Erste Hand\\\\- Gepflegter Zustand, technisch und optisch in Ordnung\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/2f/2fe316ed-322b-46a3-abd0-b1515496731a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/10/10d41a73-4beb-4f64-bc88-de54dcb3d7cc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d6/d6c9c26d-75a5-4dc6-a73a-a064aff9862f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/57/576d2293-187d-4f85-95a9-bc7747a1f9cc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/8b/8bcabfa5-df76-44c7-a1c8-6aac824cd2e0?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ed/ed6becff-c8bf-42f3-acd1-f22a0be69b93?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43445772003616"
     },
     {
       "id": "443910475",
@@ -221,26 +241,6 @@
       ],
       "category": "SwapChassisTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958"
-    },
-    {
-      "id": "458971947",
-      "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
-      "make": "MAN",
-      "model": "",
-      "price": "28900.00",
-      "km": "192000",
-      "firstRegistration": "202004",
-      "description": "**MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand **\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor 6.871 cm³ / 184 kW (250 PS)\\\\- Schaltgetriebe\\\\- Vorderachse Blattfederung\\\\- Hinterachse Luftfederung\\\\- Ladebordwand (LBW)\\\\- Klimaanlage\\\\- Standheizung\\\\- Navigationssystem\\\\- Tempomat\\\\- ABS\\\\- Retarder/Intarder\\\\- Anhängerkupplung fest\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Schlafkabine (Fernverkehrsfahrerhaus)\\\\- Euro 6 / Umweltplakette 4 (Grün)\\\\- HU Neu\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 04/2020, Baujahr 2020\\\\- Kilometerstand 254.000 km\\\\- Zulässiges Gesamtgewicht 11.990 kg\\\\- Achsformel 4x2\\\\- Kategorie Koffer\\\\- Erster Hand\\\\- Gepflegter Zustand\\\\- Mit Anhängerkupplung\\\\**\\\\\\\\Maße und Aufbau des Koffers (von Innen):\\\\**\\\\- Länge 7,0 Meter\\\\- Höhe 2,40 Meter\\\\- Breite 2,50 Meter\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 –\\\\per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/88/88a6b53d-4154-400e-8463-125386bcf919?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/2a/2a9ff498-73c4-4c3d-9504-2f6e5cc727d7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/99/994fb63d-f40c-4143-95a8-c2ee8e6ec8bd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9c/9ca77f3b-09f6-4d18-8c1d-4a24aa73b5cc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/41/4115592b-5900-49dc-815f-2d5798397c33?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8646995-a728-4c5e-ac6c-60da11e85521?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458971947"
     },
     {
       "id": "459613568",
