@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T11:51:38.954123+00:00",
-  "count": 15,
+  "updated": "2026-09-09T12:01:50.953879+00:00",
+  "count": 16,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -143,6 +143,26 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43445772003616"
     },
     {
+      "id": "44328763358400",
+      "title": "MAN TGS 18.330 Koffer mit LBW, 1. Hand, nur 360.000 km, Automatik, Top Zustand",
+      "make": "MAN",
+      "model": "",
+      "price": "18921.00",
+      "km": "360000",
+      "firstRegistration": "201406",
+      "description": "**MAN TGS 18.330 Koffer mit LBW, 1. Hand, nur 360.000 km, Automatik, Top Zustand**\\\\\\\\**Ausstattung:\\\\\\\\*** Klimaanlage\\\\* Retarder\\\\* Automatikgetriebe\\\\* Vorne Blattfederung, hinten Luftfederung\\\\* Elektrische Fensterheber\\\\* Radio CD\\\\\\\\**\\\\Sonderausstattung:\\\\\\\\*** Ladebordwand 2.000 kg\\\\* Rückfahrkamera\\\\* Navigationssystem\\\\* Hochwertige Schrankeinbauten im Kofferaufbau, demontierbar\\\\**\\\\\\\\Sonstiges:\\\\\\\\*** Aus Erster Hand\\\\* Laufleistung 360.000 km\\\\* Reifen ca. 80 %\\\\* Sehr gepflegter Gesamtzustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e8ff071-6373-4a43-85c2-8121eb8539c3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e6/e6c087d7-c09f-4973-929e-3a29636e6bbc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e2/e2bb0f16-3c62-40e2-8cee-3dc674992f44?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/86/86b8debb-38a1-4780-bd00-da8ce1b19938?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0c/0c526b33-1c5a-4697-b00a-6b4a86f46a88?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8ccc375-342f-4a86-a1d6-87cb44ee3554?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=44328763358400"
+    },
+    {
       "id": "443910475",
       "title": "MAN",
       "make": "MAN",
@@ -164,13 +184,13 @@
     },
     {
       "id": "457131155",
-      "title": "Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar",
+      "title": "Schmitz Cargobull SKI 24 Kippmulde",
       "make": "SCHMITZ",
       "model": "",
-      "price": "14875.00",
+      "price": "11662.00",
       "km": "",
-      "firstRegistration": "201409",
-      "description": "**Schmitz Cargobull SKI 24 Kippmulde | 4x verfügbar **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
+      "firstRegistration": "201209",
+      "description": "**Schmitz Cargobull SKI 24 Kippmulde **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/c2/c291db37-34fa-425a-a132-d17f4b41bbb6?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/d1/d1542a19-c106-4738-a862-0fa478e6799a?rule=mo-640.jpg",
@@ -247,17 +267,17 @@
       "title": "Langendorf SKA 24/31 Muldekipper Top Zustand",
       "make": "LANGENDORF",
       "model": "",
-      "price": "14875.00",
+      "price": "12971.00",
       "km": "",
       "firstRegistration": "201809",
       "description": "**Langendorf SKA 24/31 Muldekipper Top Zustand**\\\\\\\\\\\\**Ausstattung:**\\\\\\\\* Baujahr 2018, Erstzulassung 09/2018\\\\* Zulässiges Gesamtgewicht 36.000 kg\\\\* Achsen 3\\\\* BPW Achse\\\\* ABS\\\\* EBS\\\\* Luftfederung\\\\* Scheibenbremse\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\* Alumulde\\\\* Sonstiges:\\\\* Erster Hand\\\\* Reifen 70%\\\\* TÜV neu\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/80/80778157-4f63-419d-b964-abf5cc80f705?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/77/771a5296-80ff-43c9-8f11-cabd431e13b1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c69f89e-a662-4b49-a30e-afad458ba98d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/37/371066db-8851-4497-ad3b-72490fa92c5f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/8d/8d5a3bdc-4c34-415a-ba83-158ef9cb9f51?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/db/dbbc43c1-0871-4783-970e-fee3a91b9723?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/b4/b46af209-ba2c-491e-b795-4c6861e4b4ea?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/11/1185584b-f430-4ca2-9b92-d16f232cc41a?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/37/371066db-8851-4497-ad3b-72490fa92c5f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b4/b46af209-ba2c-491e-b795-4c6861e4b4ea?rule=mo-640.jpg"
       ],
       "category": "TipperSemiTrailer",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459614345"
@@ -267,7 +287,7 @@
       "title": "MAN 33.440 MEILLER ABROLLKIPPER 6X4 Aus Erster Hand",
       "make": "MAN",
       "model": "",
-      "price": "",
+      "price": "26180.00",
       "km": "692000",
       "firstRegistration": "200810",
       "description": "**MAN 33.440 MEILLER ABROLLKIPPER 6X4 Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:**\\\\\\\\* ABS\\\\* EBS\\\\* ESP\\\\* Tempomat\\\\* Anhängerkupplung fest\\\\* Klimaanlage\\\\* Sonderausstattung:\\\\* Standheizung\\\\* Schlafbett\\\\* Blattfederung\\\\**\\\\\\\\Sonstiges:\\\\**\\\\* Aus Erster Hand\\\\* Kilometerstand 692.000 km\\\\* Leistung 324 kW (441 PS)\\\\* Erstzulassung 10/2008\\\\* Getriebe Schaltgetriebe\\\\* Schadstoffklasse Euro 5, Umweltplakette Grün\\\\* Zulässiges Gesamtgewicht 33.000 kg\\\\* Achsen 3, Radformel 6x4\\\\* Kipphydraulik\\\\* Fahrerhaus Fernverkehr mit Klimaanlage\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
