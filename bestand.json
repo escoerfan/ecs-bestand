@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T11:56:07.294732+00:00",
-  "count": 16,
+  "updated": "2026-09-11T11:55:08.242929+00:00",
+  "count": 13,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -41,26 +41,6 @@
       ],
       "category": "OtherVanUpTo7500",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312"
-    },
-    {
-      "id": "39345503872960",
-      "title": "MAN 15.250 Koffer, gepflegter Zustand",
-      "make": "MAN",
-      "model": "",
-      "price": "33915.00",
-      "km": "253000",
-      "firstRegistration": "201711",
-      "description": "**MAN 15.250 Koffer, gepflegter Zustand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Automatikgetriebe\\\\- Rolltor\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Deutsches Fahrzeug\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Gepflegter Gesamtzustand\\\\- Aus Erster Hand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/e2/e262c5cd-e3ee-4321-81d3-f4ed62f67f4d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c9f99fa-0fad-475f-ab5c-f6279c472f4c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc571353-7af5-40dd-a793-c5555be8f46b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c5/c50d41ca-ee4d-4920-b4ef-5ff63378af56?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/48/48ad9c61-a03c-4888-afae-7a63edd8aece?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/8a/8a793935-029f-40f3-9ac4-d57486079374?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39345503872960"
     },
     {
       "id": "41026791217280",
@@ -121,46 +101,6 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43077616533024"
-    },
-    {
-      "id": "43445772003616",
-      "title": "Ford Transit 2.2 TDCi Pritsche Lang, Erste Hand, Klima, AHK",
-      "make": "FORD",
-      "model": "",
-      "price": "5890.50",
-      "km": "153000",
-      "firstRegistration": "201611",
-      "description": "**Ford Transit 2.2 TDCi Pritsche Lang, Erste Hand, Klima, AHK**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Servolenkung\\\\- Airbag\\\\- Schaltgetriebe\\\\- Diesel\\\\- Lange Pritsche\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Anhängerkupplung\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 11/2016\\\\- 153.000 km\\\\- 100 kW (136 PS)\\\\- Erste Hand\\\\- Gepflegter Zustand, technisch und optisch in Ordnung\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/2f/2fe316ed-322b-46a3-abd0-b1515496731a?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/10/10d41a73-4beb-4f64-bc88-de54dcb3d7cc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d6/d6c9c26d-75a5-4dc6-a73a-a064aff9862f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/57/576d2293-187d-4f85-95a9-bc7747a1f9cc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/8b/8bcabfa5-df76-44c7-a1c8-6aac824cd2e0?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/ed/ed6becff-c8bf-42f3-acd1-f22a0be69b93?rule=mo-640.jpg"
-      ],
-      "category": "StakeBodyTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43445772003616"
-    },
-    {
-      "id": "44328763358400",
-      "title": "MAN TGS 18.330 Koffer mit LBW, 1. Hand, nur 360.000 km, Automatik, Top Zustand",
-      "make": "MAN",
-      "model": "",
-      "price": "18921.00",
-      "km": "360000",
-      "firstRegistration": "201406",
-      "description": "**MAN TGS 18.330 Koffer mit LBW, 1. Hand, nur 360.000 km, Automatik, Top Zustand**\\\\\\\\**Ausstattung:\\\\\\\\*** Klimaanlage\\\\* Retarder\\\\* Automatikgetriebe\\\\* Vorne Blattfederung, hinten Luftfederung\\\\* Elektrische Fensterheber\\\\* Radio CD\\\\\\\\**\\\\Sonderausstattung:\\\\\\\\*** Ladebordwand 2.000 kg\\\\* Rückfahrkamera\\\\* Navigationssystem\\\\* Hochwertige Schrankeinbauten im Kofferaufbau, demontierbar\\\\**\\\\\\\\Sonstiges:\\\\\\\\*** Aus Erster Hand\\\\* Laufleistung 360.000 km\\\\* Reifen ca. 80 %\\\\* Sehr gepflegter Gesamtzustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e8ff071-6373-4a43-85c2-8121eb8539c3?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e6/e6c087d7-c09f-4973-929e-3a29636e6bbc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e2/e2bb0f16-3c62-40e2-8cee-3dc674992f44?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/86/86b8debb-38a1-4780-bd00-da8ce1b19938?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0c/0c526b33-1c5a-4697-b00a-6b4a86f46a88?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8ccc375-342f-4a86-a1d6-87cb44ee3554?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=44328763358400"
     },
     {
       "id": "443910475",
