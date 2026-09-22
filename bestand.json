@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-21T13:26:45.268297+00:00",
-  "count": 13,
+  "updated": "2026-09-22T12:11:08.211707+00:00",
+  "count": 12,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -12,8 +12,8 @@
       "firstRegistration": "201609",
       "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0c8cf35-2860-460f-95cd-a15ac3a50ab2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/8f/8f57039d-5f84-4961-be80-a7a7b1c3a6c5?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/2f/2f9f7726-8b97-42fa-864d-849f0adff5c9?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f855f70-50fc-454f-ae77-a591f39ce0a3?rule=mo-640.jpg",
@@ -123,26 +123,6 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475"
     },
     {
-      "id": "457131155",
-      "title": "Schmitz Cargobull SKI 24 Kippmulde",
-      "make": "SCHMITZ",
-      "model": "",
-      "price": "11662.00",
-      "km": "",
-      "firstRegistration": "201209",
-      "description": "**Schmitz Cargobull SKI 24 Kippmulde **\\\\\\\\\\\\**Ausstattung:*** SCHMITZ Kippmulde, ca. 24 m³ Volumen\\\\* Sattelauflieger\\\\\\\\\\\\**Sonstiges:*** Bereifung ca. 80%\\\\* 4 Einheiten verfügbar\\\\* Top Allgemeinzustand\\\\* Besichtigung jederzeit möglich\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten. **\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/c2/c291db37-34fa-425a-a132-d17f4b41bbb6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d1/d1542a19-c106-4738-a862-0fa478e6799a?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/fa/fa769a0f-96b7-4e75-8a96-680431d2f9b8?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e7/e76e7f2f-6336-4984-9125-aca9b4a0bd1a?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/28/28ac8862-599b-473d-ae91-fab39900c3d3?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/14/143bd7a3-d5c8-4711-bbfa-e72104df04d3?rule=mo-640.jpg"
-      ],
-      "category": "TipperSemiTrailer",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=457131155"
-    },
-    {
       "id": "458616327",
       "title": "Ford Transit Connect Kombi Trend, 1. Hand",
       "make": "FORD",
@@ -152,10 +132,10 @@
       "firstRegistration": "202103",
       "description": "**Ford Transit Connect Kombi Trend, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Navigationssystem\\\\- Apple CarPlay\\\\- Multifunktionslenkrad\\\\- Bordcomputer\\\\- Elektrische Fensterheber\\\\- Elektrische Seitenspiegel\\\\- Zentralverriegelung\\\\- Schlüssellose Zentralverriegelung (Keyless)\\\\- ABS, ESP, Traktionskontrolle, Berganfahrassistent\\\\- Tagfahrlicht, Nebelscheinwerfer, Lichtsensor\\\\- USB\\\\- Isofix\\\\\\\\\\\\**Sonderausstattung:**\\\\- Standheizung\\\\- Anhängerkupplung fest (1.200 kg gebremst, 725 kg ungebremst)\\\\- Schiebetür beidseitig\\\\- Abgedunkelte Scheiben\\\\- Beheizbare Frontscheibe\\\\- Start/Stopp-Automatik\\\\- Partikelfilter\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Erstzulassung 03/2021\\\\- 145.000 km\\\\- 88 kW (120 PS), 1.499 cm³, Diesel, Schaltgetriebe\\\\- Schadstoffklasse Euro6, Umweltplakette Grün\\\\- HU bis 04/2027\\\\- Farbe: Schwarz Metallic (Agate Black)\\\\- 5 Sitzplätze, 4/5 Türen\\\\- Aus Erster Hand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/b9/b99fbc39-204a-4021-9783-fc7154868190?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc7d4da8-5bc5-40c4-b598-0e49cba46b59?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/e9/e915fe6f-93dc-4934-80c3-7690e7968520?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc7d4da8-5bc5-40c4-b598-0e49cba46b59?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b9/b99fbc39-204a-4021-9783-fc7154868190?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/6a/6a4a968f-01d5-44f4-aa87-b3d5f5c52dbd?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg"
       ],
