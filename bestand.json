@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T12:23:34.748995+00:00",
-  "count": 13,
+  "updated": "2026-09-24T12:23:18.275544+00:00",
+  "count": 14,
   "vehicles": [
     {
       "id": "39177300739296",
@@ -81,26 +81,6 @@
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41027031884288"
-    },
-    {
-      "id": "43077616533024",
-      "title": "MAN 12.220 Koffer mit Schlafkabine, Aus Erster Hand, LBW, Klima, Standheizung",
-      "make": "MAN",
-      "model": "",
-      "price": "38675.00",
-      "km": "254000",
-      "firstRegistration": "201906",
-      "description": "**MAN 12.220 Koffer mit Schlafkabine, Aus Erster Hand, LBW, Klima, Standheizung**\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Standheizung\\\\- Schaltgetriebe\\\\- Elektrische Fensterheber\\\\- Radio/CD\\\\- Blattfederung vorne\\\\- Luftfederung hinten\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Ladebordwand (LBW)\\\\- Schlafkabine\\\\- Navigationssystem\\\\- Rückfahrkamera\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand\\\\- Gepflegter Zustand\\\\- Weitere Ausstattung vorhanden\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/d0/d0d8cae5-be57-4171-9365-e315fe54a2be?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/89/89791d04-cb4a-4158-88e6-023022cb6e31?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/14/1411d0c8-d5b8-4efd-9800-3c5576c13582?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/77/773593d8-31f6-4072-9b1f-d44b75e5e40b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/21/21f0db48-dcb9-4396-86e5-a55255b7765f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/58/587cd1ff-7789-4cb2-8221-cf3c756f65a4?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=43077616533024"
     },
     {
       "id": "443910475",
@@ -244,13 +224,13 @@
     },
     {
       "id": "46815508165536",
-      "title": "VOLVO",
+      "title": "Volvo FH12 Abrollkipper",
       "make": "VOLVO",
       "model": "",
       "price": "9401.00",
       "km": "903000",
       "firstRegistration": "200512",
-      "description": "",
+      "description": "**Volvo FH12 Abrollkipper**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Automatikgetriebe\\\\- Klimaanlage\\\\- Elektrische Fensterheber\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\- Schlafbett\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aufbau: Abrollkipper\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/3f/3f00350d-5f27-4af1-8f53-4a7adc8d1114?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7969242-5df3-4495-a799-d6651b3cb2b4?rule=mo-640.jpg",
@@ -261,6 +241,46 @@
       ],
       "category": "RollOffTipperTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=46815508165536"
+    },
+    {
+      "id": "47151741292160",
+      "title": "MAN 12.220 TGL KOFFER",
+      "make": "MAN",
+      "model": "",
+      "price": "10698.10",
+      "km": "309800",
+      "firstRegistration": "201305",
+      "description": "* **MAN 12.220 TGL KOFFER**\\\\* **LBW**\\\\* **KLIMA**\\\\* **VORNE BLATT**\\\\* **HINTEN LUFT**\\\\* **KOFFER 8,20 METER**\\\\* **BEI FRAGEN BITTE ANRUFEN**\\\\\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/f4/f48ce06c-79b1-4e86-b864-98c0d5e75d92?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/5b/5b832b82-a61f-4230-9f37-db24cc0a184d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/03/031875d7-d5af-4e7d-8d5d-be9124c2febc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/3d/3d0f038f-a38c-4320-947f-7a7a6ab0e143?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/52/525ac913-a89a-4c8d-ba40-83bf150e858d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/11/110bbb09-e733-4b1a-a5b9-cd927b746bef?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47151741292160"
+    },
+    {
+      "id": "47155020254112",
+      "title": "MERCEDES-BENZ",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "14280.00",
+      "km": "54000",
+      "firstRegistration": "200312",
+      "description": "",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/19/19a20719-b8af-48da-9647-477eb267589e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ea/eab1132f-1fcb-44c9-b8ed-2fb9e4c6459b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1d/1da556b2-b9c3-42ac-b6d3-5516fc0fd468?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d2/d2c1ac33-ca10-43ab-afbf-05f2e014109b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0b/0b3038c7-8032-4142-b251-06f85ae80d6d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0a/0a1a0944-e604-404d-990d-4bea38ff3f36?rule=mo-640.jpg"
+      ],
+      "category": "RefuseTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47155020254112"
     }
   ]
 }
