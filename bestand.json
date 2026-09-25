@@ -1,27 +1,7 @@
 {
-  "updated": "2026-09-24T12:23:18.275544+00:00",
-  "count": 14,
+  "updated": "2026-09-25T12:23:01.348199+00:00",
+  "count": 12,
   "vehicles": [
-    {
-      "id": "39177300739296",
-      "title": "Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "22491.00",
-      "km": "520000",
-      "firstRegistration": "201609",
-      "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0c8cf35-2860-460f-95cd-a15ac3a50ab2?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/8f/8f57039d-5f84-4961-be80-a7a7b1c3a6c5?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/2f/2f9f7726-8b97-42fa-864d-849f0adff5c9?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f855f70-50fc-454f-ae77-a591f39ce0a3?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/a8/a86d0126-e482-4156-9da7-f51e53a1ceaa?rule=mo-640.jpg"
-      ],
-      "category": "SwapChassisTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39177300739296"
-    },
     {
       "id": "39233274649312",
       "title": "MERCEDES-BENZ 816 ATEGO DOPPELKABINE KATASTROPHENSCHUTZ EINSATZWAGEN KÜHLKOFFER SO.KFZ",
@@ -61,26 +41,6 @@
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280"
-    },
-    {
-      "id": "41027031884288",
-      "title": "Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "22491.00",
-      "km": "520000",
-      "firstRegistration": "201609",
-      "description": "**Mercedes-Benz 1833 Antos Wechselfahrgestell Komplettzug Klima Automatik**\\\\**\\\\Ausstattung:\\\\**\\\\- Abstandstempomat\\\\- Anhängerkupplung fest\\\\- Retarder/Intarder\\\\- Klimaanlage\\\\- Radio/CD\\\\- 2x Bett\\\\\\\\**Sonderausstattung:\\\\**\\\\- Navigationssystem\\\\- Standheizung\\\\- Scheckheftgepflegt\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 09/2016\\\\- Kilometerstand 520.000 km\\\\- 240 kW (326 PS), Diesel, Automatik\\\\- Zulässiges Gesamtgewicht 18.000 kg\\\\- Schadstoffklasse Euro 6, Umweltplakette Grün\\\\- HU bis 12/2026\\\\- Reifen ca. 80%\\\\**- Anhänger Baujahr 2011, nicht im Preis enthalten (Stern-Anhänger)**\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f0/f096dfdc-167c-45ca-9e7d-7151e7ced316?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/04/04425b39-3a43-4ab8-b3f0-0e7b2e477bbf?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0c8cf35-2860-460f-95cd-a15ac3a50ab2?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/21/21782c99-2d8f-47e7-bb9f-f7de4e7c4ce2?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c9/c9bcb89c-a3f5-42e2-9c5f-e1f4fe436896?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/f5/f57b0870-65ba-46a7-930a-3c2046f9dde7?rule=mo-640.jpg"
-      ],
-      "category": "StakeBodyAndTarpaulinTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41027031884288"
     },
     {
       "id": "443910475",
