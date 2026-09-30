@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T13:31:03.907051+00:00",
-  "count": 11,
+  "updated": "2026-09-30T13:07:03.469740+00:00",
+  "count": 10,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -181,26 +181,6 @@
       ],
       "category": "RollOffTipperTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=46815508165536"
-    },
-    {
-      "id": "47151741292160",
-      "title": "MAN 12.220 TGL KOFFER MOTOR GESTÖRT",
-      "make": "MAN",
-      "model": "",
-      "price": "",
-      "km": "309800",
-      "firstRegistration": "201305",
-      "description": "* **MAN 12.220 TGL KOFFER MOTOR GESTÖRT**\\\\* **LBW**\\\\* **KLIMA**\\\\* **VORNE BLATT**\\\\* **HINTEN LUFT**\\\\* **KOFFER 8,20 METER**\\\\* **BEI FRAGEN BITTE ANRUFEN**\\\\\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f4/f48ce06c-79b1-4e86-b864-98c0d5e75d92?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/5b/5b832b82-a61f-4230-9f37-db24cc0a184d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/03/031875d7-d5af-4e7d-8d5d-be9124c2febc?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/3d/3d0f038f-a38c-4320-947f-7a7a6ab0e143?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/52/525ac913-a89a-4c8d-ba40-83bf150e858d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/11/110bbb09-e733-4b1a-a5b9-cd927b746bef?rule=mo-640.jpg"
-      ],
-      "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47151741292160"
     },
     {
       "id": "47155020254112",
