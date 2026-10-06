@@ -56,10 +56,6 @@ result = []
 for ad in ads_raw:
     vehicle = ad.get('ad', ad)
 
-    # DEBUG: alle Felder außer Beschreibung/Bilder ausgeben, um das Status-Feld zu finden
-    dbg = {k: v for k, v in vehicle.items() if k not in ('description', 'images', 'features')}
-    print('DEBUG', json.dumps(dbg, ensure_ascii=False)[:3000])
-
     # ── FIX 1 (Fallback): Status nochmal auf Objekt-Ebene prüfen ──
     # Falls die API trotzdem inaktive zurückgibt, werden sie hier gefiltert.
     status = vehicle.get('status', {})
@@ -70,6 +66,13 @@ for ad in ads_raw:
     if status_key and status_key.upper() not in ('ACTIVE', 'ACTIVATED', ''):
         print(f"  Übersprungen (Status={status_key}): {vehicle.get('id', '?')}")
         continue
+
+    # ── FIX 3: Deaktivierte Anzeigen haben kein renewalDate (nicht veröffentlicht) ──
+    # Die API kennt kein Status-Feld. Deaktivierte bleiben drin, werden aber als
+    # reserviert markiert (Website zeigt dann ein RESERVIERT-Banner).
+    reserved = not vehicle.get('renewalDate') or bool(vehicle.get('reserved'))
+    if reserved:
+        print(f"  Reserviert/deaktiviert: {vehicle.get('mobileAdId', '?')}")
 
     # Marke
     make_raw = vehicle.get('make', {})
@@ -159,7 +162,8 @@ for ad in ads_raw:
         'description': description,
         'images': images,
         'category': cat_name,
-        'mobileUrl': mobile_url
+        'mobileUrl': mobile_url,
+        'reserved': reserved
     })
 
 output = {
