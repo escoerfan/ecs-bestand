@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T09:50:00.394219+00:00",
+  "updated": "2026-10-06T09:51:30.123311+00:00",
   "count": 10,
   "vehicles": [
     {
@@ -20,7 +20,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7093d47-ee73-41ac-ae58-f426a05bb66f?rule=mo-640.jpg"
       ],
       "category": "OtherVanUpTo7500",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312",
+      "reserved": false
     },
     {
       "id": "41026791217280",
@@ -40,7 +41,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/5d/5de77acb-5210-4f4a-a6c8-a946c255792a?rule=mo-640.jpg"
       ],
       "category": "StakeBodyAndTarpaulinTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280",
+      "reserved": false
     },
     {
       "id": "443910475",
@@ -60,7 +62,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/55/5587693c-821b-474b-98f7-d7cb37861732?rule=mo-640.jpg"
       ],
       "category": "StandardTractorAndTrailerUnit",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475",
+      "reserved": false
     },
     {
       "id": "458616327",
@@ -80,7 +83,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg"
       ],
       "category": "Van",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458616327"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458616327",
+      "reserved": false
     },
     {
       "id": "458861958",
@@ -100,7 +104,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/d3/d3771d2c-56aa-4dbb-9fc1-b21491b79a98?rule=mo-640.jpg"
       ],
       "category": "SwapChassisTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958",
+      "reserved": false
     },
     {
       "id": "459613568",
@@ -120,7 +125,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/1b/1b5eb78a-bc28-475d-bbdf-51df4e09699c?rule=mo-640.jpg"
       ],
       "category": "OtherSemiTrailerTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459613568"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459613568",
+      "reserved": false
     },
     {
       "id": "459614345",
@@ -140,7 +146,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/31/312ba0d1-cc69-413b-a7e3-66c386c4c0c2?rule=mo-640.jpg"
       ],
       "category": "TipperSemiTrailer",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459614345"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459614345",
+      "reserved": false
     },
     {
       "id": "460820321",
@@ -160,7 +167,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/4c/4cbbfdb4-d227-4ce6-a772-c29296beafd1?rule=mo-640.jpg"
       ],
       "category": "BoxTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460820321"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460820321",
+      "reserved": false
     },
     {
       "id": "46815508165536",
@@ -180,7 +188,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/c4/c4a5ba24-3b64-4b36-9385-5eb5417b4e49?rule=mo-640.jpg"
       ],
       "category": "RollOffTipperTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=46815508165536"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=46815508165536",
+      "reserved": true
     },
     {
       "id": "47155020254112",
@@ -200,7 +209,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/0a/0a1a0944-e604-404d-990d-4bea38ff3f36?rule=mo-640.jpg"
       ],
       "category": "RefuseTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47155020254112"
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47155020254112",
+      "reserved": true
     }
   ]
 }
