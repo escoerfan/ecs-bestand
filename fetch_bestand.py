@@ -56,6 +56,10 @@ result = []
 for ad in ads_raw:
     vehicle = ad.get('ad', ad)
 
+    # DEBUG: alle Felder außer Beschreibung/Bilder ausgeben, um das Status-Feld zu finden
+    dbg = {k: v for k, v in vehicle.items() if k not in ('description', 'images', 'features')}
+    print('DEBUG', json.dumps(dbg, ensure_ascii=False)[:3000])
+
     # ── FIX 1 (Fallback): Status nochmal auf Objekt-Ebene prüfen ──
     # Falls die API trotzdem inaktive zurückgibt, werden sie hier gefiltert.
     status = vehicle.get('status', {})
