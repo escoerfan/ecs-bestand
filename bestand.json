@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T13:44:15.680295+00:00",
-  "count": 10,
+  "updated": "2026-10-07T14:02:05.761012+00:00",
+  "count": 9,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -70,14 +70,14 @@
       "title": "Ford Transit Connect Kombi Trend, 1. Hand",
       "make": "FORD",
       "model": "Transit",
-      "price": "9800.00",
+      "price": "8500.00",
       "km": "145000",
       "firstRegistration": "202103",
       "description": "**Ford Transit Connect Kombi Trend, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- Navigationssystem\\\\- Apple CarPlay\\\\- Multifunktionslenkrad\\\\- Bordcomputer\\\\- Elektrische Fensterheber\\\\- Elektrische Seitenspiegel\\\\- Zentralverriegelung\\\\- Schlüssellose Zentralverriegelung (Keyless)\\\\- ABS, ESP, Traktionskontrolle, Berganfahrassistent\\\\- Tagfahrlicht, Nebelscheinwerfer, Lichtsensor\\\\- USB\\\\- Isofix\\\\\\\\\\\\**Sonderausstattung:**\\\\- Standheizung\\\\- Anhängerkupplung fest (1.200 kg gebremst, 725 kg ungebremst)\\\\- Schiebetür beidseitig\\\\- Abgedunkelte Scheiben\\\\- Beheizbare Frontscheibe\\\\- Start/Stopp-Automatik\\\\- Partikelfilter\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Erstzulassung 03/2021\\\\- 145.000 km\\\\- 88 kW (120 PS), 1.499 cm³, Diesel, Schaltgetriebe\\\\- Schadstoffklasse Euro6, Umweltplakette Grün\\\\- HU bis 04/2027\\\\- Farbe: Schwarz Metallic (Agate Black)\\\\- 5 Sitzplätze, 4/5 Türen\\\\- Aus Erster Hand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/b9/b99fbc39-204a-4021-9783-fc7154868190?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/e9/e915fe6f-93dc-4934-80c3-7690e7968520?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc7d4da8-5bc5-40c4-b598-0e49cba46b59?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/b9/b99fbc39-204a-4021-9783-fc7154868190?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddae957d-34f6-48fc-a10e-1d9ee92e70f1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/6a/6a4a968f-01d5-44f4-aa87-b3d5f5c52dbd?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/76/764477d7-74ca-4384-8e20-972610110002?rule=mo-640.jpg"
@@ -171,45 +171,17 @@
       "reserved": false
     },
     {
-      "id": "46815508165536",
-      "title": "Volvo FH12 Abrollkipper",
-      "make": "VOLVO",
-      "model": "",
-      "price": "3000.00",
-      "km": "903000",
-      "firstRegistration": "200512",
-      "description": "**Volvo FH12 Abrollkipper**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Automatikgetriebe\\\\- Klimaanlage\\\\- Elektrische Fensterheber\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\- Schlafbett\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aufbau: Abrollkipper\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/3f/3f00350d-5f27-4af1-8f53-4a7adc8d1114?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7969242-5df3-4495-a799-d6651b3cb2b4?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/56/56f886f4-5185-43d1-a553-4defce7ce234?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d3b1cca-8ad1-4399-b20d-2f1659c92b93?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1d/1de4141d-ac61-4f8b-8f2e-aeff49c0fe3a?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c4/c4a5ba24-3b64-4b36-9385-5eb5417b4e49?rule=mo-640.jpg"
-      ],
-      "category": "RollOffTipperTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=46815508165536",
-      "reserved": true
-    },
-    {
-      "id": "47155020254112",
-      "title": "MERCEDES-BENZ",
+      "id": "49471679309888",
+      "title": "MERCEDES-BENZ SPRINTER 518 CDI  20 SITZE SEHR GEPFLEGT",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "14280.00",
-      "km": "54000",
-      "firstRegistration": "200312",
-      "description": "",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/19/19a20719-b8af-48da-9647-477eb267589e?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/ea/eab1132f-1fcb-44c9-b8ed-2fb9e4c6459b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1d/1da556b2-b9c3-42ac-b6d3-5516fc0fd468?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d2/d2c1ac33-ca10-43ab-afbf-05f2e014109b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0b/0b3038c7-8032-4142-b251-06f85ae80d6d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0a/0a1a0944-e604-404d-990d-4bea38ff3f36?rule=mo-640.jpg"
-      ],
-      "category": "RefuseTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=47155020254112",
+      "price": "15900.00",
+      "km": "204000",
+      "firstRegistration": "200808",
+      "description": "* **MERCEDES-BENZ SPRINTER 518 CDI  20 SITZE SEHR GEPFLEGT **\\\\* **1 HAND**\\\\* **KLIMA GROSS**\\\\* **STANDHEIZUNG**\\\\* **ELEKTRISCHE TÜR**\\\\* **TELMA**\\\\* **SCHALTUNG **\\\\* **GARDIENEN**\\\\* **KOFFERRAUM HINTEN**\\\\* **KÜHLBOX**\\\\* **19+1 SCHLAFSITZE**\\\\* **RADIO/CD**\\\\* **DER SPRINTER HAT GESAMTLAUFLEISTUNG 404OOO KM AUSTAUSCHMOTOR 200000KM NACHWEISBAR**\\\\* **IRRTÜMMER UND ZWISCHENVERKAUFV VOR BEHALTEN.**\\\\",
+      "images": [],
+      "category": "Coach",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=49471679309888",
       "reserved": true
     }
   ]
