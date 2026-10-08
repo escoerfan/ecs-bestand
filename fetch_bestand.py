@@ -29,8 +29,9 @@ def api_get(url):
         return None
 
 def save_empty(msg=''):
-    with open('bestand.json', 'w', encoding='utf-8') as f:
-        json.dump({'updated': datetime.now(timezone.utc).isoformat(), 'count': 0, 'vehicles': [], 'error': msg}, f, ensure_ascii=False, indent=2)
+    # Bei API-Problemen den bisherigen Bestand NICHT überschreiben –
+    # sonst zeigt die Website plötzlich keine Fahrzeuge mehr.
+    print(f"Abbruch ({msg}) – bestand.json bleibt unverändert.")
 
 # Seller abrufen
 sellers_data = api_get('https://services.mobile.de/seller-api/sellers')
@@ -52,8 +53,7 @@ if not ads_data:
 ads_raw = ads_data.get('ads', [])
 print(f"Anzahl Ads (gesamt): {len(ads_raw)}")
 
-result = []
-for ad in ads_raw:
+def build_vehicle(ad):
     vehicle = ad.get('ad', ad)
 
     # ── FIX 1 (Fallback): Status nochmal auf Objekt-Ebene prüfen ──
@@ -65,12 +65,12 @@ for ad in ads_raw:
         status_key = str(status or '')
     if status_key and status_key.upper() not in ('ACTIVE', 'ACTIVATED', ''):
         print(f"  Übersprungen (Status={status_key}): {vehicle.get('id', '?')}")
-        continue
+        return None
 
-    # ── FIX 3: Deaktivierte Anzeigen haben kein renewalDate (nicht veröffentlicht) ──
-    # Die API kennt kein Status-Feld. Deaktivierte bleiben drin, werden aber als
-    # reserviert markiert (Website zeigt dann ein RESERVIERT-Banner).
-    reserved = not vehicle.get('renewalDate') or bool(vehicle.get('reserved'))
+    # ── FIX 3: Reserviert nur, wenn mobile.de die Anzeige selbst so markiert ──
+    # renewalDate ist laut API-Doku nur das Datum des letzten „Hochschiebens“ und
+    # fehlt bei neu angelegten Anzeigen – taugt daher nicht als Deaktiviert-Merkmal.
+    reserved = bool(vehicle.get('reserved'))
     if reserved:
         print(f"  Reserviert/deaktiviert: {vehicle.get('mobileAdId', '?')}")
 
@@ -89,10 +89,15 @@ for ad in ads_raw:
     else:
         model_name = str(model_raw) if model_raw else ''
 
-    # Preis
+    # Preis (brutto). Netto + MwSt.-Satz liefert mobile.de nur bei ausweisbarer MwSt.;
+    # fehlen sie (z. B. Differenzbesteuerung), zeigt die Website nur den Bruttopreis.
     price_obj = vehicle.get('price', {})
+    price_net = ''
+    vat = False
     if isinstance(price_obj, dict):
         price = price_obj.get('consumerPriceGross', price_obj.get('dealerPriceGross', price_obj.get('value', '')))
+        price_net = price_obj.get('consumerPriceNet', price_obj.get('dealerPriceNet', '')) or ''
+        vat = bool(price_obj.get('vatRate')) and bool(price_net)
     else:
         price = str(price_obj) if price_obj else ''
 
@@ -151,12 +156,14 @@ for ad in ads_raw:
 
     mobile_url = f'https://www.mobile.de/fahrzeuge/details.html?id={ad_id}' if ad_id else ''
 
-    result.append({
+    return {
         'id': str(ad_id),
         'title': real_title,
         'make': make_name,
         'model': model_name,
         'price': str(price),
+        'priceNet': str(price_net),
+        'vat': vat,
         'km': str(km),
         'firstRegistration': str(reg),
         'description': description,
@@ -164,7 +171,20 @@ for ad in ads_raw:
         'category': cat_name,
         'mobileUrl': mobile_url,
         'reserved': reserved
-    })
+    }
+
+result = []
+for ad in ads_raw:
+    try:
+        item = build_vehicle(ad)
+    except Exception as e:
+        print(f"  Fehler bei Anzeige {ad.get('mobileAdId', '?')} – übersprungen: {e}")
+        continue
+    if item:
+        result.append(item)
+
+if not result:
+    save_empty('Keine verwertbaren Fahrzeuge'); exit(0)
 
 output = {
     'updated': datetime.now(timezone.utc).isoformat(),
