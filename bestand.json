@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T14:39:29.645505+00:00",
-  "count": 11,
+  "updated": "2026-10-14T12:32:05.112532+00:00",
+  "count": 12,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -110,8 +110,8 @@
         "https://img.classistatic.de/api/v1/mo-prod/images/b8/b86bea88-c3c5-4692-bc4a-9bd0493c5bbe?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/91/914ae099-cd51-4b80-80a1-12b7beb2390c?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/68/6817ca29-18ac-45de-bd22-89c80db8fcd7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/42/421d19b9-a7bd-48d6-b093-874b7a926bb0?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d3/d3771d2c-56aa-4dbb-9fc1-b21491b79a98?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/79/7982cbda-1615-4dd4-a258-437d4f066126?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/42/421d19b9-a7bd-48d6-b093-874b7a926bb0?rule=mo-640.jpg"
       ],
       "category": "SwapChassisTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958",
@@ -191,7 +191,7 @@
       "title": "Mercedes-Benz Sprinter 518 CDI, 19+1 Sitze, Aus erster Hand, sehr gepflegt",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "15900.00",
+      "price": "10900.00",
       "priceNet": "",
       "vat": false,
       "km": "204000",
@@ -253,6 +253,29 @@
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=49618540997440",
+      "reserved": false
+    },
+    {
+      "id": "50693764534432",
+      "title": "MAN 12.250 TGM SCHLAFKABIENE",
+      "make": "MAN",
+      "model": "",
+      "price": "46291.00",
+      "priceNet": "38900.00",
+      "vat": true,
+      "km": "196000",
+      "firstRegistration": "202007",
+      "description": "* **MAN 12.250 TGM SCHLAFKABIENE **\\\\* **LBW**\\\\* **KLIMA**\\\\* **RETARDE**\\\\* **BETT**\\\\* **VORNE BLATT**\\\\* **HINTEN LUFT**\\\\* **GEPFLEGT LKW**\\\\* **IRRTÜMER UND ZWISCHENVERKAUF VORBEHALTEN.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/d4/d4571d70-4c18-4952-a7d3-958acd841b99?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0d/0d7167fc-a3d8-4875-999b-520f9384faa3?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/00/006b3a97-ccb5-4ca1-80fc-a08241f6aedc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/32/32c12dc1-90d9-44bb-aff4-511d149fc84f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f3/f3f52cb1-36be-48d6-9680-a4dcde237f7f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/cd/cdbf2cdb-7775-46bc-b060-ccee3d0d09f2?rule=mo-640.jpg"
+      ],
+      "category": "BoxTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=50693764534432",
       "reserved": false
     }
   ]
