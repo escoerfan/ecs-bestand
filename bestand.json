@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:14:17.865904+00:00",
+  "updated": "2026-10-16T11:58:59.724135+00:00",
   "count": 12,
   "vehicles": [
     {
@@ -257,7 +257,7 @@
     },
     {
       "id": "50693764534432",
-      "title": "MAN 12.250 TGM SCHLAFKABIENE",
+      "title": "MAN TGM 12.250 mit Schlafkabine und Ladebordwand",
       "make": "MAN",
       "model": "",
       "price": "46291.00",
@@ -265,7 +265,7 @@
       "vat": true,
       "km": "196000",
       "firstRegistration": "202007",
-      "description": "* **MAN 12.250 TGM SCHLAFKABIENE **\\\\* **LBW**\\\\* **KLIMA**\\\\* **RETARDE**\\\\* **BETT**\\\\* **VORNE BLATT**\\\\* **HINTEN LUFT**\\\\* **GEPFLEGT LKW**\\\\* **IRRTÜMER UND ZWISCHENVERKAUF VORBEHALTEN.**\\\\",
+      "description": "**MAN TGM 12.250 mit Schlafkabine und Ladebordwand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Schlafkabine mit Bett\\\\- Klimaanlage\\\\- Retarder\\\\\\\\\\\\**Sonderausstattung:**\\\\\\\\- Ladebordwand\\\\- Federung vorne: Blatt\\\\- Federung hinten: Luft\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Gepflegter Zustand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/d4/d4571d70-4c18-4952-a7d3-958acd841b99?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0d/0d7167fc-a3d8-4875-999b-520f9384faa3?rule=mo-640.jpg",
@@ -276,7 +276,7 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=50693764534432",
-      "reserved": false
+      "reserved": true
     }
   ]
 }
