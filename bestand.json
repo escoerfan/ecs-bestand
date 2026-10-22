@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T12:35:58.234908+00:00",
+  "updated": "2026-10-22T13:49:40.029502+00:00",
   "count": 11,
   "vehicles": [
     {
       "id": "39233274649312",
-      "title": "MERCEDES-BENZ 816 ATEGO DOPPELKABINE KATASTROPHENSCHUTZ EINSATZWAGEN KÜHLKOFFER SO.KFZ",
+      "title": "MERCEDES-BENZ 816 ATEGO KÜHL LBW Doppelkabine",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "13685.00",
@@ -27,7 +27,7 @@
     },
     {
       "id": "41026791217280",
-      "title": "MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6 Fernvekehr",
+      "title": "MAN 15.290 Schlafkabine Pritsche Plane",
       "make": "MAN",
       "model": "",
       "price": "23681.00",
@@ -50,7 +50,7 @@
     },
     {
       "id": "443910475",
-      "title": "KIPPHYDRAULIK",
+      "title": "MAN 18.500 TGS 4X4 ALLRAD Erste Hand Top Zustand",
       "make": "MAN",
       "model": "",
       "price": "39865.00",
@@ -73,7 +73,7 @@
     },
     {
       "id": "458861958",
-      "title": "MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane – Erster Hand, Automatik, Euro 6 fernverkehr",
+      "title": "MAN 15.290 Schlafkabine Pritsche Plane",
       "make": "MAN",
       "model": "",
       "price": "23681.00",
@@ -96,7 +96,7 @@
     },
     {
       "id": "459613568",
-      "title": "MERCEDES-BENZ AROCS 1843 4X4 ALLRAD KIPPHYDRAULIK",
+      "title": "MERCEDES-BENZ Arocs 1843 4X4 ALLRAD Kipphydraulik",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "28441.00",
@@ -119,7 +119,7 @@
     },
     {
       "id": "459614345",
-      "title": "Langendorf SKA 24/31 Muldenkipper Top Zustand",
+      "title": "LANGENDORF SKA 24/31 Muldenkipper Top Zustand",
       "make": "LANGENDORF",
       "model": "",
       "price": "14161.00",
@@ -142,7 +142,7 @@
     },
     {
       "id": "460820321",
-      "title": "MAN 12.250 TGL Koffer mit Schlafkabine und LBW – aus Erster Hand",
+      "title": "MAN 12.250 TGL LBW SCHLAFKABINE KLIMA",
       "make": "MAN",
       "model": "",
       "price": "41650.00",
@@ -165,7 +165,7 @@
     },
     {
       "id": "49483244700672",
-      "title": "Mercedes-Benz Atego 816 Kühlkoffer Thermoking Kühlaggregat mit Ladebordwand, 7,49 t",
+      "title": "MERCEDES-BENZ Atego 816 Kühlkoffer LBW Thermoking Kühlagreggat",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "8000.00",
@@ -188,7 +188,7 @@
     },
     {
       "id": "49618540997440",
-      "title": "MERCEDES-BENZ",
+      "title": "MERCEDES-BENZ Atego 1224 Pritsche Plane LBW AHK",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "",
@@ -211,7 +211,7 @@
     },
     {
       "id": "50693764534432",
-      "title": "MAN TGM 12.250 mit Schlafkabine und Ladebordwand",
+      "title": "MAN 12.250  SCHLAFKABINE KLIMA LBW ERSTE HAND",
       "make": "MAN",
       "model": "",
       "price": "46291.00",
@@ -234,7 +234,7 @@
     },
     {
       "id": "51930493322720",
-      "title": "Mercedes-Benz O510 Tourino , 36 Schlafsitze, WC, Klima, Aus Erster Hand",
+      "title": "MERCEDES-BENZ MERCEDES O510 TOURINO LUXUSLINE",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "",
