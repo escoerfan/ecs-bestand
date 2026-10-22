@@ -116,10 +116,15 @@ def build_vehicle(ad):
 
     # ── Titel: Modellbeschreibung der Anzeige (= Titel auf mobile.de), Marke davor ──
     real_title = ''
-    model_desc = str(vehicle.get('modelDescription') or '').strip()
+    model_desc = ' '.join(str(vehicle.get('modelDescription') or '').split())
     if model_desc:
-        if make_name and not model_desc.lower().startswith(make_name.lower()):
+        # Marke nicht doppeln – auch wenn der Titel nur mit ihrem ersten Teil beginnt (MERCEDES → MERCEDES-BENZ)
+        make_first = re.split(r'[-\s]', make_name)[0].lower() if make_name else ''
+        first_word = model_desc.split(' ')[0].lower()
+        if make_name and first_word not in (make_name.lower(), make_first):
             real_title = f'{make_name} {model_desc}'
+        elif make_name and first_word == make_first:
+            real_title = f'{make_name} {model_desc.split(" ", 1)[1]}' if ' ' in model_desc else make_name
         else:
             real_title = model_desc
 
