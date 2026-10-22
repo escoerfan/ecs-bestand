@@ -114,9 +114,17 @@ def build_vehicle(ad):
         description = description.get('value', '')
     description = str(description or '')
 
-    # ── FIX 2: Titel aus erster fetter Zeile der Description extrahieren ──
+    # ── Titel: Modellbeschreibung der Anzeige (= Titel auf mobile.de), Marke davor ──
     real_title = ''
-    if description:
+    model_desc = str(vehicle.get('modelDescription') or '').strip()
+    if model_desc:
+        if make_name and not model_desc.lower().startswith(make_name.lower()):
+            real_title = f'{make_name} {model_desc}'
+        else:
+            real_title = model_desc
+
+    # ── FIX 2 (Fallback): Titel aus erster fetter Zeile der Description extrahieren ──
+    if not real_title and description:
         # Doppelt-escaping auflösen wie es nach JSON-Speicherung vorliegt
         desc_clean = description.replace('\\\\', '\n').replace('\\n', '\n')
         bold_match = re.search(r'\*\*([^*\n]{4,120}?)\*\*', desc_clean)
