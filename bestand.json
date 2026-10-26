@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T12:10:47.974699+00:00",
-  "count": 11,
+  "updated": "2026-10-26T13:41:23.263798+00:00",
+  "count": 12,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -60,12 +60,12 @@
       "firstRegistration": "201811",
       "description": "**MAN 18.500 TGS Aus erster Hand 4x4 ALLRAD Mechanisch\\\\\\\\\\\\Ausstattung:\\\\\\\\\\\\*** Klimaanlage\\\\* Vorderachse: Blattfedern\\\\* Hinterachse: Luftfederung\\\\* Standheizung\\\\* **KIPPHYDRAULIK**\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\\\\\\\\\*** Scheckheftgepflegt\\\\* Top Zustand\\\\* Aus Erster Hand\\\\\\\\\\\\**Sonstiges:\\\\\\\\*** Mechanisches Allrad (kein Hydro)\\\\* Ohne Mulde\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/c5/c598f527-6e83-4f53-868a-7eb0c4147aa2?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/75/75da25f4-9a64-4c83-84be-477f8b49e5cb?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/99/99fa5efd-ea4e-498a-bd5e-d2cc0472685b?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/a1/a16676be-4e60-45fe-a78c-8faa993a8bac?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb5ad5d3-f650-42ba-ad8c-377f63ae5c89?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/42/427757fc-baa7-4b39-a066-e53b0d22b7b9?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/3d/3dc5f76e-1f5a-4784-8dcf-749e2a162fb3?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/42/427757fc-baa7-4b39-a066-e53b0d22b7b9?rule=mo-640.jpg"
       ],
       "category": "StandardTractorAndTrailerUnit",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475",
@@ -253,6 +253,29 @@
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=51930493322720",
+      "reserved": true
+    },
+    {
+      "id": "52812811153696",
+      "title": "MERCEDES-BENZ SPRINTER 519 CDI VIP 20SITZE KLIMA 1 HAND",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "45815.00",
+      "priceNet": "38500.00",
+      "vat": true,
+      "km": "281000",
+      "firstRegistration": "201904",
+      "description": "**Mercedes-Benz Sprinter 519 CDI VIP, 20 Schlafsitze, Automatik, Standheizung**\\\\**Ausstattung:\\\\\\\\**- 20 verstellbare Schlafsitze\\\\- Klimaanlage\\\\- Automatikgetriebe\\\\- Großer Kofferraum\\\\- Radio/CD\\\\- Bluetooth\\\\- Airbags\\\\- Elektrische Fensterheber\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\- Rückfahrkamera\\\\- Gardinen\\\\- LED-Leselampen\\\\- LED-Innenbeleuchtung\\\\- Getönte Scheiben\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Aus Erster Hand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/19/19a50d74-3979-4537-b151-d11b55e3baad?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/6d/6d3e669d-fa31-4b9e-b0c7-a00f1756bc4b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/81/811355d7-874f-478b-9a35-30f6b728575d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/90/90c7ffad-8525-4f21-b8bd-210e14ca8aae?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/d7/d75b83f0-14ef-49f3-938e-f25bf9c5755a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/85/85364a0b-3eda-4d58-88f1-5f65ba86a6c9?rule=mo-640.jpg"
+      ],
+      "category": "Coach",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=52812811153696",
       "reserved": false
     }
   ]
