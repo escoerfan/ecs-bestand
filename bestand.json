@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:49:57.236371+00:00",
+  "updated": "2026-10-28T13:38:40.340856+00:00",
   "count": 12,
   "vehicles": [
     {
@@ -253,7 +253,7 @@
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=51930493322720",
-      "reserved": true
+      "reserved": false
     },
     {
       "id": "52812811153696",
@@ -276,7 +276,7 @@
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=52812811153696",
-      "reserved": false
+      "reserved": true
     }
   ]
 }
