@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T13:38:40.340856+00:00",
-  "count": 12,
+  "updated": "2026-10-29T13:48:01.271406+00:00",
+  "count": 10,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -95,52 +95,6 @@
       "reserved": false
     },
     {
-      "id": "459613568",
-      "title": "MERCEDES-BENZ Arocs 1843 4X4 ALLRAD Kipphydraulik",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "28441.00",
-      "priceNet": "23900.00",
-      "vat": true,
-      "km": "620000",
-      "firstRegistration": "201811",
-      "description": "**MERCEDES-BENZ AROCS 1843 4X4 ALLRAD KIPPHYDRAULIK**\\\\\\\\**Ausstattung:\\\\**\\\\* Baujahr 2018, Erstzulassung 11/2018\\\\* Kilometerstand 620.000 km\\\\* 315 kW (428 PS)\\\\* Schaltgetriebe\\\\* Diesel, Euro6, Grüne Plakette\\\\* Zulässiges Gesamtgewicht 18.000 kg\\\\* Achsen 2, Radformel 4x4\\\\**\\\\\\\\Sonderausstattung:\\\\**\\\\* Kipphydraulik\\\\* Klimaanlage\\\\* Sonstiges:\\\\* Erster Hand\\\\* Gepflegter Zustand\\\\* TÜV neu\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/b4/b4cfc305-31de-4843-ab1a-3b32cfc3ae16?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/13/13265e71-e0b7-46af-aa0f-307b45f1241d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1a38020-bf6c-437f-a923-d3f0437bb4c6?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/a2/a2785f51-97ce-40ec-8106-6108f00ced3c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1b/1b5eb78a-bc28-475d-bbdf-51df4e09699c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/46/46c5813b-4420-4a9b-874a-a9a9a4a0767b?rule=mo-640.jpg"
-      ],
-      "category": "OtherSemiTrailerTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459613568",
-      "reserved": true
-    },
-    {
-      "id": "459614345",
-      "title": "LANGENDORF SKA 24/31 Muldenkipper Top Zustand",
-      "make": "LANGENDORF",
-      "model": "",
-      "price": "14161.00",
-      "priceNet": "11900.00",
-      "vat": true,
-      "km": "",
-      "firstRegistration": "201809",
-      "description": "**Langendorf SKA 24/31 Muldenkipper Top Zustand**\\\\\\\\\\\\**Ausstattung:**\\\\\\\\* Baujahr 2018, Erstzulassung 09/2018\\\\* Zulässiges Gesamtgewicht 36.000 kg\\\\* Achsen 3\\\\* BPW Achse\\\\* ABS\\\\* EBS\\\\* Luftfederung\\\\* Scheibenbremse\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\* Alumulde\\\\* Sonstiges:\\\\* Erster Hand\\\\* Reifen 70%\\\\* TÜV neu\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/a5/a52a32af-897f-47ca-b497-f58ca4e3b68f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/48/48401ffc-1193-4bbb-82c3-1d12ae10d96c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/c6/c6542d46-7fb9-437b-9503-088c8172873d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/56/56d846e1-9096-4e34-a022-368864fd3666?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/92/9288e592-7498-4a2a-a557-6e99afdc60a1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/31/312ba0d1-cc69-413b-a7e3-66c386c4c0c2?rule=mo-640.jpg"
-      ],
-      "category": "TipperSemiTrailer",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=459614345",
-      "reserved": false
-    },
-    {
       "id": "460820321",
       "title": "MAN 12.250 TGL LBW SCHLAFKABINE KLIMA",
       "make": "MAN",
@@ -168,16 +122,16 @@
       "title": "MERCEDES-BENZ Atego 816 Kühlkoffer LBW Thermoking Kühlagreggat",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "8000.00",
+      "price": "5990.00",
       "priceNet": "",
       "vat": false,
       "km": "320000",
       "firstRegistration": "200811",
       "description": "**Mercedes-Benz Atego 816 Kühlkoffer Thermoking Kühlaggregat mit Ladebordwand, 7,49 t**\\\\\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor: 4.249 ccm Diesel, 115 kW / 156 PS\\\\- Abgasnorm: Euro 4, grüne Plakette\\\\- Zulässiges Gesamtgewicht: 7.490 kg, fahrbar mit Führerschein C1\\\\- Leergewicht: 5.580 kg, Nutzlast ca. 1.900 kg\\\\- Achslast vorne 3.400 kg, hinten 4.600 kg\\\\- Außenmaße: Länge 6.650 mm, Breite 2.600 mm, Höhe 3.370 mm\\\\- Bereifung: 215/75 R17.5\\\\- 2 Sitzplätze\\\\- Anhängelast gebremst 3.500 kg, ungebremst 750 kg\\\\- Höchstgeschwindigkeit 90 km/h\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Wilke Kühlaufbau mit Isolierwänden und Kühlmaschine\\\\- Ladebordwand MBB 1000 kg\\\\- Wegfahrsperre\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erstzulassung 21.11.2008\\\\- HU abgelaufen\\\\- Ehemaliges Firmenfahrzeug aus dem Lebensmittelbereich\\\\- Im Kundenauftrag\\\\- Kein TÜV\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/12/128ce053-c28b-4cbc-add1-2c93654f004c?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/cb/cbf67f2a-17c9-450c-bb35-7052aca964e7?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/de/de6dd71c-4246-4214-95c6-981bb8063530?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/12/128ce053-c28b-4cbc-add1-2c93654f004c?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/35/35853fcd-b2c9-430d-8b18-6154c9b2f133?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/98/981291a0-283e-433d-b1ed-e7b4bc616279?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/6c/6c06f767-a880-45d9-9c41-67dda69bc55f?rule=mo-640.jpg"
@@ -256,27 +210,27 @@
       "reserved": false
     },
     {
-      "id": "52812811153696",
-      "title": "MERCEDES-BENZ SPRINTER 519 CDI VIP 20SITZE KLIMA 1 HAND",
+      "id": "53322089742432",
+      "title": "MERCEDES-BENZ O580 TRAVEGO RHD VIP VOLLAUSTATUNG TOP",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "45815.00",
-      "priceNet": "38500.00",
-      "vat": true,
-      "km": "281000",
-      "firstRegistration": "201904",
-      "description": "**Mercedes-Benz Sprinter 519 CDI VIP, 20 Schlafsitze, Automatik, Standheizung**\\\\**\\\\\\\\Ausstattung:\\\\\\\\**- 20 verstellbare Schlafsitze\\\\- Klimaanlage\\\\- Automatikgetriebe\\\\- Großer Kofferraum\\\\- Radio/CD\\\\- Bluetooth\\\\- Airbags\\\\- Elektrische Fensterheber\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\- Rückfahrkamera\\\\- Gardinen\\\\- LED-Leselampen\\\\- LED-Innenbeleuchtung\\\\- Getönte Scheiben\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Aus Erster Hand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "price": "",
+      "priceNet": "",
+      "vat": false,
+      "km": "956000",
+      "firstRegistration": "200803",
+      "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Rechtslenker (RHD)\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/19/19a50d74-3979-4537-b151-d11b55e3baad?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/6d/6d3e669d-fa31-4b9e-b0c7-a00f1756bc4b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/81/811355d7-874f-478b-9a35-30f6b728575d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/90/90c7ffad-8525-4f21-b8bd-210e14ca8aae?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/d7/d75b83f0-14ef-49f3-938e-f25bf9c5755a?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/85/85364a0b-3eda-4d58-88f1-5f65ba86a6c9?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/61/61a04b69-15ed-4ba8-bb84-7c1e4b878b5a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/07/07893ecb-8ccf-4d54-b44c-255c6d6fb7bc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/4f/4fb050cb-a44d-40ec-a549-ae5e2bd897ad?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/1b/1bfa0ec8-7fce-4e30-8e24-0e874b1f4b1f?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/9b/9bc23549-eaa8-4bce-944e-9ba1a493f763?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/57/57045956-9e24-4845-bac6-38ef681f7fa7?rule=mo-640.jpg"
       ],
       "category": "Coach",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=52812811153696",
-      "reserved": true
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53322089742432",
+      "reserved": false
     }
   ]
 }
