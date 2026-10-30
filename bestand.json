@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T13:48:01.271406+00:00",
-  "count": 10,
+  "updated": "2026-10-30T13:41:28.835521+00:00",
+  "count": 11,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -219,7 +219,7 @@
       "vat": false,
       "km": "956000",
       "firstRegistration": "200803",
-      "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Rechtslenker (RHD)\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
+      "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/61/61a04b69-15ed-4ba8-bb84-7c1e4b878b5a?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/07/07893ecb-8ccf-4d54-b44c-255c6d6fb7bc?rule=mo-640.jpg",
@@ -230,6 +230,29 @@
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53322089742432",
+      "reserved": false
+    },
+    {
+      "id": "53365804274656",
+      "title": "MERCEDES-BENZ O 580 TRAVEGO RHD VIP",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "",
+      "priceNet": "",
+      "vat": false,
+      "km": "1200000",
+      "firstRegistration": "200702",
+      "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/52/522baec9-ecfa-4e58-a3ea-33bcdca8d990?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc57f51b-bd16-4a7f-8d31-a092af476aec?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ab/ab5621ab-41e1-4b4e-9048-1206cc7db6e8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/cc/cceee386-ec38-4ed3-9832-36bf9a7209ce?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/70/70703257-099c-4cb7-beb5-69ece0518ad9?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/80/80e6a393-6b23-47ed-9059-7c55b0c42797?rule=mo-640.jpg"
+      ],
+      "category": "Coach",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53365804274656",
       "reserved": false
     }
   ]
