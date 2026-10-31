@@ -53,6 +53,19 @@ if not ads_data:
 ads_raw = ads_data.get('ads', [])
 print(f"Anzahl Ads (gesamt): {len(ads_raw)}")
 
+# Inserierungsdatum aus dem bisherigen Bestand übernehmen (für die Sortierung
+# „Neueste zuerst“ auf der Website), falls mobile.de selbst keins liefert.
+previous_listed = {}
+try:
+    with open('bestand.json', encoding='utf-8') as f:
+        for old in json.load(f).get('vehicles', []):
+            if old.get('listed'):
+                previous_listed[str(old.get('id'))] = old['listed']
+except Exception as e:
+    print(f"Alter Bestand nicht lesbar ({e}) – Inserierungsdaten starten neu.")
+
+run_started = datetime.now(timezone.utc).isoformat()
+
 def build_vehicle(ad):
     vehicle = ad.get('ad', ad)
 
@@ -169,6 +182,10 @@ def build_vehicle(ad):
 
     mobile_url = f'https://www.mobile.de/fahrzeuge/details.html?id={ad_id}' if ad_id else ''
 
+    # Inserierungsdatum: von mobile.de, sonst aus dem alten Bestand, sonst erster Abruf
+    listed = (vehicle.get('creationDate') or vehicle.get('creationTime') or
+              previous_listed.get(str(ad_id)) or run_started)
+
     return {
         'id': str(ad_id),
         'title': real_title,
@@ -183,7 +200,8 @@ def build_vehicle(ad):
         'images': images,
         'category': cat_name,
         'mobileUrl': mobile_url,
-        'reserved': reserved
+        'reserved': reserved,
+        'listed': str(listed)
     }
 
 result = []
@@ -200,7 +218,7 @@ if not result:
     save_empty('Keine verwertbaren Fahrzeuge'); exit(0)
 
 output = {
-    'updated': datetime.now(timezone.utc).isoformat(),
+    'updated': run_started,
     'count': len(result),
     'vehicles': result
 }
