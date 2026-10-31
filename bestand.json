@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T13:41:28.835521+00:00",
-  "count": 11,
+  "updated": "2026-10-31T13:10:08.316285+00:00",
+  "count": 10,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -184,29 +184,6 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=50693764534432",
-      "reserved": false
-    },
-    {
-      "id": "51930493322720",
-      "title": "MERCEDES-BENZ O510 TOURINO LUXUSLINE",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "",
-      "priceNet": "",
-      "vat": false,
-      "km": "432000",
-      "firstRegistration": "201006",
-      "description": "**Mercedes-Benz O510 Tourino , 36 Schlafsitze, WC, Klima, Aus Erster Hand**\\\\**\\\\\\\\Ausstattung:\\\\**\\\\- Klimaanlage\\\\- 36 Schlafsitze\\\\- Kofferraum\\\\- WC\\\\- Schaltgetriebe\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\\\\\- Gardinen\\\\- Kühlbox\\\\- TV\\\\- Navigationssystem\\\\- Mikrofone\\\\- Standheizung\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Erste Hand\\\\- Top Zustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/3d/3d26bd34-90b9-4ee5-b90c-29038b6dea15?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/47/4738014d-b8af-4e58-8e75-6be635bd984f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/99/99da8c59-01dd-4d68-8ef4-1dcab3a76040?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/66/66196cfc-48c5-494e-89fd-17519114d37b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1e/1eda827b-93c2-482e-adab-99ba1284ad04?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/20/20d3c864-7f1c-46e1-84b0-c3e20e0d9d00?rule=mo-640.jpg"
-      ],
-      "category": "Coach",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=51930493322720",
       "reserved": false
     },
     {
