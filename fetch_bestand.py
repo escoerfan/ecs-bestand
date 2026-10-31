@@ -56,9 +56,11 @@ print(f"Anzahl Ads (gesamt): {len(ads_raw)}")
 # Inserierungsdatum aus dem bisherigen Bestand übernehmen (für die Sortierung
 # „Neueste zuerst“ auf der Website), falls mobile.de selbst keins liefert.
 previous_listed = {}
+previous_vehicles = None
 try:
     with open('bestand.json', encoding='utf-8') as f:
-        for old in json.load(f).get('vehicles', []):
+        previous_vehicles = json.load(f).get('vehicles', [])
+        for old in previous_vehicles:
             if old.get('listed'):
                 previous_listed[str(old.get('id'))] = old['listed']
 except Exception as e:
@@ -216,6 +218,12 @@ for ad in ads_raw:
 
 if not result:
     save_empty('Keine verwertbaren Fahrzeuge'); exit(0)
+
+# Abruf läuft alle 30 Min. – ohne Änderung nichts schreiben, sonst entstünde
+# durch den neuen Zeitstempel bei jedem Lauf ein Commit.
+if result == previous_vehicles:
+    print(f"Keine Änderung: {len(result)} Fahrzeuge – bestand.json bleibt unverändert.")
+    exit(0)
 
 output = {
     'updated': run_started,
