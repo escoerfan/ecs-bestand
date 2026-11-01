@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T19:05:09.981877+00:00",
+  "updated": "2026-11-01T22:58:32.721480+00:00",
   "count": 10,
   "vehicles": [
     {
@@ -191,7 +191,7 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=50693764534432",
-      "reserved": false,
+      "reserved": true,
       "listed": "2026-10-14T13:46:55+02:00"
     },
     {
@@ -206,12 +206,12 @@
       "firstRegistration": "200803",
       "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/de/deff85f9-3693-4f37-b6b4-782a3fe8c1d7?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/83/830f34a5-cdd4-4aa6-90fe-501fa2df986d?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/01/0184b635-9ea5-4ce4-bb67-98b1fc40fbc2?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/16/16c99c68-6630-45eb-9188-b9c4e993bac1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/be/beb1b9f3-ead7-431d-9231-b9550c63196c?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ee25deb-b8aa-4ae8-bc7f-684baa985d6d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/de/deff85f9-3693-4f37-b6b4-782a3fe8c1d7?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/be/beb1b9f3-ead7-431d-9231-b9550c63196c?rule=mo-640.jpg"
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53322089742432",
