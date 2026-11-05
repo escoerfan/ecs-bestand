@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T16:42:20.923175+00:00",
-  "count": 12,
+  "updated": "2026-11-05T22:37:38.091634+00:00",
+  "count": 13,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -55,8 +55,8 @@
       "title": "MAN 18.500 TGS 4X4 ALLRAD Erste Hand Top Zustand",
       "make": "MAN",
       "model": "",
-      "price": "39865.00",
-      "priceNet": "33500.00",
+      "price": "34391.00",
+      "priceNet": "28900.00",
       "vat": true,
       "km": "470000",
       "firstRegistration": "201811",
@@ -289,6 +289,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=54208739855264",
       "reserved": true,
       "listed": "2026-11-03T09:31:51+01:00"
+    },
+    {
+      "id": "54623603847296",
+      "title": "MERCEDES-BENZ 1222 ATEGO KÜHLKOFFER TERMOKING",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "6545.00",
+      "priceNet": "5500.00",
+      "vat": true,
+      "km": "1000000",
+      "firstRegistration": "200706",
+      "description": "**Mercedes-Benz Atego 1222 L Kühlkoffer Thermo King MD-200, Motorschaden   TOP ZUSTAND**\\\\\\\\\\\\**Ausstattung: TIEFKÜHL BIS -25 GERAD TIEFKÜHL KOFRFER FULL FUNKTIONIERT\\\\**\\\\- Motor OM 924 LA, 4-Zylinder Diesel, 4,8 l Hubraum\\\\- 2 Achsen, Antrieb 4x2\\\\- Kühlkoffer\\\\VORNE BLATT\\\\HINTEN LUFT\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Kühlaggregat Thermo King MD-200\\\\- Ladebordwand- Deutsches Fahrzeug\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/67/6709ada2-e312-4977-aa76-179120fb0310?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/74/744a9e91-3afd-4f0b-a6e4-1a53a0b7742b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/77/77cb06f0-6307-4c88-b5d3-595830b7f1d8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/af/afd5f642-4074-4320-a94a-22b6919f30b8?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/dd/dd537ef4-159d-4434-acdc-669806ee76ee?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/45/457d2c09-e01f-48d1-8215-1c3fa7d8132c?rule=mo-640.jpg"
+      ],
+      "category": "RefrigeratorBodyTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=54623603847296",
+      "reserved": false,
+      "listed": "2026-11-05T17:48:02+01:00"
     }
   ]
 }
