@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:18:32.906245+00:00",
+  "updated": "2026-11-06T11:23:33.687385+00:00",
   "count": 13,
   "vehicles": [
     {
@@ -295,8 +295,8 @@
       "title": "MERCEDES-BENZ 1222L ATEGO KÜHLKOFFER THERMOKING LBW",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "6545.00",
-      "priceNet": "5500.00",
+      "price": "5712.00",
+      "priceNet": "4800.00",
       "vat": true,
       "km": "1000000",
       "firstRegistration": "200706",
