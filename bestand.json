@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T10:14:31.435777+00:00",
-  "count": 14,
+  "updated": "2026-11-09T20:59:03.813126+00:00",
+  "count": 15,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -112,10 +112,10 @@
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/e8/e8e2504d-ecdb-49d0-aad5-38385cfc36ea?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/d3/d34292c7-45c3-4b92-9d2a-3535bb4dcab7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/00/006b3a97-ccb5-4ca1-80fc-a08241f6aedc?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/19/19b7b296-7cae-44fb-a94c-9211e4d78839?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/4c/4cbbfdb4-d227-4ce6-a772-c29296beafd1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/05/0531b665-a581-4c8a-9ddd-a41304d829d6?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/05/0531b665-a581-4c8a-9ddd-a41304d829d6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f8/f88cc50d-fd06-4049-ad84-e4aed84eaa9a?rule=mo-640.jpg"
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=460820321",
@@ -337,6 +337,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55281410630688",
       "reserved": false,
       "listed": "2026-11-09T11:01:16+01:00"
+    },
+    {
+      "id": "55290508966944",
+      "title": "MAN TGM 15.280 1. Hand Gepflegt Klima Retarder",
+      "make": "MAN",
+      "model": "",
+      "price": "8211.00",
+      "priceNet": "6900.00",
+      "vat": true,
+      "km": "750000",
+      "firstRegistration": "200711",
+      "description": "**MAN TGM 15.280 4x2 LL, gepflegter Zustand, aus erster Hand **\\\\**\\\\\\\\\\\\Ausstattung:**\\\\- 6-Zylinder Reihenmotor\\\\- Achslasten vorne 6.300 kg, hinten 11.000 kg\\\\- Bereifung 305/70 R19,5- Pritsche Plane - Klima- Retarder\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Anhängerkupplung mit D-Wert 130 kN\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Gepflegter Zustand\\\\- Aus erster Hand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/02/0282d7db-7af9-4ef4-a266-0d4826c6dbd9?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b8/b8dcb83e-7149-4f4a-9df5-43dc2e83acf4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/e4/e40c26a6-4f7d-42d6-aef6-d0a5cc205c7a?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/10/104d4307-3ae9-430b-8631-35db92e2c8b0?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0c/0c100f35-505a-4036-ad9e-a93be6032e18?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/92/92fc0b97-e140-422e-9c1f-091ab6384bcb?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyAndTarpaulinTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55290508966944",
+      "reserved": false,
+      "listed": "2026-11-09T12:15:19+01:00"
     }
   ]
 }
