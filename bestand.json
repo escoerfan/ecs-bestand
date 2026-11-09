@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T11:23:33.687385+00:00",
-  "count": 13,
+  "updated": "2026-11-09T10:14:31.435777+00:00",
+  "count": 14,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -313,6 +313,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=54623603847296",
       "reserved": false,
       "listed": "2026-11-05T17:48:02+01:00"
+    },
+    {
+      "id": "55281410630688",
+      "title": "KRONE Auflieger 35 Tonnen TÜV Neu",
+      "make": "KRONE",
+      "model": "",
+      "price": "9401.00",
+      "priceNet": "7900.00",
+      "vat": true,
+      "km": "",
+      "firstRegistration": "201807",
+      "description": "**Krone Sattelauflieger 35 t, Baujahr 2018, TÜV und Bremsen neu**\\\\\\\\\\\\**Ausstattung:**\\\\- Hersteller: Krone\\\\- Baujahr: 2018\\\\- Zulässiges Gesamtgewicht: 35 t\\\\- Bereifung: ca. 80 %\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Bremsen komplett neu\\\\- TÜV neu\\\\- Sofort einsatzbereit\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/85/8597e08b-ecd2-48a9-9658-122c93c5e187?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/eb/ebf7a1af-5805-4ebd-8018-84ddcef0d7b4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/73/73e56a54-8752-466c-9663-2925761781ac?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/92/92fc67e1-ae6f-4807-81c6-d82ff966bf8d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fc/fcdd5adf-8a34-4514-998c-4b74583fe902?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b2/b2dcec47-9957-4014-b493-4474634e3787?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyAndTarpaulinSemiTrailer",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55281410630688",
+      "reserved": false,
+      "listed": "2026-11-09T11:01:16+01:00"
     }
   ]
 }
