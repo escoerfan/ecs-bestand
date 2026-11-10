@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:59:03.813126+00:00",
+  "updated": "2026-11-10T11:39:12.595495+00:00",
   "count": 15,
   "vehicles": [
     {
@@ -191,7 +191,7 @@
       ],
       "category": "BoxTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=50693764534432",
-      "reserved": true,
+      "reserved": false,
       "listed": "2026-10-14T13:46:55+02:00"
     },
     {
@@ -206,8 +206,8 @@
       "firstRegistration": "200803",
       "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/01/0184b635-9ea5-4ce4-bb67-98b1fc40fbc2?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/de/deff85f9-3693-4f37-b6b4-782a3fe8c1d7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/01/0184b635-9ea5-4ce4-bb67-98b1fc40fbc2?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/16/16c99c68-6630-45eb-9188-b9c4e993bac1?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ee25deb-b8aa-4ae8-bc7f-684baa985d6d?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/be/beb1b9f3-ead7-431d-9231-b9550c63196c?rule=mo-640.jpg",
@@ -316,7 +316,7 @@
     },
     {
       "id": "55281410630688",
-      "title": "KRONE Auflieger 35 Tonnen TÜV Neu",
+      "title": "KRONE STANDARD PRITSCHEPLANE TOP TÜV Neu",
       "make": "KRONE",
       "model": "",
       "price": "9401.00",
@@ -324,7 +324,7 @@
       "vat": true,
       "km": "",
       "firstRegistration": "201807",
-      "description": "**Krone Sattelauflieger 35 t, Baujahr 2018, TÜV und Bremsen neu**\\\\\\\\\\\\**Ausstattung:**\\\\- Hersteller: Krone\\\\- Baujahr: 2018\\\\- Zulässiges Gesamtgewicht: 35 t\\\\- Bereifung: ca. 80 %\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Bremsen komplett neu\\\\- TÜV neu\\\\- Sofort einsatzbereit\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**Krone Sattelauflieger 35 t, Baujahr 2018, TÜV und Bremsen neu**\\\\\\\\\\\\**Ausstattung:**\\\\- Hersteller: Krone\\\\- Baujahr: 2018\\\\- BREMSEN KMPLET WURDE NEUE GEMACHT\\\\- Bereifung: ca. 80 %\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Bremsen komplett neu\\\\- TÜV neu\\\\- Sofort einsatzbereit\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/85/8597e08b-ecd2-48a9-9658-122c93c5e187?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/eb/ebf7a1af-5805-4ebd-8018-84ddcef0d7b4?rule=mo-640.jpg",
