@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T11:39:12.595495+00:00",
-  "count": 15,
+  "updated": "2026-11-10T19:30:33.230597+00:00",
+  "count": 16,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -103,8 +103,8 @@
       "title": "MAN 12.250 TGL LBW SCHLAFKABINE KLIMA",
       "make": "MAN",
       "model": "",
-      "price": "41650.00",
-      "priceNet": "35000.00",
+      "price": "34391.00",
+      "priceNet": "28900.00",
       "vat": true,
       "km": "254000",
       "firstRegistration": "201911",
@@ -175,8 +175,8 @@
       "title": "MAN 12.250 SCHLAFKABINE KLIMA LBW ERSTE HAND",
       "make": "MAN",
       "model": "",
-      "price": "34391.00",
-      "priceNet": "28900.00",
+      "price": "40460.00",
+      "priceNet": "34000.00",
       "vat": true,
       "km": "196000",
       "firstRegistration": "202007",
@@ -324,7 +324,7 @@
       "vat": true,
       "km": "",
       "firstRegistration": "201807",
-      "description": "**Krone Sattelauflieger 35 t, Baujahr 2018, TÜV und Bremsen neu**\\\\\\\\\\\\**Ausstattung:**\\\\- Hersteller: Krone\\\\- Baujahr: 2018\\\\- BREMSEN KMPLET WURDE NEUE GEMACHT\\\\- Bereifung: ca. 80 %\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Bremsen komplett neu\\\\- TÜV neu\\\\- Sofort einsatzbereit\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**Krone Sattelauflieger 35 t, Baujahr 2018, TÜV und Bremsen neu**\\\\\\\\\\\\**Ausstattung:**\\\\- Hersteller: Krone\\\\- Baujahr: 2018\\\\- BREMSEN KMPLET WURDE NEUE GEMACHT\\\\- Bereifung: ca. 80 %\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Bremsen komplett neu\\\\- TÜV neu\\\\- Sofort einsatzbereit\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/85/8597e08b-ecd2-48a9-9658-122c93c5e187?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/eb/ebf7a1af-5805-4ebd-8018-84ddcef0d7b4?rule=mo-640.jpg",
@@ -361,6 +361,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55290508966944",
       "reserved": false,
       "listed": "2026-11-09T12:15:19+01:00"
+    },
+    {
+      "id": "55477317123808",
+      "title": "MERCEDES-BENZ Sprinter 317 CDI Pritsche Plane LBW Klima TOP",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "",
+      "priceNet": "",
+      "vat": false,
+      "km": "360000",
+      "firstRegistration": "202211",
+      "description": "**Mercedes-Benz Sprinter 317 CDI Pritsche Plane Curtainsider mit Ladebordwand Super Zustand**\\\\**\\\\\\\\Ausstattung:\\\\**\\\\- 2,0 l Diesel\\\\- Getriebe: Automatik\\\\- Heckantrieb\\\\- 3 Sitzplätze\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Planenaufbau von Junge Fahrzeugbau mit Seitenplanen (Curtainsider)\\\\- Ladebordwand MBB PTC 750 L, 750 kg Hubkraft\\\\- Klima- Rückffahrtkamera\\\\\\\\**Sonstiges:\\\\**\\\\- Bereifung 235/65 R16C\\\\- Top Zustand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/8e/8ed82d7a-2c1d-4e9c-a0d0-277c48e7ebb4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/61/61cde116-804c-4081-afb1-94a75af7e4d0?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ba/baecb4f9-f25b-4c8e-90fd-88fb8ac6a231?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f1/f170fdea-3fb6-48ef-97cc-b2049f73fec7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fd/fdc1e809-c6f5-4ceb-b304-809ab9f555e4?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/27/27f98ddf-d8a2-4fc3-8794-1cb915de8ce1?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyWithTarpaulinVan",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55477317123808",
+      "reserved": false,
+      "listed": "2026-11-10T13:35:34+01:00"
     }
   ]
 }
