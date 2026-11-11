@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:32:25.828396+00:00",
+  "updated": "2026-11-11T22:33:53.104306+00:00",
   "count": 16,
   "vehicles": [
     {
@@ -383,7 +383,7 @@
       ],
       "category": "StakeBodyWithTarpaulinVan",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55477317123808",
-      "reserved": false,
+      "reserved": true,
       "listed": "2026-11-10T13:35:34+01:00"
     }
   ]
