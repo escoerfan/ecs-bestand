@@ -3,7 +3,12 @@ name: Fahrzeugbestand abrufen
 on:
   schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch:
+  workflow_dispatch:   # wird alle 30 Min. von cron-job.org angestoßen (GitHub verzögert den Zeitplan oben um Stunden)
+
+# Nie zwei Abrufe gleichzeitig – sonst scheitert der zweite beim Push.
+concurrency:
+  group: bestand
+  cancel-in-progress: false
 
 jobs:
   fetch-bestand:
@@ -24,5 +29,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add bestand.json
-          git diff --staged --quiet || git commit -m "Bestand aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          if git diff --staged --quiet; then
+            echo "Keine Änderung am Bestand."
+          else
+            git commit -m "Bestand aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
