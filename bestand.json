@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T22:33:53.104306+00:00",
-  "count": 16,
+  "updated": "2026-11-16T15:38:54.181043+00:00",
+  "count": 15,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -38,12 +38,12 @@
       "firstRegistration": "201607",
       "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane, Schlafkabine, erste Hand**\\\\\\\\\\\\\\\\**Ausstattung:**\\\\\\\\- Fernverkehrsfahrerhaus mit Schlafkabine und Liege\\\\- Aufbau Pritsche mit Plane\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Anhänger nicht im Preis enthalten, gegen Aufpreis erhältlich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7c95a03-828e-40d0-a0ac-816d6f96ba7b?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea50fee9-72d5-478c-bd86-d40f9b6ca453?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/71/71cb76fb-38f9-427b-b8fb-8303324b4789?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/72/72d65c14-4cf4-4282-981d-26cf58485578?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0f/0fe27ce3-9c59-4a8c-a882-81351add5291?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/91/91e9b646-c467-41a1-a381-68369201f2e7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/3a/3ac337a7-4e5c-4870-95a1-1467c86ccaee?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/31/31271c09-52ed-41b4-a363-6d0ef488146e?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/91/91e9b646-c467-41a1-a381-68369201f2e7?rule=mo-640.jpg"
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280",
@@ -55,8 +55,8 @@
       "title": "MAN 18.500 TGS 4X4 ALLRAD Erste Hand Top Zustand",
       "make": "MAN",
       "model": "",
-      "price": "34391.00",
-      "priceNet": "28900.00",
+      "price": "33915.00",
+      "priceNet": "28500.00",
       "vat": true,
       "km": "470000",
       "firstRegistration": "201811",
@@ -86,8 +86,8 @@
       "firstRegistration": "201607",
       "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane, Schlafkabine, erste Hand**\\\\\\\\\\\\\\\\**Ausstattung:**\\\\\\\\- Fernverkehrsfahrerhaus mit Schlafkabine und Liege\\\\- Aufbau Pritsche mit Plane\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Anhänger nicht im Preis enthalten, gegen Aufpreis erhältlich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch! **Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7c95a03-828e-40d0-a0ac-816d6f96ba7b?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/71/71cb76fb-38f9-427b-b8fb-8303324b4789?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7c95a03-828e-40d0-a0ac-816d6f96ba7b?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/84/84d96df8-bf71-4319-8ed4-cda426bad1f8?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e4220e9-d587-4e2e-96e4-f5aace875968?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/0a/0a5cac01-bca8-4ac4-9e33-16bdccbe813d?rule=mo-640.jpg",
@@ -219,30 +219,6 @@
       "listed": "2026-10-29T09:16:17+01:00"
     },
     {
-      "id": "53365804274656",
-      "title": "MERCEDES-BENZ O 580 TRAVEGO RHD VIP",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "",
-      "priceNet": "",
-      "vat": false,
-      "km": "1200000",
-      "firstRegistration": "200702",
-      "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, 1. Hand**\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/86/86e43bf7-626f-438a-9a18-8ce7f8a79027?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/1e/1ed7e413-89a8-4d49-8fa3-f4326945d168?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/b3/b3a1a233-9056-4369-a42d-f237fc96335c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/06/06c32d87-f72e-455f-94ff-0d524f1268d2?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/8e/8ef76140-d445-45d9-bf55-c49afd8c72b7?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/70/7034c718-682c-418a-aed9-626dce09c2c6?rule=mo-640.jpg"
-      ],
-      "category": "Coach",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53365804274656",
-      "reserved": true,
-      "listed": "2026-10-29T15:12:02+01:00"
-    },
-    {
       "id": "54020039834976",
       "title": "MERCEDES-BENZ ATEGO 824 KOFFER LBW KLIMA TOP",
       "make": "MERCEDES-BENZ",
@@ -267,36 +243,12 @@
       "listed": "2026-11-02T07:56:13+01:00"
     },
     {
-      "id": "54208739855264",
-      "title": "MERCEDES-BENZ O58 TRAVEGO RHD EURO5 SUPER ZUSTAND 50SITZE",
-      "make": "MERCEDES-BENZ",
-      "model": "",
-      "price": "",
-      "priceNet": "",
-      "vat": false,
-      "km": "950000",
-      "firstRegistration": "200904",
-      "description": "**Mercedes-Benz O 580 Travego Euro 5, 48+1+1 Sitze, Erste Hand**\\\\**Ausstattung:\\\\**\\\\- 48+1+1 Sitzplätze\\\\- Automatik\\\\- Klimaanlage\\\\- WC\\\\- TV\\\\- Kofferraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Luxusline\\\\- Standheizung\\\\- LED-Beleuchtung\\\\- Metallic-Lackierung\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Erste Hand\\\\- Deutsches Fahrzeug\\\\- Vollausstattung\\\\- Super Zustand\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/6f/6f079249-a08d-41c9-ba13-3b0371f37cfe?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/62/62015a32-3b84-449c-9eee-a0ff85e62e21?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/9a/9a048af6-a080-4f7d-ad99-116f90151c20?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/5c/5c13347d-27e7-4d00-be2b-1902ad68f10f?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/ab/ab7255bd-7d4a-4e5d-81f6-5c5c8a8e367c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/7b/7beea5df-92d6-4759-9865-d9b3376806a9?rule=mo-640.jpg"
-      ],
-      "category": "Coach",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=54208739855264",
-      "reserved": true,
-      "listed": "2026-11-03T09:31:51+01:00"
-    },
-    {
       "id": "54623603847296",
       "title": "MERCEDES-BENZ 1222L ATEGO KÜHLKOFFER THERMOKING LBW",
       "make": "MERCEDES-BENZ",
       "model": "",
-      "price": "5712.00",
-      "priceNet": "4800.00",
+      "price": "5355.00",
+      "priceNet": "4500.00",
       "vat": true,
       "km": "1000000",
       "firstRegistration": "200706",
@@ -363,28 +315,52 @@
       "listed": "2026-11-09T12:15:19+01:00"
     },
     {
-      "id": "55477317123808",
-      "title": "MERCEDES-BENZ Sprinter 317 CDI Pritsche Plane LBW Klima TOP",
-      "make": "MERCEDES-BENZ",
+      "id": "56533312824352",
+      "title": "MAN 26.360 TGS TOP ZUSTAND Erste Hand Automatik",
+      "make": "MAN",
       "model": "",
       "price": "",
       "priceNet": "",
       "vat": false,
-      "km": "360000",
-      "firstRegistration": "202211",
-      "description": "**Mercedes-Benz Sprinter 317 CDI Pritsche Plane Curtainsider mit Ladebordwand Super Zustand**\\\\**\\\\\\\\Ausstattung:\\\\**\\\\- 2,0 l Diesel\\\\- Getriebe: Automatik\\\\- Heckantrieb\\\\- 3 Sitzplätze\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Planenaufbau von Junge Fahrzeugbau mit Seitenplanen (Curtainsider)\\\\- Ladebordwand MBB PTC 750 L, 750 kg Hubkraft\\\\- Klima- Rückffahrtkamera\\\\\\\\**Sonstiges:\\\\**\\\\- Bereifung 235/65 R16C\\\\- Top Zustand\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "km": "524000",
+      "firstRegistration": "201802",
+      "description": "**MAN TGS 26.360 Fahrgestell, Erste Hand, Top-Zustand**\\\\\\\\\\\\**Ausstattung:\\\\\\\\**\\\\- Automatikgetriebe\\\\- Klimaanlage\\\\- Elektrische Fensterheber\\\\\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\\\\\- Aus erster Hand\\\\- Top gepflegter Zustand\\\\- Reifen ca. 80 %\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/ed/ed8b1654-866c-4e75-96c7-26786b7fc6fd?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/98/982db1fd-36db-4206-8e48-0ad4aafa5f15?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/19/19894e2d-5bb1-4e67-bfba-6765411cfcec?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/4d/4d7c001d-0c58-4c61-8e38-c96ab0f67c2c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/52/521351ab-a5db-48fe-92d1-e71cb2196dd5?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/02/02d591e3-b1bd-445a-8dbf-2082cb1bdb33?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/61/613e75ee-bbb1-426d-a715-e0eb866f4850?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/46/4614a0ca-29d0-478e-906c-06a2823b3141?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/39/3962154d-a08e-47f2-a117-16470d0b8eff?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/10/10bd6d2b-1907-435e-a1ea-001ab60d45bb?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/82/824606b6-c271-404b-ae45-19db908486ad?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/bf/bfa67799-c5e1-45ee-bd4a-d966934a4b89?rule=mo-640.jpg"
       ],
-      "category": "StakeBodyWithTarpaulinVan",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55477317123808",
-      "reserved": true,
-      "listed": "2026-11-10T13:35:34+01:00"
+      "category": "ChassisTruck",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=56533312824352",
+      "reserved": false,
+      "listed": "2026-11-16T12:49:17+01:00"
+    },
+    {
+      "id": "56534707807872",
+      "title": "MERCEDES-BENZ O530 Linienbus, Euro 5 EEV, gepflegter Zustand",
+      "make": "MERCEDES-BENZ",
+      "model": "",
+      "price": "7021.00",
+      "priceNet": "5900.00",
+      "vat": true,
+      "km": "890000",
+      "firstRegistration": "200904",
+      "description": "**Mercedes-Benz Citaro O530 Linienbus, Euro 5 EEV, gepflegter Zustand Kein TÜV**\\\\\\\\\\\\**Ausstattung:**\\\\- Euro 5 EEV\\\\- Reifenprofil ca. 80 %\\\\\\\\\\\\**Sonderausstattung:**\\\\- Fahrer-Klimaanlage\\\\- 43 Sitzplätze- 46 Stehplätze\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- Gepflegter technischer und optischer Zustand\\\\- Sofort einsatzbereit\\\\- Kein TÜV\\\\- Keine Klima\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/c0/c06e6aa2-b0f5-4a75-b4db-1a791b0825ee?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/af/af16eb17-e204-46bc-b1f0-01f4618913cc?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/cd/cd8e076a-ec71-4d5e-b56a-583fe7a3d38e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ca/ca29a804-9504-4fcb-8732-947ce4578e05?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/eb/ebc50cae-e404-4789-828b-2b13b0fa5d2e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/92/92f2257f-cc2a-4436-8ef0-6f41317c246d?rule=mo-640.jpg"
+      ],
+      "category": "PublicServiceVehicleBus",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=56534707807872",
+      "reserved": false,
+      "listed": "2026-11-16T13:00:38+01:00"
     }
   ]
 }
