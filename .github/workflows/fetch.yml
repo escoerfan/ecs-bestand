@@ -1,38 +1,61 @@
 name: Fahrzeugbestand abrufen
 
+# GitHub startet geplante Läufe oft Stunden zu spät. Darum läuft der Abruf als
+# Kette: Jeder Lauf ruft den Bestand 10× im Abstand von 30 Min. ab (≈ 5 Std.)
+# und startet danach selbst den nächsten Lauf. Der Zeitplan ist nur der
+# Notstart, falls die Kette einmal abreißt.
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:   # wird alle 30 Min. von cron-job.org angestoßen (GitHub verzögert den Zeitplan oben um Stunden)
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      runden:
+        description: 'Anzahl Abrufe in diesem Lauf (je 30 Min.)'
+        default: '10'
 
-# Nie zwei Abrufe gleichzeitig – sonst scheitert der zweite beim Push.
+# Nie zwei Läufe gleichzeitig. Ein wartender Notstart wird durch den
+# nächsten Kettenlauf ersetzt, so bleibt es immer bei einer Kette.
 concurrency:
   group: bestand
   cancel-in-progress: false
 
+permissions:
+  contents: write   # bestand.json pushen
+  actions: write    # nächsten Lauf starten
+
 jobs:
   fetch-bestand:
     runs-on: ubuntu-latest
+    timeout-minutes: 340
 
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v4
 
-      - name: Fahrzeugbestand von Mobile.de abrufen
+      - name: Bestand alle 30 Minuten abrufen
         env:
           MOBILE_USER: ${{ secrets.MOBILE_USER }}
           MOBILE_PASS: ${{ secrets.MOBILE_PASS }}
-        run: python3 fetch_bestand.py
-
-      - name: JSON committen und pushen
+          RUNDEN: ${{ inputs.runden || '10' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add bestand.json
-          if git diff --staged --quiet; then
-            echo "Keine Änderung am Bestand."
-          else
-            git commit -m "Bestand aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase
-            git push
-          fi
+          for i in $(seq 1 "$RUNDEN"); do
+            echo "── Abruf $i von $RUNDEN ($(date -u +'%H:%M UTC')) ──"
+            git pull --rebase --quiet || true
+            python3 fetch_bestand.py || echo "Abruf fehlgeschlagen – nächster Versuch in 30 Min."
+            git add bestand.json
+            if git diff --staged --quiet; then
+              echo "Keine Änderung am Bestand."
+            else
+              git commit -m "Bestand aktualisiert $(date -u +'%Y-%m-%d %H:%M UTC')"
+              git pull --rebase --quiet && git push || echo "Push fehlgeschlagen – nächster Versuch in 30 Min."
+            fi
+            sleep 1800
+          done
+
+      - name: Nächsten Lauf starten
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run fetch.yml --ref main -R "${{ github.repository }}"
