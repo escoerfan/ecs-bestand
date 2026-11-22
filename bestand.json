@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T08:40:35.958710+00:00",
-  "count": 14,
+  "updated": "2026-11-22T16:46:01.064510+00:00",
+  "count": 12,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -47,7 +47,7 @@
       ],
       "category": "StakeBodyAndTarpaulinTruck",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280",
-      "reserved": false,
+      "reserved": true,
       "listed": "2026-08-20T22:36:53+02:00"
     },
     {
@@ -73,30 +73,6 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=443910475",
       "reserved": false,
       "listed": "2025-12-16T09:02:14+01:00"
-    },
-    {
-      "id": "458861958",
-      "title": "MAN 15.290 Schlafkabine Pritsche Plane",
-      "make": "MAN",
-      "model": "",
-      "price": "22015.00",
-      "priceNet": "18500.00",
-      "vat": true,
-      "km": "536000",
-      "firstRegistration": "201607",
-      "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane, Schlafkabine, erste Hand**\\\\\\\\\\\\\\\\**Ausstattung:**\\\\\\\\- Fernverkehrsfahrerhaus mit Schlafkabine und Liege\\\\- Aufbau Pritsche mit Plane\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Anhänger nicht im Preis enthalten, gegen Aufpreis erhältlich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch! **Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/71/71cb76fb-38f9-427b-b8fb-8303324b4789?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7c95a03-828e-40d0-a0ac-816d6f96ba7b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/84/84d96df8-bf71-4319-8ed4-cda426bad1f8?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e4220e9-d587-4e2e-96e4-f5aace875968?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0a/0a5cac01-bca8-4ac4-9e33-16bdccbe813d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/4f/4fdd9aad-a18b-4bf1-af87-ddfee8e05704?rule=mo-640.jpg"
-      ],
-      "category": "SwapChassisTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=458861958",
-      "reserved": false,
-      "listed": "2026-06-22T12:49:14+02:00"
     },
     {
       "id": "49483244700672",
@@ -289,30 +265,6 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=55290508966944",
       "reserved": false,
       "listed": "2026-11-09T12:15:19+01:00"
-    },
-    {
-      "id": "56533312824352",
-      "title": "MAN 26.360 TGS 6X2 LINK LIFT ACHSE 1 HAND",
-      "make": "MAN",
-      "model": "",
-      "price": "",
-      "priceNet": "",
-      "vat": false,
-      "km": "524000",
-      "firstRegistration": "201802",
-      "description": "* \\\\MAN **TGS 26.360 Fahrgestell, Erste Hand, Top-Zustand**\\\\\\\\* **6X2 LUFT GEFEDERT**\\\\* **LINK LIFT ACHSE**\\\\* **AUTOMATIK**\\\\* **E.F.H**\\\\\\\\**Ausstattung:\\\\\\\\**\\\\- Automatikgetriebe\\\\- Klimaanlage\\\\- Elektrische Fensterheber\\\\\\\\\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Standheizung\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\\\\\- Aus erster Hand\\\\- Top gepflegter Zustand\\\\- Reifen ca. 80 %\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298, per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/61/613e75ee-bbb1-426d-a715-e0eb866f4850?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/46/4614a0ca-29d0-478e-906c-06a2823b3141?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/39/3962154d-a08e-47f2-a117-16470d0b8eff?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/10/10bd6d2b-1907-435e-a1ea-001ab60d45bb?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/82/824606b6-c271-404b-ae45-19db908486ad?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/bf/bfa67799-c5e1-45ee-bd4a-d966934a4b89?rule=mo-640.jpg"
-      ],
-      "category": "ChassisTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=56533312824352",
-      "reserved": true,
-      "listed": "2026-11-16T12:49:17+01:00"
     },
     {
       "id": "56534707807872",
