@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:18:33.059843+00:00",
+  "updated": "2026-11-23T16:48:37.438074+00:00",
   "count": 14,
   "vehicles": [
     {
@@ -316,15 +316,15 @@
     },
     {
       "id": "57767866048800",
-      "title": "KRONE SD Planenauflieger",
+      "title": "KRONE PRITSCHEPLANE EDSCHAVERDECK LINK ACHSE",
       "make": "KRONE",
       "model": "",
-      "price": "",
-      "priceNet": "",
-      "vat": false,
+      "price": "5831.00",
+      "priceNet": "4900.00",
+      "vat": true,
       "km": "",
       "firstRegistration": "201604",
-      "description": "**Krone SD Planenauflieger mit Staplerhalterung und Liftachse**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Plane und Spriegel\\\\- Bereifung 385/65 R22,5\\\\- Achsabstände 1.310 / 2.050 mm\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Halterung für Mitnahmestapler am Heck\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose\\\\\\\\Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**Krone SD Planenauflieger EDSCHA LINKACHSE mit Staplerhalterung und Liftachse**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Plane und Spriegel\\\\- Bereifung 385/65 R22,5\\\\- Achsabstände 1.310 / 2.050 mm\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Halterung für Mitnahmestapler am Heck\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose\\\\\\\\Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/dc/dcf7f2eb-37e3-428e-b216-073fc23079c0?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/7f/7fcbc1cc-3b6c-4b55-ada1-963ec5105d5d?rule=mo-640.jpg",
