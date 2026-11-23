@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23T10:47:51.988456+00:00",
-  "count": 13,
+  "updated": "2026-11-23T11:17:55.897713+00:00",
+  "count": 14,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -300,7 +300,7 @@
       "vat": false,
       "km": "662000",
       "firstRegistration": "201604",
-      "description": "**MAN TGX 18.440 Standard Sattelzugmaschine aus Erster Hand TOP Zustand **\\\\\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Motor MAN D26\\\\- Bereifung 315/70 R22,5\\\\- 2 Sitzplätze\\\\- Schlafkabine\\\\\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- TÜV bis 01/27\\\\- Klima\\\\- Aus Erster Hand!\\\\- Wird gegen Aufpreis mit Auflieger verkauft.\\\\\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**MAN TGX 18.440 Standard Sattelzugmaschine aus Erster Hand TOP Zustand **\\\\\\\\\\\\\\\\**Ausstattung:\\\\\\\\**- Bereifung 315/70 R22,5\\\\- 2 Sitzplätze\\\\- Schlafkabine\\\\\\\\\\\\\\\\**Sonstiges:**\\\\\\\\- TÜV bis 01/27\\\\- Klima\\\\- Aus Erster Hand!\\\\- Wird gegen Aufpreis mit Auflieger verkauft.\\\\\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/eb/ebb639e9-5d2a-4b9d-9595-8768261b7749?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/b6/b646914e-fb66-4267-b700-5d55f40edde2?rule=mo-640.jpg",
@@ -313,6 +313,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=57764199815488",
       "reserved": false,
       "listed": "2026-11-23T11:46:16+01:00"
+    },
+    {
+      "id": "57767866048800",
+      "title": "KRONE SD Planenauflieger",
+      "make": "KRONE",
+      "model": "",
+      "price": "",
+      "priceNet": "",
+      "vat": false,
+      "km": "",
+      "firstRegistration": "201604",
+      "description": "**Krone SD Planenauflieger mit Staplerhalterung und Liftachse**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Plane und Spriegel\\\\- Bereifung 385/65 R22,5\\\\- Achsabstände 1.310 / 2.050 mm\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Halterung für Mitnahmestapler am Heck\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose\\\\\\\\Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/dc/dcf7f2eb-37e3-428e-b216-073fc23079c0?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7f/7fcbc1cc-3b6c-4b55-ada1-963ec5105d5d?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/ff/ff069389-1b1b-468c-b8fe-9f36609d6355?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/b4/b423c108-ddc2-43ae-99b2-59d71dcfe390?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/36/3641f3fb-5690-4cd2-879a-44059f096f7c?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/46/465a0323-b03b-4c2b-b325-78fd7fff1c49?rule=mo-640.jpg"
+      ],
+      "category": "StakeBodyAndTarpaulinSemiTrailer",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=57767866048800",
+      "reserved": false,
+      "listed": "2026-11-23T12:16:06+01:00"
     }
   ]
 }
