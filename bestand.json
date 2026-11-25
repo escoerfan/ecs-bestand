@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:50:36.366867+00:00",
+  "updated": "2026-11-25T15:23:36.873189+00:00",
   "count": 14,
   "vehicles": [
     {
@@ -158,12 +158,12 @@
       "firstRegistration": "200803",
       "description": "**Mercedes-Benz O 580 Travego RHD VIP, 38+1+1 Sitze, Aus Erster Hand**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Klimaanlage\\\\- TV\\\\- Video\\\\- Mikrofonanlage\\\\- WC\\\\- Kühlbox\\\\- Gepäckraum\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- VIP-Bestuhlung mit 38 Sitzen + Reiseleiter + Fahrer\\\\- Radstandhochdach\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus Erster Hand\\\\- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Vollausstattung\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**\\\\",
       "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/de/deff85f9-3693-4f37-b6b4-782a3fe8c1d7?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/01/0184b635-9ea5-4ce4-bb67-98b1fc40fbc2?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/de/deff85f9-3693-4f37-b6b4-782a3fe8c1d7?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/7d/7dfa78c4-74c3-4f7c-a8c7-9ffdd7b62245?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/16/16c99c68-6630-45eb-9188-b9c4e993bac1?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ee25deb-b8aa-4ae8-bc7f-684baa985d6d?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/be/beb1b9f3-ead7-431d-9231-b9550c63196c?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/7d/7dfa78c4-74c3-4f7c-a8c7-9ffdd7b62245?rule=mo-640.jpg"
+        "https://img.classistatic.de/api/v1/mo-prod/images/40/40fa87e4-e207-4da6-af44-c89822c9fc71?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ee25deb-b8aa-4ae8-bc7f-684baa985d6d?rule=mo-640.jpg"
       ],
       "category": "Coach",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=53322089742432",
@@ -172,7 +172,7 @@
     },
     {
       "id": "54020039834976",
-      "title": "MERCEDES-BENZ ATEGO 824 KOFFER LBW KLIMA TOP",
+      "title": "MERCEDES-BENZ ATEGO 824 KOFFER KLIMA LBW KLIMA TOP",
       "make": "MERCEDES-BENZ",
       "model": "",
       "price": "10591.00",
@@ -180,7 +180,7 @@
       "vat": true,
       "km": "300000",
       "firstRegistration": "200909",
-      "description": "**Mercedes-Benz Atego 824 Koffer mit Ladebordwand und Klimaanlage**\\\\\\\\\\\\**Ausstattung**:\\\\\\\\- Klimaanlage\\\\- Radio\\\\- Zentralverriegelung\\\\- Federung vorne Blatt, hinten Luft\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Ladebordwand\\\\\\\\**Sonstiges:\\\\**\\\\- Gepflegter Zustand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**Mercedes-Benz Atego 824 Koffer mit Ladebordwand und Klimaanlage**\\\\\\\\\\\\**Ausstattung**:\\\\\\\\- Klimaanlage\\\\  E.F.H\\\\- Radio\\\\- Zentralverriegelung\\\\- Federung vorne Blatt, hinten Luft\\\\  AHK\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Ladebordwand\\\\\\\\**Sonstiges:\\\\**\\\\- Gepflegter Zustand\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter\\\\+49 (0) 171 362 1298 – per WhatsApp oder telefonisch! Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea02a1fd-7875-47d9-8c98-05808082f858?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/53/53bfa752-e45f-4138-bc26-87b330691186?rule=mo-640.jpg",
@@ -316,7 +316,7 @@
     },
     {
       "id": "57767866048800",
-      "title": "KRONE PRITSCHE PLANE Edscha-Verdeck Lenkachse TÜV",
+      "title": "KRONE PRITSCHE PLANE STANDARD Lenkachse TÜV",
       "make": "KRONE",
       "model": "",
       "price": "5831.00",
@@ -324,7 +324,7 @@
       "vat": true,
       "km": "",
       "firstRegistration": "201604",
-      "description": "**Krone SD Planenauflieger EDSCHA Lenkachse mit Staplerhalterung und Liftachse**\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Plane und Spriegel\\\\- Bereifung 385/65 R22,5\\\\- Achsabstände 1.310 / 2.050 mm\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Halterung für Mitnahmestapler am Heck\\\\- Lenkachse\\\\- Edscha Verdeck\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose\\\\\\\\Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
+      "description": "**Krone SD Planenauflieger EDSCHA Lenkachse mit Staplerhalterung **\\\\\\\\\\\\**Ausstattung:\\\\**\\\\- Plane und Spriegel\\\\- Bereifung 385/65 R22,5\\\\- Achsabstände 1.310 / 2.050 mm\\\\\\\\\\\\**Sonderausstattung:\\\\**\\\\- Halterung für Mitnahmestapler am Heck\\\\- Lenkachse\\\\- Edscha Verdeck\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose\\\\\\\\Abwicklung. Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
       "images": [
         "https://img.classistatic.de/api/v1/mo-prod/images/dc/dcf7f2eb-37e3-428e-b216-073fc23079c0?rule=mo-640.jpg",
         "https://img.classistatic.de/api/v1/mo-prod/images/7f/7fcbc1cc-3b6c-4b55-ada1-963ec5105d5d?rule=mo-640.jpg",
