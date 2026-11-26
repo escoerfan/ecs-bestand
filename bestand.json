@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T15:23:36.873189+00:00",
-  "count": 14,
+  "updated": "2026-11-26T13:55:43.992205+00:00",
+  "count": 13,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -25,30 +25,6 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=39233274649312",
       "reserved": false,
       "listed": "2026-08-10T19:21:12+02:00"
-    },
-    {
-      "id": "41026791217280",
-      "title": "MAN 15.290 Schlafkabine Pritsche Plane",
-      "make": "MAN",
-      "model": "",
-      "price": "22015.00",
-      "priceNet": "18500.00",
-      "vat": true,
-      "km": "536000",
-      "firstRegistration": "201607",
-      "description": "**MAN TGM 15.290 Wechselfahrgestell Pritsche/Plane, Schlafkabine, erste Hand**\\\\\\\\\\\\\\\\**Ausstattung:**\\\\\\\\- Fernverkehrsfahrerhaus mit Schlafkabine und Liege\\\\- Aufbau Pritsche mit Plane\\\\\\\\\\\\\\\\**Sonstiges:\\\\**\\\\- Aus erster Hand- Deutsches Fahrzeug\\\\- Gepflegter Zustand\\\\- Anhänger nicht im Preis enthalten, gegen Aufpreis erhältlich\\\\\\\\\\\\\\\\Für Rückfragen oder eine persönliche Beratung erreichen Sie uns unter +49 (0) 171 362 1298 – per WhatsApp oder telefonisch!\\\\Wir sind Experten in Verzollung und Export und bieten Ihnen dank unserer langjährigen Erfahrung und Kontakte eine reibungslose Abwicklung.\\\\Wir freuen uns auf Ihren Anruf oder Besuch!\\\\\\\\\\\\**Irrtümer, Änderungen und Zwischenverkauf vorbehalten.**",
-      "images": [
-        "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7c95a03-828e-40d0-a0ac-816d6f96ba7b?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea50fee9-72d5-478c-bd86-d40f9b6ca453?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/71/71cb76fb-38f9-427b-b8fb-8303324b4789?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/72/72d65c14-4cf4-4282-981d-26cf58485578?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/0f/0fe27ce3-9c59-4a8c-a882-81351add5291?rule=mo-640.jpg",
-        "https://img.classistatic.de/api/v1/mo-prod/images/91/91e9b646-c467-41a1-a381-68369201f2e7?rule=mo-640.jpg"
-      ],
-      "category": "StakeBodyAndTarpaulinTruck",
-      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=41026791217280",
-      "reserved": true,
-      "listed": "2026-08-20T22:36:53+02:00"
     },
     {
       "id": "443910475",
