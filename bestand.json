@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T13:55:43.992205+00:00",
-  "count": 13,
+  "updated": "2026-11-26T14:25:48.318209+00:00",
+  "count": 14,
   "vehicles": [
     {
       "id": "39233274649312",
@@ -313,6 +313,30 @@
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=57767866048800",
       "reserved": false,
       "listed": "2026-11-23T12:16:06+01:00"
+    },
+    {
+      "id": "58318598746432",
+      "title": "IVECO 70C17 ABSCHLEPPWAGEN SCHIEBEPLATE",
+      "make": "IVECO",
+      "model": "",
+      "price": "16065.00",
+      "priceNet": "13500.00",
+      "vat": true,
+      "km": "289000",
+      "firstRegistration": "201204",
+      "description": "* **IVECO ABSCHLEPP WAGEN  70C17 VOLL**\\\\",
+      "images": [
+        "https://img.classistatic.de/api/v1/mo-prod/images/b7/b7b3e888-229a-466a-9cfe-4e67bc6e6fe1?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/2d/2d869574-9d54-4edd-8cba-cc4ad491b178?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/84/84987fcb-ca56-49b3-bb98-25c6af17c36e?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/6a/6aa92ad0-fe54-4ca6-b9bd-a8700bacf1b9?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/25/2509d6d3-ef2c-4b65-8b74-c2722f4806b6?rule=mo-640.jpg",
+        "https://img.classistatic.de/api/v1/mo-prod/images/fb/fb069d07-064c-4a4f-9e73-120c394bb8fe?rule=mo-640.jpg"
+      ],
+      "category": "BreakdownTruckVan",
+      "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=58318598746432",
+      "reserved": false,
+      "listed": "2026-11-26T14:57:58+01:00"
     }
   ]
 }
