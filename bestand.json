@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:25:48.318209+00:00",
+  "updated": "2026-11-26T15:55:56.262707+00:00",
   "count": 14,
   "vehicles": [
     {
@@ -335,7 +335,7 @@
       ],
       "category": "BreakdownTruckVan",
       "mobileUrl": "https://www.mobile.de/fahrzeuge/details.html?id=58318598746432",
-      "reserved": false,
+      "reserved": true,
       "listed": "2026-11-26T14:57:58+01:00"
     }
   ]
